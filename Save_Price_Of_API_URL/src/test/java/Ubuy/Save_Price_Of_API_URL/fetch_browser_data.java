@@ -18,8 +18,8 @@ public class fetch_browser_data
     static String detail_url = null;
     
     public static List<String> all_urls = new ArrayList<>();
-	
-	public fetch_browser_data(WebDriver driver)
+
+    fetch_browser_data(WebDriver driver)
     {
     	this.driver = driver;
     }
