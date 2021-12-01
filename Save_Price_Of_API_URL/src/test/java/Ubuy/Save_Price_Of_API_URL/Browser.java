@@ -1,14 +1,23 @@
 package Ubuy.Save_Price_Of_API_URL;
 
+import java.io.IOException;
 import java.net.MalformedURLException;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
+
+import javax.mail.MessagingException;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+import mail.Screenshot;
+import mail.SendMail;
 
 public class Browser 
 {
@@ -33,14 +42,31 @@ public class Browser
 	
 	public void launch_chrome()
     {
-    	WebDriverManager.chromedriver().setup();
+		//WebDriverManager.chromedriver().setup();
+		
+		System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir")+"/chromedriver.exe");
     	
-    	driver = new ChromeDriver();
+    	ChromeOptions options = new ChromeOptions();
+    	
+    	options.addArguments("headless");
+    	
+    	driver = new ChromeDriver(options);
     	
     	driver.manage().window().maximize();
     	
     	js = (JavascriptExecutor) driver;
     }
+	
+	
+		public static String print_Current_Date_And_Time()
+		{
+			 DateTimeFormatter dtf = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm:ss");  
+			
+			 LocalDateTime now = LocalDateTime.now();  
+			 
+			 return dtf.format(now);
+		}
+
 	
 	public void hit_api_url()
 	{
@@ -50,6 +76,8 @@ public class Browser
 	public void open_new_tabs(int min_limit, int max_limit) throws InterruptedException, MalformedURLException
 	{
 		url_count = min_limit;
+		
+		int tab_count = 1;
 		
 		try {
 			
@@ -61,11 +89,13 @@ public class Browser
 			    
 			    List<String> tabs = new ArrayList<>(driver.getWindowHandles());
 				
-				driver.switchTo().window(tabs.get(url_count));
+				driver.switchTo().window(tabs.get(tab_count));
 				
 				driver.get(url);
 			    
 			    url_count++;
+			    
+			    tab_count++;
 			}
 		}
 		catch (Exception e) 
@@ -92,18 +122,25 @@ public class Browser
 		}
 	}
 	
-	public void close_tabs() throws InterruptedException
+	public void close_tabs() throws InterruptedException, IOException, MessagingException
 	{
 		List<String> tabs = new ArrayList<>(driver.getWindowHandles());
 		
 		int tab_count = 0;
 		
-		while(tab_count<url_count) 
+		while(tab_count <= url_count) 
 		{
 		
 		    driver.switchTo().window(tabs.get(tab_count));
 		
-		    if(verify_xpath("//h3[@class='h2-heading price']") == true)
+		    if(tab_count == 0)
+		    {
+		    	driver.close();
+		    	
+		    	tab_count++;
+		    }
+		    
+		    else if(verify_xpath("//h3[@class='h2-heading price']") == true)
 		    {			
 		    	price_available_url.add(driver.getCurrentUrl());
 			
@@ -113,10 +150,8 @@ public class Browser
 		    }
 		
 		    else if(verify_xpath("//div[@class='detail-page-skelton container card-skeleton']") == true)
-		    {
-		    	driver.navigate().refresh();
-			
-			    Thread.sleep(3000);
+		    {			
+			    Thread.sleep(5000);
 			
 			    if(verify_xpath("//h3[@class='h2-heading price']") == true)
 		    	{
@@ -143,6 +178,10 @@ public class Browser
 			    {
 			    	not_refreshed_url.add(driver.getCurrentUrl());
 			 	
+			    	Screenshot.takescreenshot();
+					
+					SendMail.send_error_mail();
+			    	
 			    	driver.close();	
 			    }
 			
@@ -150,17 +189,18 @@ public class Browser
 			    {
 			    	not_refreshed_url.add(driver.getCurrentUrl());
 				
+			    	Screenshot.takescreenshot();
+					
+					SendMail.send_error_mail();
+			    	
 			    	driver.close();	
 			    }
 			    tab_count++;
-			
 		    }
 		
 		    else if(verify_xpath("//div[@class='loader-spin-overlay loading']/div") == true)
-		    {
-		    	driver.navigate().refresh();
-			
-		    	Thread.sleep(3000);
+		    {			
+		    	Thread.sleep(5000);
 			
 		    	if(verify_xpath("//h3[@class='h2-heading price']") == true)
 		      	{
@@ -187,6 +227,10 @@ public class Browser
 			    {
 			    	not_refreshed_url.add(driver.getCurrentUrl());
 				
+			    	Screenshot.takescreenshot();
+					
+					SendMail.send_error_mail();
+			    	
 			    	driver.close();
 			    }
 			
@@ -194,6 +238,10 @@ public class Browser
 			    {
 			    	not_refreshed_url.add(driver.getCurrentUrl());
 				
+			    	Screenshot.takescreenshot();
+					
+					SendMail.send_error_mail();	
+			    	
 			    	driver.close();
 			    }
 		    	tab_count++;
@@ -217,8 +265,6 @@ public class Browser
 		  	
 		    	tab_count++;
 		    }
-		    Thread.sleep(1000);
-		
 	    }
 		
 	}
@@ -227,55 +273,55 @@ public class Browser
 	{
 		int count = 1;
 		
-		System.out.println("URL in which price is available are : \n");
+		Index.data_stream.append("URL in which price is available are : \r\n");
 		
 		for(String url : price_available_url)
 		{
-			System.out.println(count+". "+url);
+			Index.data_stream.append(count+". "+url);
 			
 			count++;
 		}
 		
-		System.out.println("\nNot Refreshed page url are : \n");
+		Index.data_stream.append("\nNot Refreshed page url are : \r\n");
 		
 		count = 1;
 		
         for(String url : not_refreshed_url)
         {
-			System.out.println(count+". "+url);
+        	Index.data_stream.append(count+". "+url);
 			
 			count++;
 		}
 		
-		System.out.println("\nNot found page url are : \n");
+        Index.data_stream.append("\nNot found page url are : \r\n");
 		
 		count = 1;
 		
 		for(String url : not_found_page_url)
         {
-			System.out.println(count+". "+url);
+			Index.data_stream.append(count+". "+url);
 			
 			count++;
 		}
 		
-		System.out.println("\nOut of stock page url are : \n");
+		Index.data_stream.append("\nOut of stock page url are : \r\n");
 		
 		count = 1;
 		
 		for(String url : out_of_stock_url)
         {
-			System.out.println(count+". "+url);
+			Index.data_stream.append(count+". "+url);
 			
 			count++;
 		}
 		
-		System.out.println("\nRestricted page url are : \n");
+		Index.data_stream.append("\nRestricted page url are : \r\n");
 		
 		count = 1;
 		
 		for(String url : restricted_product_url)
         {
-			System.out.println(count+". "+url);
+			Index.data_stream.append(count+". "+url+"\r\n\r\n");
 			
 			count++;
 		}

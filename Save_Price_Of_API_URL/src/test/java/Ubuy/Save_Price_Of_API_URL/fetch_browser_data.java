@@ -38,8 +38,11 @@ public class fetch_browser_data
 		    {
 		    	if(last_index == -1)
 		    	{
-		    	
-		    	    System.out.println("All urls have been added to list.");
+		    		Index.data_stream.append("Total URL count is "+all_urls.size());
+		    		
+		    		System.out.println("All urls have been added to list.\r\n");
+		    		
+		    		System.out.println(all_urls);
 		    	
 		    	    break;
 		        }
