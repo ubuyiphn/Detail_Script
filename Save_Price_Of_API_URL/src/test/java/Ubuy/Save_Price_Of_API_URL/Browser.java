@@ -6,9 +6,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
-
 import javax.mail.MessagingException;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
@@ -70,7 +68,9 @@ public class Browser
 	
 	public void hit_api_url()
 	{
-		driver.get("https://www.a.ubuy.com.kw/am/google_content_api/get_products_url_script.php?time=23234");
+		//driver.get("https://www.a.ubuy.com.kw/am/google_content_api/get_products_url_script.php?time=23234");
+		
+		driver.get("https://www.a.ubuy.com.kw/am/google_content_api2_1/get_products_url_script.php?time=23sdfsdfs");
 	}
 	
 	public void open_new_tabs(int min_limit, int max_limit) throws InterruptedException, MalformedURLException
@@ -273,58 +273,70 @@ public class Browser
 	{
 		int count = 1;
 		
-		Index.data_stream.append("URL in which price is available are : \r\n");
+		Index.price_saved_urls_file_stream.append("URL in which price is available are : \r\n");
 		
 		for(String url : price_available_url)
 		{
-			Index.data_stream.append(count+". "+url);
+			Index.price_saved_urls_file_stream.append(count+". "+url+"\r\n");
 			
 			count++;
 		}
 		
-		Index.data_stream.append("\nNot Refreshed page url are : \r\n");
+		price_available_url.clear();
+		
+		Index.not_loaded_urls_file_stream.append("\r\nNot loaded page url are : \r\n");
 		
 		count = 1;
 		
         for(String url : not_refreshed_url)
         {
-        	Index.data_stream.append(count+". "+url);
+        	Index.not_loaded_urls_file_stream.append(count+". "+url+"\r\n");
 			
 			count++;
 		}
 		
-        Index.data_stream.append("\nNot found page url are : \r\n");
+        not_refreshed_url.clear();
+        
+        Index.not_found_urls_file_stream.append("\r\nNot found page url are : \r\n");
 		
 		count = 1;
 		
 		for(String url : not_found_page_url)
         {
-			Index.data_stream.append(count+". "+url);
+			Index.not_found_urls_file_stream.append(count+". "+url+"\r\n");
 			
 			count++;
 		}
 		
-		Index.data_stream.append("\nOut of stock page url are : \r\n");
+		not_found_page_url.clear();
+		
+		Index.out_of_stock_urls_file_stream.append("\r\nOut of stock page url are : \r\n");
 		
 		count = 1;
 		
 		for(String url : out_of_stock_url)
         {
-			Index.data_stream.append(count+". "+url);
+			Index.out_of_stock_urls_file_stream.append(count+". "+url+"\r\n");
 			
 			count++;
 		}
 		
-		Index.data_stream.append("\nRestricted page url are : \r\n");
+		out_of_stock_url.clear();
+		
+		Index.restricted_urls_file_stream.append("\r\nRestricted page url are : \r\n");
 		
 		count = 1;
 		
 		for(String url : restricted_product_url)
         {
-			Index.data_stream.append(count+". "+url+"\r\n\r\n");
+			Index.restricted_urls_file_stream.append(count+". "+url+"\r\n\r\n");
 			
 			count++;
 		}
+		
+		restricted_product_url.clear();
+		
+		
 	}
 	
 }

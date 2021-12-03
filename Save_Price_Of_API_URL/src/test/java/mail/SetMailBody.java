@@ -14,7 +14,7 @@ public class SetMailBody extends SetPropertiesOfSSLEmail
 		 System.setProperty("mail.smtp.ssl.protocols", "TLSv1.3");
             message = new MimeMessage(session);
             message.setFrom(new InternetAddress(from));
-            message.addRecipient(Message.RecipientType.TO, new InternetAddress(to,cc));            
+            message.addRecipient(Message.RecipientType.TO, new InternetAddress(to));            
             
             message.setSubject("Error on api detail page");
 
@@ -30,15 +30,31 @@ public class SetMailBody extends SetPropertiesOfSSLEmail
 			MimeBodyPart consoleoutput = new MimeBodyPart();
 			consoleoutput.attachFile(Index.console_output_file_path);
 			
-			MimeBodyPart speed_data = new MimeBodyPart();
-			speed_data.attachFile(Index.data_file_path);
+			MimeBodyPart price_saved_urls_data = new MimeBodyPart();
+			price_saved_urls_data.attachFile(Index.price_saved_urls_file_path);
+			
+			MimeBodyPart out_of_stock_urls_data = new MimeBodyPart();
+			out_of_stock_urls_data.attachFile(Index.out_of_stock_urls_file_path);
+			
+			MimeBodyPart not_found_urls_data = new MimeBodyPart();
+			not_found_urls_data.attachFile(Index.not_found_urls_file_path);
+			
+			MimeBodyPart restricted_urls_data = new MimeBodyPart();
+			restricted_urls_data.attachFile(Index.restricted_urls_file_path);
+			
+			MimeBodyPart not_loaded_urls_data = new MimeBodyPart();
+			not_loaded_urls_data.attachFile(Index.not_loaded_urls_file_path);			
 
 			Multipart multipart = new MimeMultipart();
 			multipart.addBodyPart(messagebodypart);
 			multipart.addBodyPart(attachmentpart);
 			multipart.addBodyPart(signaturepart);
 			multipart.addBodyPart(consoleoutput);
-			multipart.addBodyPart(speed_data);
+			multipart.addBodyPart(price_saved_urls_data);
+			multipart.addBodyPart(out_of_stock_urls_data);
+			multipart.addBodyPart(not_found_urls_data);
+			multipart.addBodyPart(restricted_urls_data);
+			multipart.addBodyPart(not_loaded_urls_data);
 			
 			message.setContent(multipart);
 		} catch (Exception e) {

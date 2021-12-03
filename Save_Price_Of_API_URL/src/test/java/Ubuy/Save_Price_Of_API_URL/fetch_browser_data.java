@@ -38,7 +38,7 @@ public class fetch_browser_data
 		    {
 		    	if(last_index == -1)
 		    	{
-		    		Index.data_stream.append("Total URL count is "+all_urls.size());
+		    		Index.console_output_stream.append("\r\n\r\n\r\nTotal URL count is "+all_urls.size()+"\r\n\r\n\r\n");
 		    		
 		    		System.out.println("All urls have been added to list.\r\n");
 		    		
