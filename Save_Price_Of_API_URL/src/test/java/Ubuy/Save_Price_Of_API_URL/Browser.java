@@ -40,13 +40,13 @@ public class Browser
 	
 	public void launch_chrome()
     {
-		//WebDriverManager.chromedriver().setup();
+		WebDriverManager.chromedriver().setup();
 		
-		System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir")+"/chromedriver.exe");
+		//System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir")+"/chromedriver.exe");
     	
     	ChromeOptions options = new ChromeOptions();
     	
-    	options.addArguments("headless");
+    	//options.addArguments("headless");
     	
     	driver = new ChromeDriver(options);
     	
@@ -92,6 +92,8 @@ public class Browser
 				driver.switchTo().window(tabs.get(tab_count));
 				
 				driver.get(url);
+				
+				System.out.println(url);
 			    
 			    url_count++;
 			    
@@ -284,6 +286,8 @@ public class Browser
 		
 		price_available_url.clear();
 		
+		//System.out.println("price saved urls count is "+price_available_url.size());
+		
 		Index.not_loaded_urls_file_stream.append("\r\nNot loaded page url are : \r\n");
 		
 		count = 1;
@@ -296,6 +300,8 @@ public class Browser
 		}
 		
         not_refreshed_url.clear();
+        
+        //System.out.println("not_refreshed_url count is "+not_refreshed_url.size());
         
         Index.not_found_urls_file_stream.append("\r\nNot found page url are : \r\n");
 		
@@ -310,6 +316,8 @@ public class Browser
 		
 		not_found_page_url.clear();
 		
+		//System.out.println("not_found_page_url count is "+not_found_page_url.size());
+		
 		Index.out_of_stock_urls_file_stream.append("\r\nOut of stock page url are : \r\n");
 		
 		count = 1;
@@ -323,6 +331,8 @@ public class Browser
 		
 		out_of_stock_url.clear();
 		
+		//System.out.println("out_of_stock_url count is "+out_of_stock_url.size());
+		
 		Index.restricted_urls_file_stream.append("\r\nRestricted page url are : \r\n");
 		
 		count = 1;
@@ -335,6 +345,12 @@ public class Browser
 		}
 		
 		restricted_product_url.clear();
+		
+		//System.out.println("restricted_product_url count is "+restricted_product_url.size());
+		
+		fetch_browser_data.all_urls.clear();
+		
+		//System.out.println(fetch_browser_data.all_urls);
 		
 		
 	}

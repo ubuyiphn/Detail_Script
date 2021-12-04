@@ -32,6 +32,8 @@ public class fetch_browser_data
 		        detail_url = html.substring(first_index, last_index).replace("\\/", "/");
 		
 		        all_urls.add(detail_url);
+		        
+		        //System.out.println(detail_url);
 		    }
 		    
 		    catch(Exception e)

@@ -3,7 +3,8 @@ package mail;
 import javax.mail.*;
 
 public class SetPropertiesOfSSLEmail {
-	public static String to = "rahul.sharma@ubuy.com";
+	public static String cc = "rahul.sharma@ubuy.com";
+	public static String to = "himanshu.khandelwal@ubuy.com";
 	public static String from = "ubuyiphn@gmail.com";
 	public static String host = "smtp.gmail.com";
 	public static final String username = "ubuyiphn@gmail.com";

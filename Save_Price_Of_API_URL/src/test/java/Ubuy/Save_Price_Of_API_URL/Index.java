@@ -62,9 +62,9 @@ public class Index
 		
 		console_output_stream = new PrintStream(new FileOutputStream(console_output_file_path));
 		
-		System.setOut(console_output_stream);
+		//System.setOut(console_output_stream);
 		
-		System.setErr(console_output_stream);
+		//System.setErr(console_output_stream);
 		
 		try
 		{
@@ -92,9 +92,9 @@ public class Index
     	
     	        int min_limit = 0;
     	
-    	        int max_limit = min_limit+29;
+    	        int max_limit = min_limit+2;
         
-    	        while(max_limit <= fetch_browser_data.all_urls.size())
+    	        while(min_limit <= 3/*fetch_browser_data.all_urls.size()*/)
     	        {
              
     	        	try
@@ -113,10 +113,14 @@ public class Index
     	
     	            min_limit = max_limit + 1;
     	    
-    	            max_limit = min_limit + 29;
+    	            max_limit = min_limit + 2;
     	        }
     	    
     	        browser.get_url_with_status();
+    	        
+                System.out.println("Loop is completed and mail is going to sent.");
+    	        
+    	        SendMail.send_data_mail();
             }
         }
 	
