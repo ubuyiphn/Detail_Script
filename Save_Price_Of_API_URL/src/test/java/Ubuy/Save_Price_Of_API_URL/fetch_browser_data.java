@@ -5,11 +5,7 @@ import java.util.List;
 
 public class fetch_browser_data 
 {    
-    static int first_index = 0;
-    
-    static int last_index = 0;
-    
-    static int last_https_index = 0;
+   
     
     static String detail_url = null;
     
@@ -17,15 +13,27 @@ public class fetch_browser_data
 	
 	public static void get_url()
 	{
+		 int first_index = 0;
+		    
+		 int last_index = 0;
+		    
+		 int last_https_index = 0;
+		
+		System.out.println("Trying to get urls.");
+		
 		String html =  Browser.js.executeScript("return document.body.innerHTML;").toString();
 		
 		last_https_index = html.lastIndexOf("\"]");
+		
+		System.out.println("last https index is "+last_https_index);
 		
 		while(first_index <= last_https_index)
 		{
 			first_index = html.indexOf("https:",last_index);
 			
 			last_index = html.indexOf("\",",last_index+1);
+			
+			System.out.println(first_index+"indexes"+last_index);
 		    
 		    try
 		    {
@@ -33,7 +41,7 @@ public class fetch_browser_data
 		
 		        all_urls.add(detail_url);
 		        
-		        //System.out.println(detail_url);
+		        System.out.println(detail_url);
 		    }
 		    
 		    catch(Exception e)

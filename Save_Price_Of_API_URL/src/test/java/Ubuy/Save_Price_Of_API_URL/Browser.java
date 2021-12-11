@@ -46,7 +46,7 @@ public class Browser
     	
     	ChromeOptions options = new ChromeOptions();
     	
-    	//options.addArguments("headless");
+    	options.addArguments("headless");
     	
     	driver = new ChromeDriver(options);
     	
@@ -73,7 +73,7 @@ public class Browser
 		driver.get("https://www.a.ubuy.com.kw/am/google_content_api2_1/get_products_url_script.php?time=23sdfsdfs");
 	}
 	
-	public void open_new_tabs(int min_limit, int max_limit) throws InterruptedException, MalformedURLException
+	public void open_new_tabs(int min_limit, int max_limit) throws InterruptedException, IOException, MessagingException
 	{
 		url_count = min_limit;
 		
@@ -85,11 +85,17 @@ public class Browser
 			{
 			    String url = fetch_browser_data.all_urls.get(url_count).toString();
 			
+			    System.out.println(url);
+			    
 			    js.executeScript("window.open('')");
+			    
+			    System.out.println("New tab opened.");
 			    
 			    List<String> tabs = new ArrayList<>(driver.getWindowHandles());
 				
 				driver.switchTo().window(tabs.get(tab_count));
+				
+				System.out.println("moved to new tab.");
 				
 				driver.get(url);
 				
@@ -102,6 +108,12 @@ public class Browser
 		}
 		catch (Exception e) 
 		{
+			System.out.println("Exception catched.");
+			
+            Screenshot.takescreenshot();
+			
+			SendMail.send_error_mail();
+			
 			e.printStackTrace();
 		}
 		
@@ -180,10 +192,12 @@ public class Browser
 			    {
 			    	not_refreshed_url.add(driver.getCurrentUrl());
 			 	
-			    	Screenshot.takescreenshot();
-					
-					SendMail.send_error_mail();
-			    	
+			    	if(not_refreshed_url.size()>10)
+			    	{
+			    		Screenshot.takescreenshot();
+						
+						SendMail.send_error_mail();
+			    	}
 			    	driver.close();	
 			    }
 			
@@ -191,11 +205,13 @@ public class Browser
 			    {
 			    	not_refreshed_url.add(driver.getCurrentUrl());
 				
-			    	Screenshot.takescreenshot();
-					
-					SendMail.send_error_mail();
-			    	
-			    	driver.close();	
+			    	if(not_refreshed_url.size()>10)
+			    	{
+			    		Screenshot.takescreenshot();
+						
+						SendMail.send_error_mail();
+			    	}
+			    	driver.close();
 			    }
 			    tab_count++;
 		    }

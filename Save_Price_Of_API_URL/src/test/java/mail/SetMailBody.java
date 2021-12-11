@@ -90,7 +90,9 @@ public class SetMailBody extends SetPropertiesOfSSLEmail
          
 		 message.setFrom(new InternetAddress(from));
          
-		 message.addRecipient(Message.RecipientType.TO, new InternetAddress(to));            
+		 message.addRecipient(Message.RecipientType.TO, new InternetAddress(to)); 
+		 
+		 message.addRecipient(Message.RecipientType.CC, new InternetAddress(cc));
            
          message.setSubject("Check Data of api loaded urls");
 

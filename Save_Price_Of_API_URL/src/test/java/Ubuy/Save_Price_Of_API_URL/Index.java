@@ -62,9 +62,9 @@ public class Index
 		
 		console_output_stream = new PrintStream(new FileOutputStream(console_output_file_path));
 		
-		//System.setOut(console_output_stream);
+		System.setOut(console_output_stream);
 		
-		//System.setErr(console_output_stream);
+		System.setErr(console_output_stream);
 		
 		try
 		{
@@ -80,9 +80,17 @@ public class Index
 			
 			while(true)
 		    {
-    	        browser.launch_chrome();
+    	        System.out.println("api urls browser going to launched.");
+				
+				browser.launch_chrome();
+				
+				System.out.println("browser launched for api url.");
     	
     	        browser.hit_api_url();
+    	        
+    	        System.out.println("api url has been hit.");
+    	        
+    	        Thread.sleep(2000);
     	
     	        fetch_browser_data.get_url();
     	
@@ -92,14 +100,16 @@ public class Index
     	
     	        int min_limit = 0;
     	
-    	        int max_limit = min_limit+2;
+    	        int max_limit = min_limit+29;
         
-    	        while(min_limit <= 3/*fetch_browser_data.all_urls.size()*/)
+    	        while(min_limit <= fetch_browser_data.all_urls.size())
     	        {
              
     	        	try
                     {
-                    	browser.launch_chrome();
+                    	System.out.println(min_limit+"detail page browser going to hit."+max_limit);
+    	        		
+    	        		browser.launch_chrome();
             	
                     	browser.open_new_tabs(min_limit,max_limit);
     	
@@ -113,7 +123,7 @@ public class Index
     	
     	            min_limit = max_limit + 1;
     	    
-    	            max_limit = min_limit + 2;
+    	            max_limit = min_limit + 29;
     	        }
     	    
     	        browser.get_url_with_status();
