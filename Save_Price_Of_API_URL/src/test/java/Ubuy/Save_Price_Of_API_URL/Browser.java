@@ -27,6 +27,8 @@ public class Browser
     
     public Boolean availability;
     
+    public static List<String>not_refreshed_temp_url = new ArrayList<>();
+    
     public static List<String>not_refreshed_url = new ArrayList<>();
     
     public static List<String>not_found_page_url = new ArrayList<>();
@@ -46,7 +48,7 @@ public class Browser
     	
     	ChromeOptions options = new ChromeOptions();
     	
-    	options.addArguments("headless");
+    	//options.addArguments("headless");
     	
     	driver = new ChromeDriver(options);
     	
@@ -81,7 +83,7 @@ public class Browser
 		
 		try {
 			
-			while(url_count <= fetch_browser_data.all_urls.size() && url_count <= max_limit  && url_count >= min_limit)
+			while(url_count <= fetch_browser_data.all_urls.size() && url_count <= max_limit  && url_count >= min_limit && min_limit<119)
 			{
 			    String url = fetch_browser_data.all_urls.get(url_count).toString();
 			
@@ -99,7 +101,7 @@ public class Browser
 				
 				driver.get(url);
 				
-				System.out.println(url);
+				//System.out.println(url);
 			    
 			    url_count++;
 			    
@@ -110,11 +112,7 @@ public class Browser
 		{
 			System.out.println("Exception catched.");
 			
-            Screenshot.takescreenshot();
-			
-			SendMail.send_error_mail();
-			
-			e.printStackTrace();
+           	System.out.println(e);
 		}
 		
 	}
@@ -142,7 +140,291 @@ public class Browser
 		
 		int tab_count = 0;
 		
+		System.out.println(url_count);
+		
 		while(tab_count <= url_count) 
+		{
+		    driver.switchTo().window(tabs.get(tab_count));
+		
+		    if(tab_count == 0)
+		    {
+		    	driver.close();
+		    	
+		    	tab_count++;
+		    }
+		    
+		    else if(verify_xpath("//h3[@class='h2-heading price']") == true)
+		    {			
+		    	price_available_url.add(driver.getCurrentUrl());
+			
+			    driver.close();
+			
+			    tab_count++;
+		    }
+		
+		    else if(verify_xpath("//div[@class='detail-page-skelton container card-skeleton']") == true)
+		    {			
+			    Thread.sleep(5000);
+			
+			    if(verify_xpath("//h3[@class='h2-heading price']") == true)
+		    	{
+			    	price_available_url.add(driver.getCurrentUrl());
+				
+			    	driver.close();
+			    }
+			 
+			    else if(verify_xpath("//div[@class='product-not-found m-auto']/p") == true)
+		    	{
+			    	not_found_page_url.add(driver.getCurrentUrl());
+				
+			    	driver.close();
+			    }
+			
+			    else if(verify_xpath("//span[@class='out-of-stock ml-2']") == true)
+			    {
+			    	out_of_stock_url.add(driver.getCurrentUrl());
+				
+			    	driver.close();
+			    }
+			
+			    else if(verify_xpath("//div[@class='loader-spin-overlay loading']/div") == true)
+			    {
+			    	not_refreshed_temp_url.add(driver.getCurrentUrl());
+			 	
+			    	driver.close();	
+			    }
+			
+			    else if(verify_xpath("//div[@class='detail-page-skelton container card-skeleton']") == true)
+			    {
+			    	not_refreshed_temp_url.add(driver.getCurrentUrl());
+				
+			    	driver.close();
+			    }
+			    
+			    else
+			    {
+			    	System.out.println("Problem unknown");
+			    	
+			    	Screenshot.takescreenshot();
+					
+					SendMail.send_error_mail();
+					
+					driver.close();
+			    }
+			    tab_count++;
+		    }
+		
+		    else if(verify_xpath("//div[@class='loader-spin-overlay loading']/div") == true)
+		    {			
+		    	Thread.sleep(5000);
+			
+		    	if(verify_xpath("//h3[@class='h2-heading price']") == true)
+		      	{
+		    		price_available_url.add(driver.getCurrentUrl());
+		 		
+				    driver.close();
+			    }
+			
+			    else if(verify_xpath("//div[@class='product-not-found m-auto']/p") == true)
+			    {
+			    	not_found_page_url.add(driver.getCurrentUrl());
+				
+			     	driver.close();
+		    	}
+			
+			    else if(verify_xpath("//span[@class='out-of-stock ml-2']") == true)
+		    	{
+			    	out_of_stock_url.add(driver.getCurrentUrl());
+				
+			    	driver.close();
+		    	}
+			
+			    else if(verify_xpath("//div[@class='loader-spin-overlay loading']/div") == true)
+			    {
+			    	not_refreshed_temp_url.add(driver.getCurrentUrl());
+			    	
+			    	driver.close();
+			    }
+			
+			    else if(verify_xpath("//div[@class='detail-page-skelton container card-skeleton']") == true)
+			    {
+			    	not_refreshed_temp_url.add(driver.getCurrentUrl());
+			    	
+			    	driver.close();
+			    }
+		    	
+			    else
+			    {
+			    	System.out.println("Problem unknown");
+			    	
+			    	Screenshot.takescreenshot();
+					
+					SendMail.send_error_mail();
+					
+					driver.close();
+			    }
+		    	tab_count++;
+			
+		    }
+		
+		    else if(verify_xpath("//div[@class='product-not-found m-auto']/p") == true)
+	    	{
+	    		not_found_page_url.add(driver.getCurrentUrl());
+			
+		     	driver.close();
+			
+		    	tab_count++;
+		    }
+		
+		    else if(verify_xpath("//span[@class='out-of-stock ml-2']") == true)
+		    {
+			    out_of_stock_url.add(driver.getCurrentUrl());
+			
+		    	driver.close();
+		  	
+		    	tab_count++;
+		    }
+		    
+		    else
+		    {
+		    	System.out.println("Problem unknown");
+		    	
+		    	Screenshot.takescreenshot();
+				
+				SendMail.send_error_mail();
+				
+				driver.close();
+		    }
+	    }
+		
+	}
+	
+	public void get_url_with_status()
+	{
+		int count = 1;
+		
+		Index.price_saved_urls_file_stream.append("URL in which price is available are : \r\n");
+		
+		for(String url : price_available_url)
+		{
+			Index.price_saved_urls_file_stream.append(count+". "+url+"\r\n");
+			
+			count++;
+		}
+		
+		price_available_url.clear();
+		
+		//System.out.println("price saved urls count is "+price_available_url.size());
+		
+		Index.not_loaded_urls_file_stream.append("\r\nNot loaded page url are : \r\n");
+		
+		count = 1;
+		
+        for(String url : not_refreshed_temp_url)
+        {
+        	Index.not_loaded_urls_file_stream.append(count+". "+url+"\r\n");
+			
+			count++;
+		}
+		
+        not_refreshed_temp_url.clear();
+        
+        not_refreshed_url.clear();
+        
+        //System.out.println("not_refreshed_temp_url count is "+not_refreshed_temp_url.size());
+        
+        Index.not_found_urls_file_stream.append("\r\nNot found page url are : \r\n");
+		
+		count = 1;
+		
+		for(String url : not_found_page_url)
+        {
+			Index.not_found_urls_file_stream.append(count+". "+url+"\r\n");
+			
+			count++;
+		}
+		
+		not_found_page_url.clear();
+		
+		//System.out.println("not_found_page_url count is "+not_found_page_url.size());
+		
+		Index.out_of_stock_urls_file_stream.append("\r\nOut of stock page url are : \r\n");
+		
+		count = 1;
+		
+		for(String url : out_of_stock_url)
+        {
+			Index.out_of_stock_urls_file_stream.append(count+". "+url+"\r\n");
+			
+			count++;
+		}
+		
+		out_of_stock_url.clear();
+		
+		//System.out.println("out_of_stock_url count is "+out_of_stock_url.size());
+		
+		Index.restricted_urls_file_stream.append("\r\nRestricted page url are : \r\n");
+		
+		count = 1;
+		
+		for(String url : restricted_product_url)
+        {
+			Index.restricted_urls_file_stream.append(count+". "+url+"\r\n\r\n");
+			
+			count++;
+		}
+		
+		restricted_product_url.clear();
+		
+		//System.out.println("restricted_product_url count is "+restricted_product_url.size());
+		
+		fetch_browser_data.all_urls.clear();
+		
+		//System.out.println(fetch_browser_data.all_urls);
+	}
+	
+	public void hit_non_refreshed_urls()
+	{
+		try
+		{
+            launch_chrome();
+            
+            int tab = 1;
+            
+            int url_count = 0;
+            
+            System.out.println("Not refreshed url count is "+not_refreshed_temp_url.size());
+            
+            while(url_count < not_refreshed_temp_url.size())
+            {
+            	js.executeScript("window.open('')");
+            	
+            	List<String> tabs = new ArrayList<>(driver.getWindowHandles());
+            	
+            	driver.switchTo().window(tabs.get(tab));
+            	
+            	driver.get(not_refreshed_temp_url.get(url_count));
+            	
+            	tab++;
+            	
+            	url_count++;
+            }
+		}
+		catch(Exception e)
+		{
+			System.out.println("Out of the bound non refreshed url exception catched.");
+			
+			System.out.println(e);
+		}
+	}
+	
+	public void close_non_refreshed_tabs() throws IOException, InterruptedException, MessagingException
+	{
+        List<String> tabs = new ArrayList<>(driver.getWindowHandles());
+		
+		int tab_count = 0;
+		
+		while(tab_count <= tabs.size()) 
 		{
 		
 		    driver.switchTo().window(tabs.get(tab_count));
@@ -191,13 +473,11 @@ public class Browser
 			    else if(verify_xpath("//div[@class='loader-spin-overlay loading']/div") == true)
 			    {
 			    	not_refreshed_url.add(driver.getCurrentUrl());
-			 	
-			    	if(not_refreshed_url.size()>10)
-			    	{
-			    		Screenshot.takescreenshot();
+			
+			    	Screenshot.takescreenshot();
 						
-						SendMail.send_error_mail();
-			    	}
+					SendMail.send_error_mail();
+			    	
 			    	driver.close();	
 			    }
 			
@@ -205,13 +485,22 @@ public class Browser
 			    {
 			    	not_refreshed_url.add(driver.getCurrentUrl());
 				
-			    	if(not_refreshed_url.size()>10)
-			    	{
-			    		Screenshot.takescreenshot();
+			    	Screenshot.takescreenshot();
 						
-						SendMail.send_error_mail();
-			    	}
+					SendMail.send_error_mail();
+			    
 			    	driver.close();
+			    }
+			    
+			    else
+			    {
+			    	System.out.println("Problem unknown");
+			    	
+			    	Screenshot.takescreenshot();
+					
+					SendMail.send_error_mail();
+					
+					driver.close();
 			    }
 			    tab_count++;
 		    }
@@ -262,6 +551,17 @@ public class Browser
 			    	
 			    	driver.close();
 			    }
+		    	
+			    else
+			    {
+			    	System.out.println("Problem unknown");
+			    	
+			    	Screenshot.takescreenshot();
+					
+					SendMail.send_error_mail();
+					
+					driver.close();
+			    }
 		    	tab_count++;
 			
 		    }
@@ -283,91 +583,18 @@ public class Browser
 		  	
 		    	tab_count++;
 		    }
+		    
+		    else
+		    {
+		    	System.out.println("Problem unknown");
+		    	
+		    	Screenshot.takescreenshot();
+				
+				SendMail.send_error_mail();
+				
+				driver.close();
+		    }
 	    }
-		
-	}
-	
-	public void get_url_with_status()
-	{
-		int count = 1;
-		
-		Index.price_saved_urls_file_stream.append("URL in which price is available are : \r\n");
-		
-		for(String url : price_available_url)
-		{
-			Index.price_saved_urls_file_stream.append(count+". "+url+"\r\n");
-			
-			count++;
-		}
-		
-		price_available_url.clear();
-		
-		//System.out.println("price saved urls count is "+price_available_url.size());
-		
-		Index.not_loaded_urls_file_stream.append("\r\nNot loaded page url are : \r\n");
-		
-		count = 1;
-		
-        for(String url : not_refreshed_url)
-        {
-        	Index.not_loaded_urls_file_stream.append(count+". "+url+"\r\n");
-			
-			count++;
-		}
-		
-        not_refreshed_url.clear();
-        
-        //System.out.println("not_refreshed_url count is "+not_refreshed_url.size());
-        
-        Index.not_found_urls_file_stream.append("\r\nNot found page url are : \r\n");
-		
-		count = 1;
-		
-		for(String url : not_found_page_url)
-        {
-			Index.not_found_urls_file_stream.append(count+". "+url+"\r\n");
-			
-			count++;
-		}
-		
-		not_found_page_url.clear();
-		
-		//System.out.println("not_found_page_url count is "+not_found_page_url.size());
-		
-		Index.out_of_stock_urls_file_stream.append("\r\nOut of stock page url are : \r\n");
-		
-		count = 1;
-		
-		for(String url : out_of_stock_url)
-        {
-			Index.out_of_stock_urls_file_stream.append(count+". "+url+"\r\n");
-			
-			count++;
-		}
-		
-		out_of_stock_url.clear();
-		
-		//System.out.println("out_of_stock_url count is "+out_of_stock_url.size());
-		
-		Index.restricted_urls_file_stream.append("\r\nRestricted page url are : \r\n");
-		
-		count = 1;
-		
-		for(String url : restricted_product_url)
-        {
-			Index.restricted_urls_file_stream.append(count+". "+url+"\r\n\r\n");
-			
-			count++;
-		}
-		
-		restricted_product_url.clear();
-		
-		//System.out.println("restricted_product_url count is "+restricted_product_url.size());
-		
-		fetch_browser_data.all_urls.clear();
-		
-		//System.out.println(fetch_browser_data.all_urls);
-		
 		
 	}
 	

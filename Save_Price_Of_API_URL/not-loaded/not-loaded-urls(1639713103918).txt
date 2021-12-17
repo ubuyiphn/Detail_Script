@@ -1,0 +1,19 @@
+Script start date and time is 17/12/2021 09:21:43
+
+Not loaded page url are : 
+1. https://www.ubuy.co.in/product/2NX0U5QO-yibid-72pcs-universal-wheel-rim-spoke-skins-covers-wrap-decor-straws-coats-protector-kit-for-8-quot?utm_source=ubuy_gogsc
+2. https://www.ubuy.co.in/product/40QNO5MOI-flying-banner-car-seat-covers-full-set-front-seats-and-rear-bench-seat-car-seat-protectors-durable-jacquard-cover-protectors-suv-truck-black-gray-tan?utm_source=ubuy_gogsc
+3. https://www.ubuy.co.in/product/2F1A02A4-enokay-raspberry-pi-4-model-b-4b-heat-sink-heatsink-heatsinks-set-set-of-2-white?utm_source=ubuy_gogsc
+4. https://www.ubuy.co.in/product/R7K00SY-dhp-aiden-metal-futon-frame-full-size-silver?utm_source=ubuy_gogsc
+5. https://www.ubuy.co.in/product/2CQHV4HI-skyway-tuff-ii-20-quot-5-spoke-wheelset-black-20-406-bolt-on-f-100-r-110-rim-freewheel?utm_source=ubuy_gogsc
+6. https://www.ubuy.co.in/product/OVLYYG8-tool-daily-garden-hose-quick-connect-fitting-3-4-inch-male-and-female-water-hose-quick-connector-6-s?utm_source=ubuy_gogsc
+7. https://www.ubuy.co.in/product/2M7XZ9Y-women-39-s-styleish-print-solid-high-waist-flare-long-maxi-skirt?utm_source=ubuy_gogsc
+8. https://www.ubuy.co.in/product/1AES9627A-wireless-tv-speaker-pohopa-portable-new-tv-soundbox-tv-audio-hearing-assistance-with-transmitter-10w-speaker-for-smart-tv-hard-of-hearing-seniors?utm_source=ubuy_gogsc
+9. https://www.ubuy.co.in/product/15L6D2IUW-stainless-steel-barry-king-2-piece-petal-lifter-undercut-beveler-set-leather-stamping-tools?utm_source=ubuy_gogsc
+10. https://www.ubuy.co.in/product/1E0FHOO0-eparts-inc-e-6c070-88720-kubota-tractor-seat-w-armrests-b2410hse-b2410hsdb-b2410hsd-b2710hsd-b7500hs?utm_source=ubuy_gogsc
+11. https://www.ubuy.co.in/product/FXOG73G-anina-universal-12v-car-automatic-power-antenna-motor-compatible-with-nissan-honda-toyota-chevrolet?utm_source=ubuy_gogsc
+12. https://www.ubuy.co.in/product/40QNO4AHG-ydn-womens-pointed-toe-slingback-ballet-flats-low-heel-slide-sandals-comfortable-slip-on-dress-pumps?utm_source=ubuy_gogsc
+13. https://www.ubuy.co.in/product/3VHZNLBY4-ejoyous-1-pair-of-universal-rear-bumper-spoiler-car-modified-rear-bumper-canard-diffuser-spoiler-lip-splitter-fins-carbon-fiber?utm_source=ubuy_gogsc
+14. https://www.ubuy.co.in/product/1AGFFC2ZQ-storite-sata-to-usb-3-0-converter-usb-3-0-sata-iii-hard-drive-adapter-cable-for-2-5-inch-ssd-hdd-with-extra-usb-power-cable-uasp-18-5-inch?utm_source=ubuy_gogsc
+15. https://www.ubuy.co.in/product/3OB0XMOZE-meinicy-3pcs-classic-baseball-cap-dad-hat-fits-men-women-all-cotton-made-adjustable-low-profile-unconstructed?utm_source=ubuy_gogsc
+16. https://www.ubuy.co.in/product/16AIVZX40-ez2care-adjustable-folding-cane-with-carrying-case-black?utm_source=ubuy_gogsc

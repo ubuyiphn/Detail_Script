@@ -11,11 +11,13 @@ import Ubuy.Save_Price_Of_API_URL.Browser;
 
 public class Screenshot 
 { 
-	public static String screenshotpath = System.getProperty("user.dir")+"/error.png";
+	public static String screenshotpath;
 
 	public static void takescreenshot() throws IOException
     {
-        TakesScreenshot scrnshot = ((TakesScreenshot)Browser.driver);
+		screenshotpath = System.getProperty("user.dir")+"/error/"+System.currentTimeMillis()+".png";
+		
+		TakesScreenshot scrnshot = ((TakesScreenshot)Browser.driver);
     
     	File SrcFile = scrnshot.getScreenshotAs(OutputType.FILE);
     	
