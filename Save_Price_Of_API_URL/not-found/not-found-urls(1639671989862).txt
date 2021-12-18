@@ -1,9 +1,0 @@
-Script start date and time is 16/12/2021 21:56:29
-
-Not found page url are : 
-1. https://www.ubuy.co.in/product/40QNWI7XY-modern-led-cluster-pendant-light-mini-pendant-lighting-1-ring-kitchen-island-pendant-light-fixtures-oval-adjustable-hanging-chandelier-for-dining?utm_source=ubuy_gogsc
-2. https://www.ubuy.co.in/product/40QNWI7MC-b09834fz6s?utm_source=ubuy_gogsc
-3. https://www.ubuy.co.in/product/40QNWF9UO-pla-filament-1-75-white-pla-filament-1-75mm-fit-fdm-3d-printer-1kg-spool-dimensional-accuracy-0-02-mm?utm_source=ubuy_gogsc
-4. https://www.ubuy.co.in/product/40QNWF4YE-vonxholl-fishing-lures-saltwater-bass-fishing-lures-fin-guarded-hook-bluegill-swimbait-enticing-action-soft-plastic-swimbaits-for-muskie-walleye?utm_source=ubuy_gogsc
-5. https://www.ubuy.co.in/product/1AIBJM0SG-deep-dive-submarine-new-blue-package-jurassic-world-matchbox-14-24-mbx-entertainment?utm_source=ubuy_gogsc
-6. https://www.ubuy.co.in/product/2EJ044B4-nanostation-ac-loco-ns-5acl-us-5ghz-airmax-cpe-radio-450mbps-2-units-with-poe-adapter-poe-24-12w-g-1?utm_source=ubuy_gogsc
