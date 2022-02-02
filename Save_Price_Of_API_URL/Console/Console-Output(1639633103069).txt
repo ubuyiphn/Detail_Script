@@ -1,0 +1,878 @@
+api urls browser going to launched.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 29893
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Dec 16, 2021 11:08:24 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+browser launched for api url.
+api url has been hit.
+Trying to get urls.
+last https index is 18696
+2indexes96
+https://www.ubuy.co.in/product/1GXCVSEMY-gopuram-turmeric-stick-1-kg?utm_source=ubuy_gogsc
+99indexes265
+https://www.ubuy.co.in/product/MOFXEUSW-galaxy-led-starry-night-projector-4-in-1-led-star-galaxy-party-light-projector-with-ocean-wave-built?utm_source=ubuy_gogsc
+268indexes430
+https://www.ubuy.co.in/product/10JWYUEM-windstrong-lot-of-100-4x6-inch-us-american-hand-held-stick-flags-safety-ball-top-made-in-the-usa?utm_source=ubuy_gogsc
+433indexes582
+https://www.ubuy.co.in/product/1GEDX3UM8-criminal-procedures-prosecution-and-adjudication-connected-casebook-aspen-casebook?utm_source=ubuy_gogsc
+585indexes710
+https://www.ubuy.co.in/product/1PJVVYN3W-bagster-3cuyd-dumpster-in-a-bag-holds-up-to-3-300-lb-green?utm_source=ubuy_gogsc
+713indexes916
+https://www.ubuy.co.in/product/40QOSZX90-grow-lights-for-indoor-plants-chvegluz-120-led-4-head-plant-grow-lights-indoor-plants-with-full-spectrum-3912h-timer-9-brightness-levels?utm_source=ubuy_gogsc
+919indexes1106
+https://www.ubuy.co.in/product/40QOSZX6W-baosha-convertible-backpack-15-6-inch-laptop-bag-case-travel-briefcase-casual-school-college-backpack-for-women-bc-04-hs?utm_source=ubuy_gogsc
+1109indexes1220
+https://www.ubuy.co.in/product/40QOSZTUA-stx-ice-hockey-stallion-hpr-1-1-shoulder-pad?utm_source=ubuy_gogsc
+1223indexes1389
+https://www.ubuy.co.in/product/QKV3N47I-computer-speakers-with-surround-sound-2-0ch-usb-wired-powered-multimedia-speaker-for-desktop-tv-pc-l?utm_source=ubuy_gogsc
+1392indexes1525
+https://www.ubuy.co.in/product/2NFPTPC6-a-gangstas-pledge-4-gangsta-love-series-paperback-ndash-may-16-2019?utm_source=ubuy_gogsc
+1528indexes1666
+https://www.ubuy.co.in/product/OZ0AEV0-tn-trunknets-inc-trunk-envelope-cargo-net-for-nissan-pathfinder-2013-2020?utm_source=ubuy_gogsc
+1669indexes1816
+https://www.ubuy.co.in/product/40QOSZTIO-anthony-veer-walton-men-s-loafer-slip-on-dress-shoes-leather-comfort-lightweight?utm_source=ubuy_gogsc
+1819indexes1961
+https://www.ubuy.co.in/product/BRE6MHE-color-display-for-ford-escape-focus-150mph-speedometer-instrument-lq042t5dz11?utm_source=ubuy_gogsc
+1964indexes2074
+https://www.ubuy.co.in/product/2P4J6ELC-comfortview-womens-wide-width-the-jemma-flat?utm_source=ubuy_gogsc
+2077indexes2241
+https://www.ubuy.co.in/product/ERQ6TU8-women-s-7-red-charm-bracelet-with-sterling-silver-coin-amulet-for-financial-success-prosperity-gift?utm_source=ubuy_gogsc
+2244indexes2410
+https://www.ubuy.co.in/product/1RNN6EDS-play-stage-balls-in-4-sizes-for-contact-juggling-body-rolling-manipulation-and-ball-stage-juggling-i?utm_source=ubuy_gogsc
+2413indexes2549
+https://www.ubuy.co.in/product/2FU2FIJC-amalie-160-68321-91-10pk-blue-high-temperature-grease-14-oz-pack-of-10?utm_source=ubuy_gogsc
+2552indexes2710
+https://www.ubuy.co.in/product/3RLVYVE-modase-backpack-hiking-backpack-large-40l-lightweight-water-resistant-travel-backpack-daypack?utm_source=ubuy_gogsc
+2713indexes2809
+https://www.ubuy.co.in/product/G2SW5K9S-vacmaster-auto-detail-kit-vadk?utm_source=ubuy_gogsc
+2812indexes3026
+https://www.ubuy.co.in/product/40QOSZSAM-los-angeles-dodger-stadium-poster-hd-print-canvas-wall-home-decor-poster-gift-living-room-bedroom-boy-girl-gift-decoration-wall-art-20x40-no-framed?utm_source=ubuy_gogsc
+3029indexes3164
+https://www.ubuy.co.in/product/99H33R72-comp-cams-7703-1-hi-tech-pushrod-length-checker-7-800-to-8-800-length?utm_source=ubuy_gogsc
+3167indexes3275
+https://www.ubuy.co.in/product/S9HQG6C-vet-worthy-lysine-paw-gel-aid-for-cats-3-oz?utm_source=ubuy_gogsc
+3278indexes3478
+https://www.ubuy.co.in/product/40QOSZS14-aguperfit-nylon-bands-compatible-with-apple-watch-42mm-44mm-robust-and-breathable-replacement-strap-works-with-iwatch-series-6se54321?utm_source=ubuy_gogsc
+3481indexes3647
+https://www.ubuy.co.in/product/14KNV8PS-large-metal-glass-solar-flowers-yard-art-garden-solar-lights-outdoor-solar-powered-stake-lights-deco?utm_source=ubuy_gogsc
+3650indexes3862
+https://www.ubuy.co.in/product/40QOSZRRC-allomn-solar-garden-lights-moon-crackle-glass-globe-stake-mental-lights-outdoor-decorative-waterproof-solar-lights-for-patio-decor-landscape-lawn?utm_source=ubuy_gogsc
+3865indexes4031
+https://www.ubuy.co.in/product/1CFBAW6G-dahey-1-pack-farmhouse-bathroom-wall-decor-2-sides-funny-wood-sign-with-saying-toilet-paper-sign-hom?utm_source=ubuy_gogsc
+4034indexes4200
+https://www.ubuy.co.in/product/2C8GHVQY-starter-clutch-flywheel-flange-amp-one-way-bearing-for-yamaha-yfm350u-big-bear-2wd-1997-1998yfm350fw?utm_source=ubuy_gogsc
+4203indexes4387
+https://www.ubuy.co.in/product/40QOSZRPI-yonique-womens-bikini-swimsuits-high-waisted-two-piece-bathing-suits-tie-knot-cutout-swimwear-with-criss-cross-bottom?utm_source=ubuy_gogsc
+4390indexes4554
+https://www.ubuy.co.in/product/GK2TNTI-dgzzi-moosehead-bridge-head-black-plastic-slip-on-moosehead-bridge-head-for-billiard-pool-cue-stick?utm_source=ubuy_gogsc
+4557indexes4704
+https://www.ubuy.co.in/product/G2QLYE4Y-new-genuine-pure-polaris-atv-accessories-polaris-sportsman-handwarmers-pt-2877363?utm_source=ubuy_gogsc
+4707indexes4801
+https://www.ubuy.co.in/product/E5DJDY76-liberalism-find-a-cure-shirt?utm_source=ubuy_gogsc
+4804indexes4969
+https://www.ubuy.co.in/product/ZET3FLS-cross-stitch-kits-for-beginners-adults-with-easy-patterns-stamped-kits-3-thread-embroidery-cross-sti?utm_source=ubuy_gogsc
+4972indexes5136
+https://www.ubuy.co.in/product/2AC0VDLI-online-auto-supply-for-gm-windshield-molding-trim-clip-screw-in-studs-rear-window-vinyl-top-qty-25?utm_source=ubuy_gogsc
+5139indexes5315
+https://www.ubuy.co.in/product/1C39OYGTK-co-rode-6-sets-m-2-screws-standoffs-nvme-ssd-screw-kit-with-heatsinks-cooler-screwdriver-for-asus-motherboard?utm_source=ubuy_gogsc
+5318indexes5483
+https://www.ubuy.co.in/product/15VUGWG44-mozamy-creative-halloween-bats-wall-decals-halloween-decor-black-bats-decals-halloween-decorations?utm_source=ubuy_gogsc
+5486indexes5623
+https://www.ubuy.co.in/product/40QOSZNG6-bjking-004-cap-mounted-ear-muff-nrr-28db-adjustable-hard-hat-ear-muffs?utm_source=ubuy_gogsc
+5626indexes5734
+https://www.ubuy.co.in/product/O8JEWFE-superdfm-135g-696859225338-backyard-poultry?utm_source=ubuy_gogsc
+5737indexes5850
+https://www.ubuy.co.in/product/2CAZE4X6-bouncy-bands-for-elementary-school-chairs-black?utm_source=ubuy_gogsc
+5853indexes5989
+https://www.ubuy.co.in/product/3PCBAV3HE-superatv-heavy-duty-winch-mounting-plate-for-yamaha-wolverine-x2-2019?utm_source=ubuy_gogsc
+5992indexes6158
+https://www.ubuy.co.in/product/2ZABMB8G-yahill-aluminum-folding-collapsible-camping-table-roll-up-3-size-with-carrying-bag-for-indoor-and-ou?utm_source=ubuy_gogsc
+6161indexes6326
+https://www.ubuy.co.in/product/4V4VCCK-mifoge-kalimba-thumb-piano-17-keys-with-koa-acacia-wood-mbira-finger-piano-builts-in-waterproof-prot?utm_source=ubuy_gogsc
+6329indexes6495
+https://www.ubuy.co.in/product/L8O7F2PS-conxki-traction-control-cotton-socks-indoor-dog-nonskid-knit-socks-5-pack-20-pieces-socks-4-velcro-a?utm_source=ubuy_gogsc
+6498indexes6599
+https://www.ubuy.co.in/product/1ENT0BFK-eden-tamari-soy-sauce-organic-10-oz?utm_source=ubuy_gogsc
+6602indexes6696
+https://www.ubuy.co.in/product/1PIQKOGCU-snoopy-and-woodstock-hoodie?utm_source=ubuy_gogsc
+6699indexes6823
+https://www.ubuy.co.in/product/6ZY63OSO-easy-precision-paper-piecing-starter-kit-by-acorn-products?utm_source=ubuy_gogsc
+6826indexes6991
+https://www.ubuy.co.in/product/2MAQTP3S-cadbury-starbar-49g-12-full-size-49g-bars-of-delicious-cadbury-chocolate-in-a-unique-gift-box-and-a?utm_source=ubuy_gogsc
+6994indexes7119
+https://www.ubuy.co.in/product/6KNMIV04-pixar-christmas-cars-have-a-mater-christmas-premium-t-shirt?utm_source=ubuy_gogsc
+7122indexes7299
+https://www.ubuy.co.in/product/1CF1YNOTI-startech-com-raspberry-pi-board-usb-2-0-480mbps-usb-to-m-2-sata-converter-usb-to-sata-raspberry-pi-ssd-pib2m21?utm_source=ubuy_gogsc
+7302indexes7430
+https://www.ubuy.co.in/product/6YJHNC7G-transparent-classic-hot-water-bottle-made-in-germany-clear-2pk?utm_source=ubuy_gogsc
+7433indexes7599
+https://www.ubuy.co.in/product/40SIS1AMA-z-color-100pcs-clear-plastic-baby-feet-display-showcase-shoe-trees-baby-booties-shoes-and-socks-9cm?utm_source=ubuy_gogsc
+7602indexes7767
+https://www.ubuy.co.in/product/CK0L5TA-no-rinse-body-bath-8-fl-oz-leaves-skin-clean-refreshed-and-odor-free-pack-of-2-makes-16-complete-bat?utm_source=ubuy_gogsc
+7770indexes7935
+https://www.ubuy.co.in/product/48JDIXK-lordhair-toupee-for-men-hair-pieces-french-lace-front-mono-top-hair-systems-replacement-6x8-inches-n?utm_source=ubuy_gogsc
+7938indexes8104
+https://www.ubuy.co.in/product/M1FFJ7BS-mrcuff-sailing-ship-sailboat-colored-sails-pair-cufflinks-in-a-presentation-gift-box-polishing-cloth?utm_source=ubuy_gogsc
+8107indexes8273
+https://www.ubuy.co.in/product/2FRUBRH4-chevy-silverado-realtree-ap-z71-off-road-decals-stickers-ap-2001-2006-bed-side-1500-2500-hd-set-of-2?utm_source=ubuy_gogsc
+8276indexes8440
+https://www.ubuy.co.in/product/FWWDKZE-loveinusa-mini-table-trash-can-recycling-brushed-stainless-steel-wave-cover-counter-top-garbage-bin?utm_source=ubuy_gogsc
+8443indexes8519
+https://www.ubuy.co.in/product/2YHQOV9C-b07b2kvhdt?utm_source=ubuy_gogsc
+8522indexes8637
+https://www.ubuy.co.in/product/OY1HTQO-primacare-rs-8631-cpr-shield-barrier-keyring-pouch?utm_source=ubuy_gogsc
+8640indexes8774
+https://www.ubuy.co.in/product/2O04UA80-zeronic-womens-bootleg-yoga-pants-long-bootcut-workout-running-pants?utm_source=ubuy_gogsc
+8777indexes8936
+https://www.ubuy.co.in/product/3L8WO8W-ezzy-auto-pack-of-2-center-console-armrest-lid-latch-fit-for-isuzu-saab-buick-rainer-gmc-envoy?utm_source=ubuy_gogsc
+8939indexes9100
+https://www.ubuy.co.in/product/3PM3EFP2G-mr-o-ring-001-viton-o-ring-75a-durometer-132-quot-id-332-quot-od-132-quot-cs-brown-pack-of-100?utm_source=ubuy_gogsc
+9103indexes9310
+https://www.ubuy.co.in/product/3OGK1D9MI-energy-star-led-flood-light-bulbs-br30-65w-equivalent-cri-80-dimmable-warm-white-3000k-750lm-indoor-flood-lights-for-recessed-cans-ul-listed?utm_source=ubuy_gogsc
+9313indexes9479
+https://www.ubuy.co.in/product/G3SQ8NWW-baby-joy-rocking-bassinet-2-in-1-lightweight-travel-cradle-wdetachable-amp-washable-mattress-zippere?utm_source=ubuy_gogsc
+9482indexes9697
+https://www.ubuy.co.in/product/1BI8YMV2C-saim-stainless-steel-air-vent-louver-19mm-bottom-diameter-slope-round-ventilator-perforated-mesh-cabine-cupboard-hole-air-vent-cover-mini-louver-for?utm_source=ubuy_gogsc
+9700indexes9850
+https://www.ubuy.co.in/product/1PRY6PU7S-flyrose-womens-metallic-keyhole-cutout-backless-halter-rave-dance-crop-tube-top-bra?utm_source=ubuy_gogsc
+9853indexes10019
+https://www.ubuy.co.in/product/FDLNJZNM-mesh-front-bumper-upper-hood-grille-grill-with-drl-led-accent-vent-lights-replacement-for-ford-musta?utm_source=ubuy_gogsc
+10022indexes10140
+https://www.ubuy.co.in/product/NP3ZK40-marvel-avengers-endgame-iron-man-logo-graphic-t-shirt?utm_source=ubuy_gogsc
+10143indexes10309
+https://www.ubuy.co.in/product/112T38RC-2-pair-car-stereo-speaker-wire-connection-harness-plugs-for-4-speakers-installation-for-infiniti-and?utm_source=ubuy_gogsc
+10312indexes10411
+https://www.ubuy.co.in/product/RLDYERIG-goldfish-chinese-curry-sauce-405g?utm_source=ubuy_gogsc
+10414indexes10550
+https://www.ubuy.co.in/product/2ZRD776U-bruceriver-men-s-knitted-fingerless-ragg-gloves-with-thinsulate-lining?utm_source=ubuy_gogsc
+10553indexes10714
+https://www.ubuy.co.in/product/2P9O1XZ4-pasokin-peanut-butter-crumbs-gluten-free-vegan-all-natural-peanut-butter-topping-10-5-ounce-jar?utm_source=ubuy_gogsc
+10717indexes10830
+https://www.ubuy.co.in/product/DPGA51S-mickey-and-friends-minnie-mouse-big-face-t-shirt?utm_source=ubuy_gogsc
+10833indexes10999
+https://www.ubuy.co.in/product/2DYZV2CO-vipmotoz-black-housing-oe-style-projector-headlight-headlamp-assembly-for-2012-2014-toyota-camry-hal?utm_source=ubuy_gogsc
+11002indexes11099
+https://www.ubuy.co.in/product/H27QCNS-3-4-x-12-plastic-t-molding-brown?utm_source=ubuy_gogsc
+11102indexes11244
+https://www.ubuy.co.in/product/40QOSZNC8-hawaiian-island-creations-hic-20-quot-lacerations-8-way-stretch-boardshorts?utm_source=ubuy_gogsc
+11247indexes11390
+https://www.ubuy.co.in/product/2ALFJ9NI-cb500f-motorcycle-radiator-grille-guard-cover-for-honda-cb500f-2016-2017-2018?utm_source=ubuy_gogsc
+11393indexes11519
+https://www.ubuy.co.in/product/6KNL9MOM-disney-snow-white-sleepy-always-tired-circle-graphic-t-shirt?utm_source=ubuy_gogsc
+11522indexes11676
+https://www.ubuy.co.in/product/ETL2KUW-deutsch-dt-3-pin-pigtail-kit-16awg-nmma-abyc-uscd-certified-boat-rv-wire-600v-made-in-usa?utm_source=ubuy_gogsc
+11679indexes11802
+https://www.ubuy.co.in/product/1C48YHQ-own-root-one-gallon-quietness-hardy-rose-by-heirloom-roses?utm_source=ubuy_gogsc
+11805indexes11898
+https://www.ubuy.co.in/product/2ELGFZPC-gator-sports-tip-toes-socks?utm_source=ubuy_gogsc
+11901indexes12114
+https://www.ubuy.co.in/product/40QOSZMHC-cp3-e12-candelabra-led-bulbs-360-degree-lighting-40w-equivalent-dimmable-chandelier-light-bulbs-4w-5000k-daylight-white-400lm-vintage-clear-candle?utm_source=ubuy_gogsc
+12117indexes12256
+https://www.ubuy.co.in/product/3N33YFBQI-mason-jar-recipe-cards-50-double-sided-cards-4x6-inches-thick-card-stock?utm_source=ubuy_gogsc
+12259indexes12467
+https://www.ubuy.co.in/product/1AEN2U41K-tea-cups-pottery-chinese-tea-cup-set-of-4-japanese-yunomi-tea-cups-asian-porcelian-tea-cups-10-oz-handleless-ceramic-cup-for-matcha-tea-green?utm_source=ubuy_gogsc
+12470indexes12547
+https://www.ubuy.co.in/product/40QOSZM7U-b092sl7c55?utm_source=ubuy_gogsc
+12550indexes12703
+https://www.ubuy.co.in/product/F42O1CBM-usmc-medallion-2-inches-black-and-silver-marine-corps-ega-eagle-globe-anchor-car-emblem?utm_source=ubuy_gogsc
+12706indexes12863
+https://www.ubuy.co.in/product/88JXNV7I-glass-bead-3-large-diameter-bead-25-lbs-sand-blast-cabinet-blasting-media-by-tacoma-company?utm_source=ubuy_gogsc
+12866indexes12944
+https://www.ubuy.co.in/product/1GZ32KAKU-om-de-tafel?utm_source=ubuy_gogsc
+12947indexes13128
+https://www.ubuy.co.in/product/1CPLU9UEU-11th-smith-who-dr-11-matt-dw-doctor-quotes-prints-wall-design-for-living-room-home-decor-customize-poster-no-frame?utm_source=ubuy_gogsc
+13131indexes13318
+https://www.ubuy.co.in/product/40QOSZLSA-hair-rollers-36-packs-self-grip-salon-hairdressing-curlers-hair-curlers-sets-heatless-hair-curlers-with-10pcs-hair-clips?utm_source=ubuy_gogsc
+13321indexes13486
+https://www.ubuy.co.in/product/2MN3PVU-pakoula-chair-seat-cover-for-booster-seat-protect-booster-chair-cover-dining-chair-protector-for-boo?utm_source=ubuy_gogsc
+13489indexes13607
+https://www.ubuy.co.in/product/157SW1T62-plastic-plates-set-rose-gold-party-supplies-50-pack?utm_source=ubuy_gogsc
+13610indexes13751
+https://www.ubuy.co.in/product/40QOSZLKW-ever-pretty-womens-v-neck-lace-tulle-sleeve-a-line-formal-party-dress-0226?utm_source=ubuy_gogsc
+13754indexes13915
+https://www.ubuy.co.in/product/1GZ32LBMS-asap-nitrile-gloves-case-of-1000-gloves-large-disposable-latex-free-rubber-gloves-ambidextrous?utm_source=ubuy_gogsc
+13918indexes14035
+https://www.ubuy.co.in/product/1C66DMHG0-l-x27-art-d-x27-etre-francais-essai-french-edition?utm_source=ubuy_gogsc
+14038indexes14202
+https://www.ubuy.co.in/product/11R8221A-zipper-rescue-zipper-repair-kits-the-original-zipper-repair-kit-made-in-america-since-1993-outdoor?utm_source=ubuy_gogsc
+14205indexes14416
+https://www.ubuy.co.in/product/40QOSX0XC-dr-js-natural-pet-grooming-cleaning-and-deodorizing-wipes-with-patented-pca-technology-with-all-natural-ingredients-ultra-thick-and-strong-wipes?utm_source=ubuy_gogsc
+14419indexes14584
+https://www.ubuy.co.in/product/EE2GQJQ-hanging-folder-tabs-and-inserts-for-organize-and-distinguish-hanging-files-2-inch-clear-to-read-60-s?utm_source=ubuy_gogsc
+14587indexes14802
+https://www.ubuy.co.in/product/40QOSX0V8-wireless-earbuds-bluetooth-5-0-headphones-with-charging-case-3d-stereo-earpods-air-buds-in-ear-ear-buds-with-deep-bass-touch-control-earphones-sport?utm_source=ubuy_gogsc
+14805indexes14902
+https://www.ubuy.co.in/product/2CPTLT1I-primal-wear-mens-aro-evo-jersey?utm_source=ubuy_gogsc
+14905indexes14994
+https://www.ubuy.co.in/product/1PJTVNWYK-thai-rice-flour-2x16oz?utm_source=ubuy_gogsc
+14997indexes15210
+https://www.ubuy.co.in/product/1AEQ5B3WU-100pcs-tomato-stem-support-clips-garden-fixing-clips-plant-trainers-plant-bender-for-tomato-stem-to-grow-upright-and-make-tomato-healthier-prevent?utm_source=ubuy_gogsc
+15213indexes15308
+https://www.ubuy.co.in/product/BZ622U6-kawasaki-oil-filter-16097-0008?utm_source=ubuy_gogsc
+15311indexes15477
+https://www.ubuy.co.in/product/1R3V2PSC-alloyworks-4-row-all-aluminum-radiator-for-1987-2006-jeep-wrangler-tj-yj-gm-chevy-v8-conversion-2-4l?utm_source=ubuy_gogsc
+15480indexes15645
+https://www.ubuy.co.in/product/48L0D2W-norenchy-diy-3d-wooden-puzzles-clock-model-building-kit-table-desk-clock-wood-puzzles-toy-for-adults?utm_source=ubuy_gogsc
+15648indexes15778
+https://www.ubuy.co.in/product/5E2UGSM-unipak-plush-treehouse-with-animals-five-5-stuffed-forest-animals?utm_source=ubuy_gogsc
+15781indexes15992
+https://www.ubuy.co.in/product/40QOSWWZC-t-trees-princess-jewelry-set-girls-mermaid-handbag-necklace-bracelet-earrings-ring-hair-clips-set-princess-costume-jewelry-party-favors-gift-for?utm_source=ubuy_gogsc
+15995indexes16201
+https://www.ubuy.co.in/product/40QOSWWLW-bgtec-4-quot-dry-diamond-polishing-pads-set-8-pieces-pads-kit-30-3000-for-granite-marble-stone-quartz-tiles-concrete-floor-edges-countertop?utm_source=ubuy_gogsc
+16204indexes16357
+https://www.ubuy.co.in/product/8BB4KIMG-grtard-extra-large-magnetic-clips-6pack-heavy-duty-stainless-steel-metal-clips-2-2-inch?utm_source=ubuy_gogsc
+16360indexes16525
+https://www.ubuy.co.in/product/1H91Z7ZBU-usb-floppy-disk-drive-emulator-n-drive-100-for-yamaha-clavinova-cvp-75-cvp-83-cvp-85-cvp-87-cvp-89?utm_source=ubuy_gogsc
+16528indexes16732
+https://www.ubuy.co.in/product/40QOSWWJS-hanjo-pets-cat-backpack-expandable-cat-backpack-carrier-airline-approved-pet-carrier-backpack-for-small-dogs-puppy-small-cat-up-to-16-lbs?utm_source=ubuy_gogsc
+16735indexes16901
+https://www.ubuy.co.in/product/7B0ZROLK-ransoto-new-carburetor-carb-compatible-with-briggs-stratton-693480-693479-694056-replaces-499306-495?utm_source=ubuy_gogsc
+16904indexes17108
+https://www.ubuy.co.in/product/40QOSWWCE-horimiya-stickers-vinyl-waterproof-stickers50pcsfor-laptop-skateboard-snowboard-water-bottle-phone-car-bicycle-luggage-guitar-computer-as?utm_source=ubuy_gogsc
+17111indexes17246
+https://www.ubuy.co.in/product/KXWLTNUE-ufo-ya04809-089-replacement-plastic-for-yamaha-fender-frt-yzf-10-blue?utm_source=ubuy_gogsc
+17249indexes17455
+https://www.ubuy.co.in/product/40QOSWWAA-buoyancy-aid-for-adults-adults-size-watersports-swim-vest-buoyancy-aid-jacket-for-fishing-sailing-surfing-boating-kayaking-for-water-sports?utm_source=ubuy_gogsc
+17458indexes17667
+https://www.ubuy.co.in/product/1APXG9CE8-5-pack-tznzxm-for-unimax-umx-u683cl-screen-protector-tempered-glass-case-friendly-9h-hardness-hd-clear-anti-scratch-bubble-free-tempered-glass?utm_source=ubuy_gogsc
+17670indexes17786
+https://www.ubuy.co.in/product/8KD9N7Z2-firestone-20-x-40-45-mil-epdm-pond-liner-fish-safe?utm_source=ubuy_gogsc
+17789indexes18004
+https://www.ubuy.co.in/product/40QOSWW8G-lil-u-zi-v-ert-rapper-tapestry-wall-hanging-anime-tapestries-table-cloth-wall-art-blanket-for-bedroom-living-room-dorm-kitchen-resraurant-60x70-inch?utm_source=ubuy_gogsc
+18007indexes18173
+https://www.ubuy.co.in/product/K28ZF9LS-reduce-wrinkles-add-moisture-sakana-collagen-x10-by-rose-gold-anti-aging-firming-skin-dhl-express-fr?utm_source=ubuy_gogsc
+18176indexes18284
+https://www.ubuy.co.in/product/15X4VIYLW-cegar-quadrilateral-magnetic-patch-3-pack?utm_source=ubuy_gogsc
+18287indexes18485
+https://www.ubuy.co.in/product/40QOSWVFO-danf-2-pack-dominican-flag-3x5-foot-polyester-bandera-de-republica-dominicana-national-flags-polyester-with-brass-grommets-3-x-5-ft?utm_source=ubuy_gogsc
+18488indexes-1
+
+
+
+Total URL count is 119
+
+
+All urls have been added to list.
+
+[https://www.ubuy.co.in/product/1GXCVSEMY-gopuram-turmeric-stick-1-kg?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/MOFXEUSW-galaxy-led-starry-night-projector-4-in-1-led-star-galaxy-party-light-projector-with-ocean-wave-built?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/10JWYUEM-windstrong-lot-of-100-4x6-inch-us-american-hand-held-stick-flags-safety-ball-top-made-in-the-usa?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1GEDX3UM8-criminal-procedures-prosecution-and-adjudication-connected-casebook-aspen-casebook?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1PJVVYN3W-bagster-3cuyd-dumpster-in-a-bag-holds-up-to-3-300-lb-green?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOSZX90-grow-lights-for-indoor-plants-chvegluz-120-led-4-head-plant-grow-lights-indoor-plants-with-full-spectrum-3912h-timer-9-brightness-levels?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOSZX6W-baosha-convertible-backpack-15-6-inch-laptop-bag-case-travel-briefcase-casual-school-college-backpack-for-women-bc-04-hs?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOSZTUA-stx-ice-hockey-stallion-hpr-1-1-shoulder-pad?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/QKV3N47I-computer-speakers-with-surround-sound-2-0ch-usb-wired-powered-multimedia-speaker-for-desktop-tv-pc-l?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2NFPTPC6-a-gangstas-pledge-4-gangsta-love-series-paperback-ndash-may-16-2019?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/OZ0AEV0-tn-trunknets-inc-trunk-envelope-cargo-net-for-nissan-pathfinder-2013-2020?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOSZTIO-anthony-veer-walton-men-s-loafer-slip-on-dress-shoes-leather-comfort-lightweight?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/BRE6MHE-color-display-for-ford-escape-focus-150mph-speedometer-instrument-lq042t5dz11?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2P4J6ELC-comfortview-womens-wide-width-the-jemma-flat?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/ERQ6TU8-women-s-7-red-charm-bracelet-with-sterling-silver-coin-amulet-for-financial-success-prosperity-gift?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1RNN6EDS-play-stage-balls-in-4-sizes-for-contact-juggling-body-rolling-manipulation-and-ball-stage-juggling-i?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2FU2FIJC-amalie-160-68321-91-10pk-blue-high-temperature-grease-14-oz-pack-of-10?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/3RLVYVE-modase-backpack-hiking-backpack-large-40l-lightweight-water-resistant-travel-backpack-daypack?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/G2SW5K9S-vacmaster-auto-detail-kit-vadk?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOSZSAM-los-angeles-dodger-stadium-poster-hd-print-canvas-wall-home-decor-poster-gift-living-room-bedroom-boy-girl-gift-decoration-wall-art-20x40-no-framed?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/99H33R72-comp-cams-7703-1-hi-tech-pushrod-length-checker-7-800-to-8-800-length?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/S9HQG6C-vet-worthy-lysine-paw-gel-aid-for-cats-3-oz?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOSZS14-aguperfit-nylon-bands-compatible-with-apple-watch-42mm-44mm-robust-and-breathable-replacement-strap-works-with-iwatch-series-6se54321?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/14KNV8PS-large-metal-glass-solar-flowers-yard-art-garden-solar-lights-outdoor-solar-powered-stake-lights-deco?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOSZRRC-allomn-solar-garden-lights-moon-crackle-glass-globe-stake-mental-lights-outdoor-decorative-waterproof-solar-lights-for-patio-decor-landscape-lawn?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1CFBAW6G-dahey-1-pack-farmhouse-bathroom-wall-decor-2-sides-funny-wood-sign-with-saying-toilet-paper-sign-hom?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2C8GHVQY-starter-clutch-flywheel-flange-amp-one-way-bearing-for-yamaha-yfm350u-big-bear-2wd-1997-1998yfm350fw?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOSZRPI-yonique-womens-bikini-swimsuits-high-waisted-two-piece-bathing-suits-tie-knot-cutout-swimwear-with-criss-cross-bottom?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/GK2TNTI-dgzzi-moosehead-bridge-head-black-plastic-slip-on-moosehead-bridge-head-for-billiard-pool-cue-stick?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/G2QLYE4Y-new-genuine-pure-polaris-atv-accessories-polaris-sportsman-handwarmers-pt-2877363?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/E5DJDY76-liberalism-find-a-cure-shirt?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/ZET3FLS-cross-stitch-kits-for-beginners-adults-with-easy-patterns-stamped-kits-3-thread-embroidery-cross-sti?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2AC0VDLI-online-auto-supply-for-gm-windshield-molding-trim-clip-screw-in-studs-rear-window-vinyl-top-qty-25?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1C39OYGTK-co-rode-6-sets-m-2-screws-standoffs-nvme-ssd-screw-kit-with-heatsinks-cooler-screwdriver-for-asus-motherboard?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/15VUGWG44-mozamy-creative-halloween-bats-wall-decals-halloween-decor-black-bats-decals-halloween-decorations?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOSZNG6-bjking-004-cap-mounted-ear-muff-nrr-28db-adjustable-hard-hat-ear-muffs?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/O8JEWFE-superdfm-135g-696859225338-backyard-poultry?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2CAZE4X6-bouncy-bands-for-elementary-school-chairs-black?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/3PCBAV3HE-superatv-heavy-duty-winch-mounting-plate-for-yamaha-wolverine-x2-2019?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2ZABMB8G-yahill-aluminum-folding-collapsible-camping-table-roll-up-3-size-with-carrying-bag-for-indoor-and-ou?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/4V4VCCK-mifoge-kalimba-thumb-piano-17-keys-with-koa-acacia-wood-mbira-finger-piano-builts-in-waterproof-prot?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/L8O7F2PS-conxki-traction-control-cotton-socks-indoor-dog-nonskid-knit-socks-5-pack-20-pieces-socks-4-velcro-a?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1ENT0BFK-eden-tamari-soy-sauce-organic-10-oz?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1PIQKOGCU-snoopy-and-woodstock-hoodie?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/6ZY63OSO-easy-precision-paper-piecing-starter-kit-by-acorn-products?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2MAQTP3S-cadbury-starbar-49g-12-full-size-49g-bars-of-delicious-cadbury-chocolate-in-a-unique-gift-box-and-a?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/6KNMIV04-pixar-christmas-cars-have-a-mater-christmas-premium-t-shirt?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1CF1YNOTI-startech-com-raspberry-pi-board-usb-2-0-480mbps-usb-to-m-2-sata-converter-usb-to-sata-raspberry-pi-ssd-pib2m21?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/6YJHNC7G-transparent-classic-hot-water-bottle-made-in-germany-clear-2pk?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40SIS1AMA-z-color-100pcs-clear-plastic-baby-feet-display-showcase-shoe-trees-baby-booties-shoes-and-socks-9cm?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/CK0L5TA-no-rinse-body-bath-8-fl-oz-leaves-skin-clean-refreshed-and-odor-free-pack-of-2-makes-16-complete-bat?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/48JDIXK-lordhair-toupee-for-men-hair-pieces-french-lace-front-mono-top-hair-systems-replacement-6x8-inches-n?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/M1FFJ7BS-mrcuff-sailing-ship-sailboat-colored-sails-pair-cufflinks-in-a-presentation-gift-box-polishing-cloth?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2FRUBRH4-chevy-silverado-realtree-ap-z71-off-road-decals-stickers-ap-2001-2006-bed-side-1500-2500-hd-set-of-2?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/FWWDKZE-loveinusa-mini-table-trash-can-recycling-brushed-stainless-steel-wave-cover-counter-top-garbage-bin?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2YHQOV9C-b07b2kvhdt?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/OY1HTQO-primacare-rs-8631-cpr-shield-barrier-keyring-pouch?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2O04UA80-zeronic-womens-bootleg-yoga-pants-long-bootcut-workout-running-pants?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/3L8WO8W-ezzy-auto-pack-of-2-center-console-armrest-lid-latch-fit-for-isuzu-saab-buick-rainer-gmc-envoy?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/3PM3EFP2G-mr-o-ring-001-viton-o-ring-75a-durometer-132-quot-id-332-quot-od-132-quot-cs-brown-pack-of-100?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/3OGK1D9MI-energy-star-led-flood-light-bulbs-br30-65w-equivalent-cri-80-dimmable-warm-white-3000k-750lm-indoor-flood-lights-for-recessed-cans-ul-listed?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/G3SQ8NWW-baby-joy-rocking-bassinet-2-in-1-lightweight-travel-cradle-wdetachable-amp-washable-mattress-zippere?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1BI8YMV2C-saim-stainless-steel-air-vent-louver-19mm-bottom-diameter-slope-round-ventilator-perforated-mesh-cabine-cupboard-hole-air-vent-cover-mini-louver-for?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1PRY6PU7S-flyrose-womens-metallic-keyhole-cutout-backless-halter-rave-dance-crop-tube-top-bra?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/FDLNJZNM-mesh-front-bumper-upper-hood-grille-grill-with-drl-led-accent-vent-lights-replacement-for-ford-musta?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/NP3ZK40-marvel-avengers-endgame-iron-man-logo-graphic-t-shirt?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/112T38RC-2-pair-car-stereo-speaker-wire-connection-harness-plugs-for-4-speakers-installation-for-infiniti-and?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/RLDYERIG-goldfish-chinese-curry-sauce-405g?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2ZRD776U-bruceriver-men-s-knitted-fingerless-ragg-gloves-with-thinsulate-lining?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2P9O1XZ4-pasokin-peanut-butter-crumbs-gluten-free-vegan-all-natural-peanut-butter-topping-10-5-ounce-jar?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/DPGA51S-mickey-and-friends-minnie-mouse-big-face-t-shirt?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2DYZV2CO-vipmotoz-black-housing-oe-style-projector-headlight-headlamp-assembly-for-2012-2014-toyota-camry-hal?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/H27QCNS-3-4-x-12-plastic-t-molding-brown?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOSZNC8-hawaiian-island-creations-hic-20-quot-lacerations-8-way-stretch-boardshorts?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2ALFJ9NI-cb500f-motorcycle-radiator-grille-guard-cover-for-honda-cb500f-2016-2017-2018?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/6KNL9MOM-disney-snow-white-sleepy-always-tired-circle-graphic-t-shirt?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/ETL2KUW-deutsch-dt-3-pin-pigtail-kit-16awg-nmma-abyc-uscd-certified-boat-rv-wire-600v-made-in-usa?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1C48YHQ-own-root-one-gallon-quietness-hardy-rose-by-heirloom-roses?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2ELGFZPC-gator-sports-tip-toes-socks?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOSZMHC-cp3-e12-candelabra-led-bulbs-360-degree-lighting-40w-equivalent-dimmable-chandelier-light-bulbs-4w-5000k-daylight-white-400lm-vintage-clear-candle?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/3N33YFBQI-mason-jar-recipe-cards-50-double-sided-cards-4x6-inches-thick-card-stock?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1AEN2U41K-tea-cups-pottery-chinese-tea-cup-set-of-4-japanese-yunomi-tea-cups-asian-porcelian-tea-cups-10-oz-handleless-ceramic-cup-for-matcha-tea-green?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOSZM7U-b092sl7c55?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/F42O1CBM-usmc-medallion-2-inches-black-and-silver-marine-corps-ega-eagle-globe-anchor-car-emblem?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/88JXNV7I-glass-bead-3-large-diameter-bead-25-lbs-sand-blast-cabinet-blasting-media-by-tacoma-company?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1GZ32KAKU-om-de-tafel?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1CPLU9UEU-11th-smith-who-dr-11-matt-dw-doctor-quotes-prints-wall-design-for-living-room-home-decor-customize-poster-no-frame?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOSZLSA-hair-rollers-36-packs-self-grip-salon-hairdressing-curlers-hair-curlers-sets-heatless-hair-curlers-with-10pcs-hair-clips?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2MN3PVU-pakoula-chair-seat-cover-for-booster-seat-protect-booster-chair-cover-dining-chair-protector-for-boo?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/157SW1T62-plastic-plates-set-rose-gold-party-supplies-50-pack?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOSZLKW-ever-pretty-womens-v-neck-lace-tulle-sleeve-a-line-formal-party-dress-0226?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1GZ32LBMS-asap-nitrile-gloves-case-of-1000-gloves-large-disposable-latex-free-rubber-gloves-ambidextrous?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1C66DMHG0-l-x27-art-d-x27-etre-francais-essai-french-edition?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/11R8221A-zipper-rescue-zipper-repair-kits-the-original-zipper-repair-kit-made-in-america-since-1993-outdoor?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOSX0XC-dr-js-natural-pet-grooming-cleaning-and-deodorizing-wipes-with-patented-pca-technology-with-all-natural-ingredients-ultra-thick-and-strong-wipes?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/EE2GQJQ-hanging-folder-tabs-and-inserts-for-organize-and-distinguish-hanging-files-2-inch-clear-to-read-60-s?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOSX0V8-wireless-earbuds-bluetooth-5-0-headphones-with-charging-case-3d-stereo-earpods-air-buds-in-ear-ear-buds-with-deep-bass-touch-control-earphones-sport?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2CPTLT1I-primal-wear-mens-aro-evo-jersey?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1PJTVNWYK-thai-rice-flour-2x16oz?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1AEQ5B3WU-100pcs-tomato-stem-support-clips-garden-fixing-clips-plant-trainers-plant-bender-for-tomato-stem-to-grow-upright-and-make-tomato-healthier-prevent?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/BZ622U6-kawasaki-oil-filter-16097-0008?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1R3V2PSC-alloyworks-4-row-all-aluminum-radiator-for-1987-2006-jeep-wrangler-tj-yj-gm-chevy-v8-conversion-2-4l?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/48L0D2W-norenchy-diy-3d-wooden-puzzles-clock-model-building-kit-table-desk-clock-wood-puzzles-toy-for-adults?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/5E2UGSM-unipak-plush-treehouse-with-animals-five-5-stuffed-forest-animals?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOSWWZC-t-trees-princess-jewelry-set-girls-mermaid-handbag-necklace-bracelet-earrings-ring-hair-clips-set-princess-costume-jewelry-party-favors-gift-for?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOSWWLW-bgtec-4-quot-dry-diamond-polishing-pads-set-8-pieces-pads-kit-30-3000-for-granite-marble-stone-quartz-tiles-concrete-floor-edges-countertop?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/8BB4KIMG-grtard-extra-large-magnetic-clips-6pack-heavy-duty-stainless-steel-metal-clips-2-2-inch?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1H91Z7ZBU-usb-floppy-disk-drive-emulator-n-drive-100-for-yamaha-clavinova-cvp-75-cvp-83-cvp-85-cvp-87-cvp-89?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOSWWJS-hanjo-pets-cat-backpack-expandable-cat-backpack-carrier-airline-approved-pet-carrier-backpack-for-small-dogs-puppy-small-cat-up-to-16-lbs?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/7B0ZROLK-ransoto-new-carburetor-carb-compatible-with-briggs-stratton-693480-693479-694056-replaces-499306-495?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOSWWCE-horimiya-stickers-vinyl-waterproof-stickers50pcsfor-laptop-skateboard-snowboard-water-bottle-phone-car-bicycle-luggage-guitar-computer-as?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/KXWLTNUE-ufo-ya04809-089-replacement-plastic-for-yamaha-fender-frt-yzf-10-blue?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOSWWAA-buoyancy-aid-for-adults-adults-size-watersports-swim-vest-buoyancy-aid-jacket-for-fishing-sailing-surfing-boating-kayaking-for-water-sports?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1APXG9CE8-5-pack-tznzxm-for-unimax-umx-u683cl-screen-protector-tempered-glass-case-friendly-9h-hardness-hd-clear-anti-scratch-bubble-free-tempered-glass?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/8KD9N7Z2-firestone-20-x-40-45-mil-epdm-pond-liner-fish-safe?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOSWW8G-lil-u-zi-v-ert-rapper-tapestry-wall-hanging-anime-tapestries-table-cloth-wall-art-blanket-for-bedroom-living-room-dorm-kitchen-resraurant-60x70-inch?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/K28ZF9LS-reduce-wrinkles-add-moisture-sakana-collagen-x10-by-rose-gold-anti-aging-firming-skin-dhl-express-fr?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/15X4VIYLW-cegar-quadrilateral-magnetic-patch-3-pack?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOSWVFO-danf-2-pack-dominican-flag-3x5-foot-polyester-bandera-de-republica-dominicana-national-flags-polyester-with-brass-grommets-3-x-5-ft?utm_source=ubuy_gogsc]
+0detail page browser going to hit.29
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 44071
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Dec 16, 2021 11:08:31 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+https://www.ubuy.co.in/product/1GXCVSEMY-gopuram-turmeric-stick-1-kg?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1GXCVSEMY-gopuram-turmeric-stick-1-kg?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/MOFXEUSW-galaxy-led-starry-night-projector-4-in-1-led-star-galaxy-party-light-projector-with-ocean-wave-built?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/MOFXEUSW-galaxy-led-starry-night-projector-4-in-1-led-star-galaxy-party-light-projector-with-ocean-wave-built?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/10JWYUEM-windstrong-lot-of-100-4x6-inch-us-american-hand-held-stick-flags-safety-ball-top-made-in-the-usa?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/10JWYUEM-windstrong-lot-of-100-4x6-inch-us-american-hand-held-stick-flags-safety-ball-top-made-in-the-usa?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1GEDX3UM8-criminal-procedures-prosecution-and-adjudication-connected-casebook-aspen-casebook?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1GEDX3UM8-criminal-procedures-prosecution-and-adjudication-connected-casebook-aspen-casebook?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1PJVVYN3W-bagster-3cuyd-dumpster-in-a-bag-holds-up-to-3-300-lb-green?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1PJVVYN3W-bagster-3cuyd-dumpster-in-a-bag-holds-up-to-3-300-lb-green?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOSZX90-grow-lights-for-indoor-plants-chvegluz-120-led-4-head-plant-grow-lights-indoor-plants-with-full-spectrum-3912h-timer-9-brightness-levels?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOSZX90-grow-lights-for-indoor-plants-chvegluz-120-led-4-head-plant-grow-lights-indoor-plants-with-full-spectrum-3912h-timer-9-brightness-levels?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOSZX6W-baosha-convertible-backpack-15-6-inch-laptop-bag-case-travel-briefcase-casual-school-college-backpack-for-women-bc-04-hs?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOSZX6W-baosha-convertible-backpack-15-6-inch-laptop-bag-case-travel-briefcase-casual-school-college-backpack-for-women-bc-04-hs?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOSZTUA-stx-ice-hockey-stallion-hpr-1-1-shoulder-pad?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOSZTUA-stx-ice-hockey-stallion-hpr-1-1-shoulder-pad?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/QKV3N47I-computer-speakers-with-surround-sound-2-0ch-usb-wired-powered-multimedia-speaker-for-desktop-tv-pc-l?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/QKV3N47I-computer-speakers-with-surround-sound-2-0ch-usb-wired-powered-multimedia-speaker-for-desktop-tv-pc-l?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2NFPTPC6-a-gangstas-pledge-4-gangsta-love-series-paperback-ndash-may-16-2019?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2NFPTPC6-a-gangstas-pledge-4-gangsta-love-series-paperback-ndash-may-16-2019?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/OZ0AEV0-tn-trunknets-inc-trunk-envelope-cargo-net-for-nissan-pathfinder-2013-2020?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/OZ0AEV0-tn-trunknets-inc-trunk-envelope-cargo-net-for-nissan-pathfinder-2013-2020?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOSZTIO-anthony-veer-walton-men-s-loafer-slip-on-dress-shoes-leather-comfort-lightweight?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOSZTIO-anthony-veer-walton-men-s-loafer-slip-on-dress-shoes-leather-comfort-lightweight?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/BRE6MHE-color-display-for-ford-escape-focus-150mph-speedometer-instrument-lq042t5dz11?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/BRE6MHE-color-display-for-ford-escape-focus-150mph-speedometer-instrument-lq042t5dz11?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2P4J6ELC-comfortview-womens-wide-width-the-jemma-flat?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2P4J6ELC-comfortview-womens-wide-width-the-jemma-flat?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/ERQ6TU8-women-s-7-red-charm-bracelet-with-sterling-silver-coin-amulet-for-financial-success-prosperity-gift?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/ERQ6TU8-women-s-7-red-charm-bracelet-with-sterling-silver-coin-amulet-for-financial-success-prosperity-gift?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1RNN6EDS-play-stage-balls-in-4-sizes-for-contact-juggling-body-rolling-manipulation-and-ball-stage-juggling-i?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1RNN6EDS-play-stage-balls-in-4-sizes-for-contact-juggling-body-rolling-manipulation-and-ball-stage-juggling-i?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2FU2FIJC-amalie-160-68321-91-10pk-blue-high-temperature-grease-14-oz-pack-of-10?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2FU2FIJC-amalie-160-68321-91-10pk-blue-high-temperature-grease-14-oz-pack-of-10?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/3RLVYVE-modase-backpack-hiking-backpack-large-40l-lightweight-water-resistant-travel-backpack-daypack?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/3RLVYVE-modase-backpack-hiking-backpack-large-40l-lightweight-water-resistant-travel-backpack-daypack?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/G2SW5K9S-vacmaster-auto-detail-kit-vadk?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/G2SW5K9S-vacmaster-auto-detail-kit-vadk?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOSZSAM-los-angeles-dodger-stadium-poster-hd-print-canvas-wall-home-decor-poster-gift-living-room-bedroom-boy-girl-gift-decoration-wall-art-20x40-no-framed?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOSZSAM-los-angeles-dodger-stadium-poster-hd-print-canvas-wall-home-decor-poster-gift-living-room-bedroom-boy-girl-gift-decoration-wall-art-20x40-no-framed?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/99H33R72-comp-cams-7703-1-hi-tech-pushrod-length-checker-7-800-to-8-800-length?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/99H33R72-comp-cams-7703-1-hi-tech-pushrod-length-checker-7-800-to-8-800-length?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/S9HQG6C-vet-worthy-lysine-paw-gel-aid-for-cats-3-oz?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/S9HQG6C-vet-worthy-lysine-paw-gel-aid-for-cats-3-oz?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOSZS14-aguperfit-nylon-bands-compatible-with-apple-watch-42mm-44mm-robust-and-breathable-replacement-strap-works-with-iwatch-series-6se54321?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOSZS14-aguperfit-nylon-bands-compatible-with-apple-watch-42mm-44mm-robust-and-breathable-replacement-strap-works-with-iwatch-series-6se54321?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/14KNV8PS-large-metal-glass-solar-flowers-yard-art-garden-solar-lights-outdoor-solar-powered-stake-lights-deco?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/14KNV8PS-large-metal-glass-solar-flowers-yard-art-garden-solar-lights-outdoor-solar-powered-stake-lights-deco?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOSZRRC-allomn-solar-garden-lights-moon-crackle-glass-globe-stake-mental-lights-outdoor-decorative-waterproof-solar-lights-for-patio-decor-landscape-lawn?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOSZRRC-allomn-solar-garden-lights-moon-crackle-glass-globe-stake-mental-lights-outdoor-decorative-waterproof-solar-lights-for-patio-decor-landscape-lawn?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1CFBAW6G-dahey-1-pack-farmhouse-bathroom-wall-decor-2-sides-funny-wood-sign-with-saying-toilet-paper-sign-hom?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1CFBAW6G-dahey-1-pack-farmhouse-bathroom-wall-decor-2-sides-funny-wood-sign-with-saying-toilet-paper-sign-hom?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2C8GHVQY-starter-clutch-flywheel-flange-amp-one-way-bearing-for-yamaha-yfm350u-big-bear-2wd-1997-1998yfm350fw?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2C8GHVQY-starter-clutch-flywheel-flange-amp-one-way-bearing-for-yamaha-yfm350u-big-bear-2wd-1997-1998yfm350fw?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOSZRPI-yonique-womens-bikini-swimsuits-high-waisted-two-piece-bathing-suits-tie-knot-cutout-swimwear-with-criss-cross-bottom?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOSZRPI-yonique-womens-bikini-swimsuits-high-waisted-two-piece-bathing-suits-tie-knot-cutout-swimwear-with-criss-cross-bottom?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/GK2TNTI-dgzzi-moosehead-bridge-head-black-plastic-slip-on-moosehead-bridge-head-for-billiard-pool-cue-stick?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/GK2TNTI-dgzzi-moosehead-bridge-head-black-plastic-slip-on-moosehead-bridge-head-for-billiard-pool-cue-stick?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/G2QLYE4Y-new-genuine-pure-polaris-atv-accessories-polaris-sportsman-handwarmers-pt-2877363?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/G2QLYE4Y-new-genuine-pure-polaris-atv-accessories-polaris-sportsman-handwarmers-pt-2877363?utm_source=ubuy_gogsc
+30detail page browser going to hit.59
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 38573
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Dec 16, 2021 11:12:44 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+https://www.ubuy.co.in/product/E5DJDY76-liberalism-find-a-cure-shirt?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/E5DJDY76-liberalism-find-a-cure-shirt?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/ZET3FLS-cross-stitch-kits-for-beginners-adults-with-easy-patterns-stamped-kits-3-thread-embroidery-cross-sti?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/ZET3FLS-cross-stitch-kits-for-beginners-adults-with-easy-patterns-stamped-kits-3-thread-embroidery-cross-sti?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2AC0VDLI-online-auto-supply-for-gm-windshield-molding-trim-clip-screw-in-studs-rear-window-vinyl-top-qty-25?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2AC0VDLI-online-auto-supply-for-gm-windshield-molding-trim-clip-screw-in-studs-rear-window-vinyl-top-qty-25?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1C39OYGTK-co-rode-6-sets-m-2-screws-standoffs-nvme-ssd-screw-kit-with-heatsinks-cooler-screwdriver-for-asus-motherboard?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1C39OYGTK-co-rode-6-sets-m-2-screws-standoffs-nvme-ssd-screw-kit-with-heatsinks-cooler-screwdriver-for-asus-motherboard?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/15VUGWG44-mozamy-creative-halloween-bats-wall-decals-halloween-decor-black-bats-decals-halloween-decorations?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/15VUGWG44-mozamy-creative-halloween-bats-wall-decals-halloween-decor-black-bats-decals-halloween-decorations?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOSZNG6-bjking-004-cap-mounted-ear-muff-nrr-28db-adjustable-hard-hat-ear-muffs?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOSZNG6-bjking-004-cap-mounted-ear-muff-nrr-28db-adjustable-hard-hat-ear-muffs?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/O8JEWFE-superdfm-135g-696859225338-backyard-poultry?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/O8JEWFE-superdfm-135g-696859225338-backyard-poultry?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2CAZE4X6-bouncy-bands-for-elementary-school-chairs-black?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2CAZE4X6-bouncy-bands-for-elementary-school-chairs-black?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/3PCBAV3HE-superatv-heavy-duty-winch-mounting-plate-for-yamaha-wolverine-x2-2019?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/3PCBAV3HE-superatv-heavy-duty-winch-mounting-plate-for-yamaha-wolverine-x2-2019?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2ZABMB8G-yahill-aluminum-folding-collapsible-camping-table-roll-up-3-size-with-carrying-bag-for-indoor-and-ou?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2ZABMB8G-yahill-aluminum-folding-collapsible-camping-table-roll-up-3-size-with-carrying-bag-for-indoor-and-ou?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/4V4VCCK-mifoge-kalimba-thumb-piano-17-keys-with-koa-acacia-wood-mbira-finger-piano-builts-in-waterproof-prot?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/4V4VCCK-mifoge-kalimba-thumb-piano-17-keys-with-koa-acacia-wood-mbira-finger-piano-builts-in-waterproof-prot?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/L8O7F2PS-conxki-traction-control-cotton-socks-indoor-dog-nonskid-knit-socks-5-pack-20-pieces-socks-4-velcro-a?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/L8O7F2PS-conxki-traction-control-cotton-socks-indoor-dog-nonskid-knit-socks-5-pack-20-pieces-socks-4-velcro-a?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1ENT0BFK-eden-tamari-soy-sauce-organic-10-oz?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1ENT0BFK-eden-tamari-soy-sauce-organic-10-oz?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1PIQKOGCU-snoopy-and-woodstock-hoodie?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1PIQKOGCU-snoopy-and-woodstock-hoodie?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/6ZY63OSO-easy-precision-paper-piecing-starter-kit-by-acorn-products?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/6ZY63OSO-easy-precision-paper-piecing-starter-kit-by-acorn-products?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2MAQTP3S-cadbury-starbar-49g-12-full-size-49g-bars-of-delicious-cadbury-chocolate-in-a-unique-gift-box-and-a?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2MAQTP3S-cadbury-starbar-49g-12-full-size-49g-bars-of-delicious-cadbury-chocolate-in-a-unique-gift-box-and-a?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/6KNMIV04-pixar-christmas-cars-have-a-mater-christmas-premium-t-shirt?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/6KNMIV04-pixar-christmas-cars-have-a-mater-christmas-premium-t-shirt?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1CF1YNOTI-startech-com-raspberry-pi-board-usb-2-0-480mbps-usb-to-m-2-sata-converter-usb-to-sata-raspberry-pi-ssd-pib2m21?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1CF1YNOTI-startech-com-raspberry-pi-board-usb-2-0-480mbps-usb-to-m-2-sata-converter-usb-to-sata-raspberry-pi-ssd-pib2m21?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/6YJHNC7G-transparent-classic-hot-water-bottle-made-in-germany-clear-2pk?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/6YJHNC7G-transparent-classic-hot-water-bottle-made-in-germany-clear-2pk?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40SIS1AMA-z-color-100pcs-clear-plastic-baby-feet-display-showcase-shoe-trees-baby-booties-shoes-and-socks-9cm?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40SIS1AMA-z-color-100pcs-clear-plastic-baby-feet-display-showcase-shoe-trees-baby-booties-shoes-and-socks-9cm?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/CK0L5TA-no-rinse-body-bath-8-fl-oz-leaves-skin-clean-refreshed-and-odor-free-pack-of-2-makes-16-complete-bat?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/CK0L5TA-no-rinse-body-bath-8-fl-oz-leaves-skin-clean-refreshed-and-odor-free-pack-of-2-makes-16-complete-bat?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/48JDIXK-lordhair-toupee-for-men-hair-pieces-french-lace-front-mono-top-hair-systems-replacement-6x8-inches-n?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/48JDIXK-lordhair-toupee-for-men-hair-pieces-french-lace-front-mono-top-hair-systems-replacement-6x8-inches-n?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/M1FFJ7BS-mrcuff-sailing-ship-sailboat-colored-sails-pair-cufflinks-in-a-presentation-gift-box-polishing-cloth?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/M1FFJ7BS-mrcuff-sailing-ship-sailboat-colored-sails-pair-cufflinks-in-a-presentation-gift-box-polishing-cloth?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2FRUBRH4-chevy-silverado-realtree-ap-z71-off-road-decals-stickers-ap-2001-2006-bed-side-1500-2500-hd-set-of-2?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2FRUBRH4-chevy-silverado-realtree-ap-z71-off-road-decals-stickers-ap-2001-2006-bed-side-1500-2500-hd-set-of-2?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/FWWDKZE-loveinusa-mini-table-trash-can-recycling-brushed-stainless-steel-wave-cover-counter-top-garbage-bin?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/FWWDKZE-loveinusa-mini-table-trash-can-recycling-brushed-stainless-steel-wave-cover-counter-top-garbage-bin?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2YHQOV9C-b07b2kvhdt?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2YHQOV9C-b07b2kvhdt?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/OY1HTQO-primacare-rs-8631-cpr-shield-barrier-keyring-pouch?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/OY1HTQO-primacare-rs-8631-cpr-shield-barrier-keyring-pouch?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2O04UA80-zeronic-womens-bootleg-yoga-pants-long-bootcut-workout-running-pants?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2O04UA80-zeronic-womens-bootleg-yoga-pants-long-bootcut-workout-running-pants?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/3L8WO8W-ezzy-auto-pack-of-2-center-console-armrest-lid-latch-fit-for-isuzu-saab-buick-rainer-gmc-envoy?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/3L8WO8W-ezzy-auto-pack-of-2-center-console-armrest-lid-latch-fit-for-isuzu-saab-buick-rainer-gmc-envoy?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/3PM3EFP2G-mr-o-ring-001-viton-o-ring-75a-durometer-132-quot-id-332-quot-od-132-quot-cs-brown-pack-of-100?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/3PM3EFP2G-mr-o-ring-001-viton-o-ring-75a-durometer-132-quot-id-332-quot-od-132-quot-cs-brown-pack-of-100?utm_source=ubuy_gogsc
+java.lang.IndexOutOfBoundsException: Index 31 out of bounds for length 31
+60detail page browser going to hit.89
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 29747
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Dec 16, 2021 11:17:01 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+https://www.ubuy.co.in/product/3OGK1D9MI-energy-star-led-flood-light-bulbs-br30-65w-equivalent-cri-80-dimmable-warm-white-3000k-750lm-indoor-flood-lights-for-recessed-cans-ul-listed?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/3OGK1D9MI-energy-star-led-flood-light-bulbs-br30-65w-equivalent-cri-80-dimmable-warm-white-3000k-750lm-indoor-flood-lights-for-recessed-cans-ul-listed?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/G3SQ8NWW-baby-joy-rocking-bassinet-2-in-1-lightweight-travel-cradle-wdetachable-amp-washable-mattress-zippere?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/G3SQ8NWW-baby-joy-rocking-bassinet-2-in-1-lightweight-travel-cradle-wdetachable-amp-washable-mattress-zippere?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1BI8YMV2C-saim-stainless-steel-air-vent-louver-19mm-bottom-diameter-slope-round-ventilator-perforated-mesh-cabine-cupboard-hole-air-vent-cover-mini-louver-for?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1BI8YMV2C-saim-stainless-steel-air-vent-louver-19mm-bottom-diameter-slope-round-ventilator-perforated-mesh-cabine-cupboard-hole-air-vent-cover-mini-louver-for?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1PRY6PU7S-flyrose-womens-metallic-keyhole-cutout-backless-halter-rave-dance-crop-tube-top-bra?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1PRY6PU7S-flyrose-womens-metallic-keyhole-cutout-backless-halter-rave-dance-crop-tube-top-bra?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/FDLNJZNM-mesh-front-bumper-upper-hood-grille-grill-with-drl-led-accent-vent-lights-replacement-for-ford-musta?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/FDLNJZNM-mesh-front-bumper-upper-hood-grille-grill-with-drl-led-accent-vent-lights-replacement-for-ford-musta?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/NP3ZK40-marvel-avengers-endgame-iron-man-logo-graphic-t-shirt?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/NP3ZK40-marvel-avengers-endgame-iron-man-logo-graphic-t-shirt?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/112T38RC-2-pair-car-stereo-speaker-wire-connection-harness-plugs-for-4-speakers-installation-for-infiniti-and?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/112T38RC-2-pair-car-stereo-speaker-wire-connection-harness-plugs-for-4-speakers-installation-for-infiniti-and?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/RLDYERIG-goldfish-chinese-curry-sauce-405g?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/RLDYERIG-goldfish-chinese-curry-sauce-405g?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2ZRD776U-bruceriver-men-s-knitted-fingerless-ragg-gloves-with-thinsulate-lining?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2ZRD776U-bruceriver-men-s-knitted-fingerless-ragg-gloves-with-thinsulate-lining?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2P9O1XZ4-pasokin-peanut-butter-crumbs-gluten-free-vegan-all-natural-peanut-butter-topping-10-5-ounce-jar?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2P9O1XZ4-pasokin-peanut-butter-crumbs-gluten-free-vegan-all-natural-peanut-butter-topping-10-5-ounce-jar?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/DPGA51S-mickey-and-friends-minnie-mouse-big-face-t-shirt?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/DPGA51S-mickey-and-friends-minnie-mouse-big-face-t-shirt?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2DYZV2CO-vipmotoz-black-housing-oe-style-projector-headlight-headlamp-assembly-for-2012-2014-toyota-camry-hal?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2DYZV2CO-vipmotoz-black-housing-oe-style-projector-headlight-headlamp-assembly-for-2012-2014-toyota-camry-hal?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/H27QCNS-3-4-x-12-plastic-t-molding-brown?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/H27QCNS-3-4-x-12-plastic-t-molding-brown?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOSZNC8-hawaiian-island-creations-hic-20-quot-lacerations-8-way-stretch-boardshorts?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOSZNC8-hawaiian-island-creations-hic-20-quot-lacerations-8-way-stretch-boardshorts?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2ALFJ9NI-cb500f-motorcycle-radiator-grille-guard-cover-for-honda-cb500f-2016-2017-2018?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2ALFJ9NI-cb500f-motorcycle-radiator-grille-guard-cover-for-honda-cb500f-2016-2017-2018?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/6KNL9MOM-disney-snow-white-sleepy-always-tired-circle-graphic-t-shirt?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/6KNL9MOM-disney-snow-white-sleepy-always-tired-circle-graphic-t-shirt?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/ETL2KUW-deutsch-dt-3-pin-pigtail-kit-16awg-nmma-abyc-uscd-certified-boat-rv-wire-600v-made-in-usa?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/ETL2KUW-deutsch-dt-3-pin-pigtail-kit-16awg-nmma-abyc-uscd-certified-boat-rv-wire-600v-made-in-usa?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1C48YHQ-own-root-one-gallon-quietness-hardy-rose-by-heirloom-roses?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1C48YHQ-own-root-one-gallon-quietness-hardy-rose-by-heirloom-roses?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2ELGFZPC-gator-sports-tip-toes-socks?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2ELGFZPC-gator-sports-tip-toes-socks?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOSZMHC-cp3-e12-candelabra-led-bulbs-360-degree-lighting-40w-equivalent-dimmable-chandelier-light-bulbs-4w-5000k-daylight-white-400lm-vintage-clear-candle?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOSZMHC-cp3-e12-candelabra-led-bulbs-360-degree-lighting-40w-equivalent-dimmable-chandelier-light-bulbs-4w-5000k-daylight-white-400lm-vintage-clear-candle?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/3N33YFBQI-mason-jar-recipe-cards-50-double-sided-cards-4x6-inches-thick-card-stock?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/3N33YFBQI-mason-jar-recipe-cards-50-double-sided-cards-4x6-inches-thick-card-stock?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1AEN2U41K-tea-cups-pottery-chinese-tea-cup-set-of-4-japanese-yunomi-tea-cups-asian-porcelian-tea-cups-10-oz-handleless-ceramic-cup-for-matcha-tea-green?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1AEN2U41K-tea-cups-pottery-chinese-tea-cup-set-of-4-japanese-yunomi-tea-cups-asian-porcelian-tea-cups-10-oz-handleless-ceramic-cup-for-matcha-tea-green?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOSZM7U-b092sl7c55?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOSZM7U-b092sl7c55?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/F42O1CBM-usmc-medallion-2-inches-black-and-silver-marine-corps-ega-eagle-globe-anchor-car-emblem?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/F42O1CBM-usmc-medallion-2-inches-black-and-silver-marine-corps-ega-eagle-globe-anchor-car-emblem?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/88JXNV7I-glass-bead-3-large-diameter-bead-25-lbs-sand-blast-cabinet-blasting-media-by-tacoma-company?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/88JXNV7I-glass-bead-3-large-diameter-bead-25-lbs-sand-blast-cabinet-blasting-media-by-tacoma-company?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1GZ32KAKU-om-de-tafel?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1GZ32KAKU-om-de-tafel?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1CPLU9UEU-11th-smith-who-dr-11-matt-dw-doctor-quotes-prints-wall-design-for-living-room-home-decor-customize-poster-no-frame?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1CPLU9UEU-11th-smith-who-dr-11-matt-dw-doctor-quotes-prints-wall-design-for-living-room-home-decor-customize-poster-no-frame?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOSZLSA-hair-rollers-36-packs-self-grip-salon-hairdressing-curlers-hair-curlers-sets-heatless-hair-curlers-with-10pcs-hair-clips?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOSZLSA-hair-rollers-36-packs-self-grip-salon-hairdressing-curlers-hair-curlers-sets-heatless-hair-curlers-with-10pcs-hair-clips?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2MN3PVU-pakoula-chair-seat-cover-for-booster-seat-protect-booster-chair-cover-dining-chair-protector-for-boo?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2MN3PVU-pakoula-chair-seat-cover-for-booster-seat-protect-booster-chair-cover-dining-chair-protector-for-boo?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/157SW1T62-plastic-plates-set-rose-gold-party-supplies-50-pack?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/157SW1T62-plastic-plates-set-rose-gold-party-supplies-50-pack?utm_source=ubuy_gogsc
+java.lang.IndexOutOfBoundsException: Index 31 out of bounds for length 31
+90detail page browser going to hit.119
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 25034
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Dec 16, 2021 11:21:28 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+https://www.ubuy.co.in/product/40QOSZLKW-ever-pretty-womens-v-neck-lace-tulle-sleeve-a-line-formal-party-dress-0226?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOSZLKW-ever-pretty-womens-v-neck-lace-tulle-sleeve-a-line-formal-party-dress-0226?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1GZ32LBMS-asap-nitrile-gloves-case-of-1000-gloves-large-disposable-latex-free-rubber-gloves-ambidextrous?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1GZ32LBMS-asap-nitrile-gloves-case-of-1000-gloves-large-disposable-latex-free-rubber-gloves-ambidextrous?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1C66DMHG0-l-x27-art-d-x27-etre-francais-essai-french-edition?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1C66DMHG0-l-x27-art-d-x27-etre-francais-essai-french-edition?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/11R8221A-zipper-rescue-zipper-repair-kits-the-original-zipper-repair-kit-made-in-america-since-1993-outdoor?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/11R8221A-zipper-rescue-zipper-repair-kits-the-original-zipper-repair-kit-made-in-america-since-1993-outdoor?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOSX0XC-dr-js-natural-pet-grooming-cleaning-and-deodorizing-wipes-with-patented-pca-technology-with-all-natural-ingredients-ultra-thick-and-strong-wipes?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOSX0XC-dr-js-natural-pet-grooming-cleaning-and-deodorizing-wipes-with-patented-pca-technology-with-all-natural-ingredients-ultra-thick-and-strong-wipes?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/EE2GQJQ-hanging-folder-tabs-and-inserts-for-organize-and-distinguish-hanging-files-2-inch-clear-to-read-60-s?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/EE2GQJQ-hanging-folder-tabs-and-inserts-for-organize-and-distinguish-hanging-files-2-inch-clear-to-read-60-s?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOSX0V8-wireless-earbuds-bluetooth-5-0-headphones-with-charging-case-3d-stereo-earpods-air-buds-in-ear-ear-buds-with-deep-bass-touch-control-earphones-sport?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOSX0V8-wireless-earbuds-bluetooth-5-0-headphones-with-charging-case-3d-stereo-earpods-air-buds-in-ear-ear-buds-with-deep-bass-touch-control-earphones-sport?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2CPTLT1I-primal-wear-mens-aro-evo-jersey?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2CPTLT1I-primal-wear-mens-aro-evo-jersey?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1PJTVNWYK-thai-rice-flour-2x16oz?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1PJTVNWYK-thai-rice-flour-2x16oz?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1AEQ5B3WU-100pcs-tomato-stem-support-clips-garden-fixing-clips-plant-trainers-plant-bender-for-tomato-stem-to-grow-upright-and-make-tomato-healthier-prevent?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1AEQ5B3WU-100pcs-tomato-stem-support-clips-garden-fixing-clips-plant-trainers-plant-bender-for-tomato-stem-to-grow-upright-and-make-tomato-healthier-prevent?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/BZ622U6-kawasaki-oil-filter-16097-0008?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/BZ622U6-kawasaki-oil-filter-16097-0008?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1R3V2PSC-alloyworks-4-row-all-aluminum-radiator-for-1987-2006-jeep-wrangler-tj-yj-gm-chevy-v8-conversion-2-4l?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1R3V2PSC-alloyworks-4-row-all-aluminum-radiator-for-1987-2006-jeep-wrangler-tj-yj-gm-chevy-v8-conversion-2-4l?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/48L0D2W-norenchy-diy-3d-wooden-puzzles-clock-model-building-kit-table-desk-clock-wood-puzzles-toy-for-adults?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/48L0D2W-norenchy-diy-3d-wooden-puzzles-clock-model-building-kit-table-desk-clock-wood-puzzles-toy-for-adults?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/5E2UGSM-unipak-plush-treehouse-with-animals-five-5-stuffed-forest-animals?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/5E2UGSM-unipak-plush-treehouse-with-animals-five-5-stuffed-forest-animals?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOSWWZC-t-trees-princess-jewelry-set-girls-mermaid-handbag-necklace-bracelet-earrings-ring-hair-clips-set-princess-costume-jewelry-party-favors-gift-for?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOSWWZC-t-trees-princess-jewelry-set-girls-mermaid-handbag-necklace-bracelet-earrings-ring-hair-clips-set-princess-costume-jewelry-party-favors-gift-for?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOSWWLW-bgtec-4-quot-dry-diamond-polishing-pads-set-8-pieces-pads-kit-30-3000-for-granite-marble-stone-quartz-tiles-concrete-floor-edges-countertop?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOSWWLW-bgtec-4-quot-dry-diamond-polishing-pads-set-8-pieces-pads-kit-30-3000-for-granite-marble-stone-quartz-tiles-concrete-floor-edges-countertop?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/8BB4KIMG-grtard-extra-large-magnetic-clips-6pack-heavy-duty-stainless-steel-metal-clips-2-2-inch?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/8BB4KIMG-grtard-extra-large-magnetic-clips-6pack-heavy-duty-stainless-steel-metal-clips-2-2-inch?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1H91Z7ZBU-usb-floppy-disk-drive-emulator-n-drive-100-for-yamaha-clavinova-cvp-75-cvp-83-cvp-85-cvp-87-cvp-89?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1H91Z7ZBU-usb-floppy-disk-drive-emulator-n-drive-100-for-yamaha-clavinova-cvp-75-cvp-83-cvp-85-cvp-87-cvp-89?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOSWWJS-hanjo-pets-cat-backpack-expandable-cat-backpack-carrier-airline-approved-pet-carrier-backpack-for-small-dogs-puppy-small-cat-up-to-16-lbs?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOSWWJS-hanjo-pets-cat-backpack-expandable-cat-backpack-carrier-airline-approved-pet-carrier-backpack-for-small-dogs-puppy-small-cat-up-to-16-lbs?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/7B0ZROLK-ransoto-new-carburetor-carb-compatible-with-briggs-stratton-693480-693479-694056-replaces-499306-495?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/7B0ZROLK-ransoto-new-carburetor-carb-compatible-with-briggs-stratton-693480-693479-694056-replaces-499306-495?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOSWWCE-horimiya-stickers-vinyl-waterproof-stickers50pcsfor-laptop-skateboard-snowboard-water-bottle-phone-car-bicycle-luggage-guitar-computer-as?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOSWWCE-horimiya-stickers-vinyl-waterproof-stickers50pcsfor-laptop-skateboard-snowboard-water-bottle-phone-car-bicycle-luggage-guitar-computer-as?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/KXWLTNUE-ufo-ya04809-089-replacement-plastic-for-yamaha-fender-frt-yzf-10-blue?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/KXWLTNUE-ufo-ya04809-089-replacement-plastic-for-yamaha-fender-frt-yzf-10-blue?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOSWWAA-buoyancy-aid-for-adults-adults-size-watersports-swim-vest-buoyancy-aid-jacket-for-fishing-sailing-surfing-boating-kayaking-for-water-sports?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOSWWAA-buoyancy-aid-for-adults-adults-size-watersports-swim-vest-buoyancy-aid-jacket-for-fishing-sailing-surfing-boating-kayaking-for-water-sports?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1APXG9CE8-5-pack-tznzxm-for-unimax-umx-u683cl-screen-protector-tempered-glass-case-friendly-9h-hardness-hd-clear-anti-scratch-bubble-free-tempered-glass?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1APXG9CE8-5-pack-tznzxm-for-unimax-umx-u683cl-screen-protector-tempered-glass-case-friendly-9h-hardness-hd-clear-anti-scratch-bubble-free-tempered-glass?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/8KD9N7Z2-firestone-20-x-40-45-mil-epdm-pond-liner-fish-safe?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/8KD9N7Z2-firestone-20-x-40-45-mil-epdm-pond-liner-fish-safe?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOSWW8G-lil-u-zi-v-ert-rapper-tapestry-wall-hanging-anime-tapestries-table-cloth-wall-art-blanket-for-bedroom-living-room-dorm-kitchen-resraurant-60x70-inch?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOSWW8G-lil-u-zi-v-ert-rapper-tapestry-wall-hanging-anime-tapestries-table-cloth-wall-art-blanket-for-bedroom-living-room-dorm-kitchen-resraurant-60x70-inch?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/K28ZF9LS-reduce-wrinkles-add-moisture-sakana-collagen-x10-by-rose-gold-anti-aging-firming-skin-dhl-express-fr?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/K28ZF9LS-reduce-wrinkles-add-moisture-sakana-collagen-x10-by-rose-gold-anti-aging-firming-skin-dhl-express-fr?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/15X4VIYLW-cegar-quadrilateral-magnetic-patch-3-pack?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/15X4VIYLW-cegar-quadrilateral-magnetic-patch-3-pack?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOSWVFO-danf-2-pack-dominican-flag-3x5-foot-polyester-bandera-de-republica-dominicana-national-flags-polyester-with-brass-grommets-3-x-5-ft?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOSWVFO-danf-2-pack-dominican-flag-3x5-foot-polyester-bandera-de-republica-dominicana-national-flags-polyester-with-brass-grommets-3-x-5-ft?utm_source=ubuy_gogsc
+Exception catched.
+java.lang.IndexOutOfBoundsException: Index 119 out of bounds for length 119
+java.lang.IndexOutOfBoundsException: Index 30 out of bounds for length 30
+Loop is completed and mail is going to sent.
+Dec 16, 2021 11:26:19 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 11:26:26 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 11:31:12 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 11:35:54 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 11:41:17 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 11:46:21 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 11:46:28 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 11:50:15 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 11:54:45 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 11:59:20 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 12:03:09 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 12:03:16 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 12:06:50 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 12:11:19 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 12:16:43 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 12:21:25 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 12:21:31 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 12:25:13 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 12:29:32 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 12:34:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 12:39:22 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 12:39:29 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 12:43:02 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 12:46:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 12:51:09 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 12:56:13 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 12:56:20 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 1:00:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 1:05:33 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 1:09:22 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 1:15:04 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 1:15:10 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 1:18:48 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 1:23:02 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 1:26:48 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 1:30:07 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 1:30:14 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 1:34:38 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 1:39:01 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 1:43:09 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 1:49:00 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 1:49:07 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 1:53:47 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 1:59:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 2:05:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 2:09:52 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 2:09:59 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 2:17:35 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 2:22:21 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 2:26:31 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 2:31:57 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 2:32:04 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 2:36:21 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C

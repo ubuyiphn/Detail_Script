@@ -1,0 +1,161 @@
+api urls browser going to launched.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 2449
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Dec 17, 2021 9:21:02 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+browser launched for api url.
+api url has been hit.
+Trying to get urls.
+last https index is 18776
+2 indexes 167
+170 indexes 303
+306 indexes 420
+423 indexes 610
+613 indexes 779
+782 indexes 998
+1001 indexes 1209
+1212 indexes 1373
+1376 indexes 1556
+1559 indexes 1724
+1727 indexes 1858
+1861 indexes 1959
+1962 indexes 2128
+2131 indexes 2316
+2319 indexes 2513
+2516 indexes 2729
+2732 indexes 2893
+2896 indexes 3104
+3107 indexes 3271
+3274 indexes 3438
+3441 indexes 3594
+3597 indexes 3715
+3718 indexes 3795
+3798 indexes 3963
+3966 indexes 4111
+4114 indexes 4318
+4321 indexes 4459
+4462 indexes 4642
+4645 indexes 4860
+4863 indexes 4930
+4933 indexes 5099
+5102 indexes 5178
+5181 indexes 5395
+5398 indexes 5536
+5539 indexes 5705
+5708 indexes 5827
+5830 indexes 5917
+5920 indexes 6086
+6089 indexes 6212
+6215 indexes 6344
+6347 indexes 6455
+6458 indexes 6589
+6592 indexes 6688
+6691 indexes 6815
+6818 indexes 6942
+6945 indexes 7034
+7037 indexes 7161
+7164 indexes 7269
+7272 indexes 7382
+7385 indexes 7503
+7506 indexes 7671
+7674 indexes 7840
+7843 indexes 8008
+8011 indexes 8177
+8180 indexes 8347
+8350 indexes 8508
+8511 indexes 8646
+8649 indexes 8753
+8756 indexes 8833
+8836 indexes 8982
+8985 indexes 9198
+9201 indexes 9347
+9350 indexes 9508
+9511 indexes 9725
+9728 indexes 9819
+9822 indexes 9948
+9951 indexes 10115
+10118 indexes 10284
+10287 indexes 10480
+10483 indexes 10650
+10653 indexes 10817
+10820 indexes 11031
+11034 indexes 11180
+11183 indexes 11349
+11352 indexes 11474
+11477 indexes 11691
+11694 indexes 11859
+11862 indexes 12072
+12075 indexes 12260
+12263 indexes 12424
+12427 indexes 12574
+12577 indexes 12741
+12744 indexes 12956
+12959 indexes 13142
+13145 indexes 13292
+13295 indexes 13502
+13505 indexes 13693
+13696 indexes 13798
+13801 indexes 14012
+14015 indexes 14194
+14197 indexes 14396
+14399 indexes 14565
+14568 indexes 14688
+14691 indexes 14901
+14904 indexes 15070
+15073 indexes 15213
+15216 indexes 15382
+15385 indexes 15550
+15553 indexes 15630
+15633 indexes 15783
+15786 indexes 15922
+15925 indexes 16046
+16049 indexes 16192
+16195 indexes 16271
+16274 indexes 16427
+16430 indexes 16580
+16583 indexes 16705
+16708 indexes 16918
+16921 indexes 17086
+17089 indexes 17255
+17258 indexes 17405
+17408 indexes 17574
+17577 indexes 17661
+17664 indexes 17829
+17832 indexes 17960
+17963 indexes 18166
+18169 indexes 18288
+18291 indexes 18394
+18397 indexes 18607
+18610 indexes -1
+
+
+
+Total URL count is 119
+
+
+All urls have been added to list.
+
+0detail page browser going to hit.29
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 34142
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Dec 17, 2021 9:21:09 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+https://www.ubuy.co.in/product/DRKLDLK-mictuning-pickup-truck-tailgate-pad-shuttle-pad-tailgate-protection-pad-for-mountain-bikes-with-secu?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/EX0D78M-ag-industries-ag36810-ag-tubing-for-resmed-airsense-10-and-s9-series?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1PIOAUI8G-kali-yuga-surf-club-surf-the-kali-yuga-tank-top?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QNOCI7I-tack-in-drawer-glides-drawer-tack-glide-for-repairing-dressers-making-all-the-drawers-slide-smoothly-and-evenly-brown-30?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.

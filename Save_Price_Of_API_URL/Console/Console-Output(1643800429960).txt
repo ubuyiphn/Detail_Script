@@ -1,0 +1,112 @@
+api urls browser going to launched.
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 3991
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1643800430.919][WARNING]: This version of ChromeDriver has not been tested with Chrome version 97.
+browser launched for api url.
+api url has been hit.
+Trying to get urls.
+last https index is 15918
+
+
+
+Total URL count is 119
+
+
+All urls have been added to list.
+
+0detail page browser going to hit.29
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 25861
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1643800437.839][WARNING]: This version of ChromeDriver has not been tested with Chrome version 97.
+https://www.ubuy.co.in/product/E8RHWQ2-unique-minnie-mouse-dinnerware-bundle-plates-napkins-kids-birthday-party-baby-shower-decor-party-dec?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2NIBMVR0-cavus-floor-stand-suitable-for-sonos-play-1-speaker-not-suitable-for-sonos-one-white-play-1-single?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/46C67JBHW-volcom-boys-39-big-ripley-insulated-relaxed-fit-snow-jacket?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/3UX9G15WG-microsoft-ocean-plastic-mouse?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1P66PBS22-nars-lipstick-trans-siberian-semi-matte-3-4g-0-12oz?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/3N2FK5848-semi-pro-tropics-jersey-tank-top?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/469TMU3LM-mad-beauty-2-count-disney-belle-princess-face-masks-2-sheet-facemasks-0-8-oz-fun-spa-skincare-for-parties-gifts-moisturize?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/SGXDXQIU-sesame-street-group-mural-officially-licensed-removable-wall-graphic?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/T3A5OBA-command-17026clr-es-decorating-clips-clear-20-clips?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1IAOP8G2K-lontect-for-galaxy-s21-plus-5g-case-glitter-sparkle-bling-heavy-duty-hybrid-sturdy-high-impact-shockproof-protective-cover-case-for-samsung-galaxy-s21?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/5D0YD2-sloggers-5102bk06-women-39-s-garden-shoe-black-print-rubber-size-6-quantity-12?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2FQTM20A-hi-line-gift-ltd-standing-jack-russel-dog-statue?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/46E6CBQWO-la-sportiva-mens-karacal-trail-running-shoe?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/46E6CBQYI-violet-by-daveed-benito-laminated-dry-erase-sign-poster-24x36?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/QJ833FLO-ronhill-mens-life-7-twin-short?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/46E6CBV7U-tommy-hilfiger-denim-men-s-straight-leg-jeans?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/49MW5ZW-koh-i-noor-magic-jumbo-triangular-coloured-pencil-pack-of-24?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1N2HEIIE-futaba-systems-servo-hps-cb700?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/42TFK6EQS-chuckit-ring-chaser-launcher-dog-toy?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/46E6CBV9Y-nike-womens-aeroreact-short-sleeve-running-shirt?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/DJ9N0VS-umbra-vento-open-top-16-5-gallon-kitchen-trash-large-garbage-can-for-indoor-outdoor-or-commercial-us?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/22S0K2Q0-squishmallow-official-kellytoy-plush-12-tally-the-tabby-cat-ultrasoft-stuffed-animal-plush-toy?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2F11SMFI-empire-art-direct-american-flag-digital-print-on-solid-wood-wall-art-30-quot-x-45-quot-x-1-5-quot-re?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/46E6CBVV2-adidas-womens-aeroready-designed-2-move-logo-sport-tank-top?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+org.openqa.selenium.WebDriverException: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome=97.0.4692.99)
+Build info: version: 'unknown', revision: 'e82be7d358', time: '2018-11-14T08:24:01'
+System info: host: 'DESKTOP-0R0C0I8', ip: '192.168.1.134', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\himanshu\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61210}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e3bfeb984c3fcc15fac5efce756ecad2
+Couldn't take screenshot.
+org.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: 'unknown', revision: 'e82be7d358', time: '2018-11-14T08:24:01'
+System info: host: 'DESKTOP-0R0C0I8', ip: '192.168.1.134', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\himanshu\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61210}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e3bfeb984c3fcc15fac5efce756ecad2

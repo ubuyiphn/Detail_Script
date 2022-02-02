@@ -1,0 +1,777 @@
+api urls browser going to launched.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 7178
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Dec 16, 2021 3:31:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+browser launched for api url.
+api url has been hit.
+Trying to get urls.
+last https index is 18752
+2indexes213
+https://www.ubuy.co.in/product/1GLJ6A40Y-latest-version-bluetooth-headset-cvc8-0-dual-mic-noise-cancelling-honshoop-v5-0-bluetooth-earpiece-earbud16-hrs-hd-talktime-hands-free-earphones?utm_source=ubuy_gogsc
+216indexes374
+https://www.ubuy.co.in/product/40QOQFIR6-dmmss-vlone-shirt-v-letter-shirt-for-woman-mens-casual-t-shirt-big-v-short-sleeved-t-shirts?utm_source=ubuy_gogsc
+377indexes512
+https://www.ubuy.co.in/product/3VVD6VKM8-topsflo-hot-cold-water-circulation-pump-brushless-dc-pump-tl-c12h-pv?utm_source=ubuy_gogsc
+515indexes670
+https://www.ubuy.co.in/product/40QOQFIPC-funny-threadz-womens-running-tank-top-ldquo-im-only-half-crazy-13-1-rdquo-marathon-shirt?utm_source=ubuy_gogsc
+673indexes881
+https://www.ubuy.co.in/product/1BFPV7UE2-lelix-20-colors-felt-tip-pens-medium-point-felt-pens-assorted-colors-markers-pens-for-journaling-writing-note-taking-planner-coloring-perfect?utm_source=ubuy_gogsc
+884indexes1099
+https://www.ubuy.co.in/product/1AFDOKTD2-double-din-car-stereo-compatible-with-apple-carplay-and-android-auto-hikity-7-inch-car-radio-touchscreen-mirror-link-fm-bluetooth-include-swc-remote?utm_source=ubuy_gogsc
+1102indexes1194
+https://www.ubuy.co.in/product/1GXZWIROS-pitches-be-crazy-tank-top?utm_source=ubuy_gogsc
+1197indexes1314
+https://www.ubuy.co.in/product/1GXZWIRH4-pitches-be-crazy-softball-baseball-sports-tank-top?utm_source=ubuy_gogsc
+1317indexes1481
+https://www.ubuy.co.in/product/CI7WRCI-airmoon-mini-ceramics-handmade-couple-toothbrush-holder-stand-for-bathroom-vanity-countertops-white?utm_source=ubuy_gogsc
+1484indexes1598
+https://www.ubuy.co.in/product/2NAKPLE0-night-of-the-living-dummy-classic-goosebumps-1-1?utm_source=ubuy_gogsc
+1601indexes1807
+https://www.ubuy.co.in/product/40QOQFEPI-preserved-real-rose-eternal-rose-flowers-with-led-mood-light-forever-romantic-gift-for-valentines-day-anniversary-christmas-mothers-day-and?utm_source=ubuy_gogsc
+1810indexes1925
+https://www.ubuy.co.in/product/XZ38ZKDA-race-glaze-15121-trim-leather-renewer-16oz-bottle?utm_source=ubuy_gogsc
+1928indexes2094
+https://www.ubuy.co.in/product/G2OJJJ7U-amayan-lamp-shades-replacement-glass-hurricane-candle-holder-open-ended-candle-holders-open-4-7-heig?utm_source=ubuy_gogsc
+2097indexes2210
+https://www.ubuy.co.in/product/2EPGUVRO-createx-colors-8oz-autoborne-silver-sealer-8-oz?utm_source=ubuy_gogsc
+2213indexes2313
+https://www.ubuy.co.in/product/JZU4PC0M-race-glaze-leveling-compound-quart?utm_source=ubuy_gogsc
+2316indexes2509
+https://www.ubuy.co.in/product/40QOQFENE-adjustable-leather-edger-creaser-wooden-handle-stainless-steel-professional-edge-press-skiving-tool-for-diy-leather-craft1-2mm?utm_source=ubuy_gogsc
+2512indexes2609
+https://www.ubuy.co.in/product/XZ38ZNPW-race-glaze-fast-action-compound?utm_source=ubuy_gogsc
+2612indexes2777
+https://www.ubuy.co.in/product/149AQ5OO-kalolary-3-pcs-rhinestone-fashion-headbands-double-bangs-hairstyle-hairpin-headbands-korean-braided?utm_source=ubuy_gogsc
+2780indexes2992
+https://www.ubuy.co.in/product/40QOQFEDW-touch-control-usb-table-lamp-3-way-dimmable-18inch-crystal-table-lamp-with-dual-usb-ports-bedside-lamp-with-one-ac-outlet-elegant-nightstand-lamp?utm_source=ubuy_gogsc
+2995indexes3160
+https://www.ubuy.co.in/product/45Q76W0-kids-alarm-clock-little-tiddi-toddlers-alarm-clock-children-39-s-trainer-clock-with-facial-expressio?utm_source=ubuy_gogsc
+3163indexes3314
+https://www.ubuy.co.in/product/2C6BWTYO-ski-poles-graphite-carbon-composite-zipline-blurr-16-0-u-s-ski-team-official-supplier?utm_source=ubuy_gogsc
+3317indexes3417
+https://www.ubuy.co.in/product/2DBM60NA-engel-replacement-drain-plug-white?utm_source=ubuy_gogsc
+3420indexes3586
+https://www.ubuy.co.in/product/13JMAWEA6-bakeshifters-bread-proofing-basket-kit-perfect-9-inch-rattan-basket-set-for-banneton-sourdough-make?utm_source=ubuy_gogsc
+3589indexes3724
+https://www.ubuy.co.in/product/40QOQFE0G-kids-five-nights-at-freddys-summer-tee-and-shorts-set-for-boys-girls?utm_source=ubuy_gogsc
+3727indexes3888
+https://www.ubuy.co.in/product/1MYI2RAG-pirelli-night-dragon-front-motorcycle-tire-90-90-21-54h-fits-honda-fury-abs-vt1300cxa-2010-2019?utm_source=ubuy_gogsc
+3891indexes4057
+https://www.ubuy.co.in/product/2OJ4VS5G-peace-love-dog-paw-vinyl-decal-sticker-cars-trucks-vans-walls-laptops-cups-white-7-5-x-2-8-inch-kcd1?utm_source=ubuy_gogsc
+4060indexes4270
+https://www.ubuy.co.in/product/40QOQFDSS-cufzuz-spandex-dining-room-chair-covers-for-living-room-universal-stretch-chair-slipcovers-protector-for-wedding-banquet-and-party-white-20-pcs?utm_source=ubuy_gogsc
+4273indexes4429
+https://www.ubuy.co.in/product/6WAOFOO8-dona-brayman-womens-one-piece-tummy-control-backless-swimsuit-bathing-suit-bikini-swimwear?utm_source=ubuy_gogsc
+4432indexes4589
+https://www.ubuy.co.in/product/40QOQFD5K-forbidden-body-jewelry-20g-6mm-surgical-steel-l-shaped-nose-ring-with-3mm-heart-cz-crystal?utm_source=ubuy_gogsc
+4592indexes4808
+https://www.ubuy.co.in/product/40QOQFD3Q-gylazhuzizdny-computer-chair-ergonomic-lifting-computer-chair-360-degree-rotating-mesh-household-office-chair-height-adjustable-meeting-leisure-chair?utm_source=ubuy_gogsc
+4811indexes4952
+https://www.ubuy.co.in/product/1BPSP20O6-indoor-car-cover-compatible-with-2017-caterham-supersprint-0-door-roadster?utm_source=ubuy_gogsc
+4955indexes5096
+https://www.ubuy.co.in/product/1BPSP20GI-indoor-car-cover-compatible-with-2017-caterham-supersprint-0-door-roadster?utm_source=ubuy_gogsc
+5099indexes5166
+https://www.ubuy.co.in/product/1N5H30S5E-?utm_source=ubuy_gogsc
+5169indexes5288
+https://www.ubuy.co.in/product/1CSFPNWN0-gamer-noob-pew-gaming-birthday-gift-for-kids-t-shirt?utm_source=ubuy_gogsc
+5291indexes5457
+https://www.ubuy.co.in/product/1B28UD6TO-soozier-basketball-hoop-freestanding-height-adjustable-stand-with-backboard-wheels-for-adults-black?utm_source=ubuy_gogsc
+5460indexes5536
+https://www.ubuy.co.in/product/2FSIS6VC-b082hrjb16?utm_source=ubuy_gogsc
+5539indexes5704
+https://www.ubuy.co.in/product/PJSK0AU-usb-c-cable-10ft-extra-long-10-feet-usb-type-c-charging-cable-usb-a-to-c-charger-cord-compatible-for?utm_source=ubuy_gogsc
+5707indexes5889
+https://www.ubuy.co.in/product/40QOQFCU8-tijn-blue-light-glasses-for-kids-cute-eyewear-computer-gaming-reading-safety-blue-light-blocking-glasses-girls-boys?utm_source=ubuy_gogsc
+5892indexes5993
+https://www.ubuy.co.in/product/1NKJ074O-mehron-makeup-foam-smoothie-blender?utm_source=ubuy_gogsc
+5996indexes6143
+https://www.ubuy.co.in/product/3MRWEWY9C-stainless-steel-happy-anniversary-keychain-for-couples-anniversary-jewelry-gifts?utm_source=ubuy_gogsc
+6146indexes6265
+https://www.ubuy.co.in/product/2NVUM4IM-english-tea-shop-advent-tea-calendar-green-25-teabags?utm_source=ubuy_gogsc
+6268indexes6433
+https://www.ubuy.co.in/product/CH82T38-krator-2pcs-chrome-motorcycle-turn-signals-blinker-lights-compatible-with-honda-vt-shadow-spirit-vel?utm_source=ubuy_gogsc
+6436indexes6596
+https://www.ubuy.co.in/product/8YD9FLLC-yametee-mens-knight-praise-the-lord-my-rock-who-trains-my-hands-for-war-shirt-short-sleeve-tee?utm_source=ubuy_gogsc
+6599indexes6728
+https://www.ubuy.co.in/product/Q32E6QU-genuine-leather-rfid-blocking-wallets-mens-wallet-bifold-classic?utm_source=ubuy_gogsc
+6731indexes6855
+https://www.ubuy.co.in/product/15XJ0JCBK-lance-peanut-individually-wrapped-bars-6-count-pack-of-12?utm_source=ubuy_gogsc
+6858indexes6973
+https://www.ubuy.co.in/product/2FW3ZGUW-white-skull-wings-biker-iron-on-embroidered-patch?utm_source=ubuy_gogsc
+6976indexes7127
+https://www.ubuy.co.in/product/2PPHPMLA-toodalittle-potty-toilet-training-seat-for-boys-and-girls-toddler-non-slip-potty-ring?utm_source=ubuy_gogsc
+7130indexes7296
+https://www.ubuy.co.in/product/2OOJZ8WG-freen-p-2-7mm3mm4mm4-5mm5mm-numbered-1-100-clip-snap-plastic-bird-ring-leg-bands-parrot-finch-canary?utm_source=ubuy_gogsc
+7299indexes7389
+https://www.ubuy.co.in/product/CFZZWXE-auto-vox-td-2-car-charger?utm_source=ubuy_gogsc
+7392indexes7496
+https://www.ubuy.co.in/product/CJ8HUT2-porter-cable-1313113-pk2-carbon-brushes?utm_source=ubuy_gogsc
+7499indexes7663
+https://www.ubuy.co.in/product/9QSAMM-usb-type-c-cable-akoada-3-pack-10ft-6-6ft-3-3ft-usb-a-to-usb-c-fast-charger-nylon-braided-cord-compa?utm_source=ubuy_gogsc
+7666indexes7762
+https://www.ubuy.co.in/product/993IZ8NK-anchor-9885-engine-mount-front?utm_source=ubuy_gogsc
+7765indexes7913
+https://www.ubuy.co.in/product/2DUXNIGQ-the-republic-of-tea-black-full-leaf-loose-tea-coconut-pu-erh-black-3-oz-refill-bag?utm_source=ubuy_gogsc
+7916indexes8133
+https://www.ubuy.co.in/product/1AEN2EYC4-fooao-wireless-adapter-for-xbox-controller-works-with-windows-10-pc-laptop-compatible-with-xbox-one-xbox-series-x-xbox-one-x-s-controller-elite-series?utm_source=ubuy_gogsc
+8136indexes8301
+https://www.ubuy.co.in/product/GJ8NM20-rod-end-5-16-x-5-16-24-ecf5-female-economy-right-hand-rod-end-bearing-with-jam-nut-included-heim-joi?utm_source=ubuy_gogsc
+8304indexes8470
+https://www.ubuy.co.in/product/XDF5U0OM-amr-racing-utv-graphics-kit-sticker-decal-compatible-with-polaris-rzr-170-youth-all-years-carbon-x-p?utm_source=ubuy_gogsc
+8473indexes8580
+https://www.ubuy.co.in/product/X12XSJXM-uni-mechanical-pencil-eraser-refill-s-sks?utm_source=ubuy_gogsc
+8583indexes8709
+https://www.ubuy.co.in/product/6WZYR88Q-boaonda-womens-professional-clog-great-shock-absorption-line?utm_source=ubuy_gogsc
+8712indexes8822
+https://www.ubuy.co.in/product/19T0BHANK-rheem-ruud-42-23116-09-heat-sequencer-relay?utm_source=ubuy_gogsc
+8825indexes8927
+https://www.ubuy.co.in/product/40SU7X78U-sakroots-eco-twill-on-the-go-bundle?utm_source=ubuy_gogsc
+8930indexes9128
+https://www.ubuy.co.in/product/1PJTPU30U-bicycle-amp-motorcycle-phone-mount-anti-theft-aluminum-alloy-bike-phone-holder-with-360-deg-rotation-fit-iphone-x-xr-se-11-12-12pro?utm_source=ubuy_gogsc
+9131indexes9264
+https://www.ubuy.co.in/product/XNLI6RV0-mean-well-rs-50-5-ac-to-dc-power-supply-single-output-5v-10-amp-50w?utm_source=ubuy_gogsc
+9267indexes9407
+https://www.ubuy.co.in/product/2RMHN98E-wdirara-womens-mid-waist-corduroy-a-line-slim-fit-button-casual-mini-skirt?utm_source=ubuy_gogsc
+9410indexes9614
+https://www.ubuy.co.in/product/40R9WSTMO-fire-grain-freekeh-cracked-flame-roasted-whole-grain-10-6-oz-natural-1-pack-fire-grain-freekeh-cracked-flame-roasted-whole-grain-10-60-oz?utm_source=ubuy_gogsc
+9617indexes9722
+https://www.ubuy.co.in/product/2DI4HBCC-40-piece-button-head-grease-fitting-kit?utm_source=ubuy_gogsc
+9725indexes9888
+https://www.ubuy.co.in/product/1HYDCMUF4-rakhi-for-brother-set-of-3-rakhi-krishna-rakhi-raksha-bandhan-rakhi-designer-rakhi-made-in-india?utm_source=ubuy_gogsc
+9891indexes10073
+https://www.ubuy.co.in/product/40SU7T7ZO-silver-initial-necklaces-for-men-women-square-initial-letter-pendant-necklace-capital-letter-a-z-necklace-box-chain?utm_source=ubuy_gogsc
+10076indexes10177
+https://www.ubuy.co.in/product/2DVZN7E0-greddy-official-license-plate-frame?utm_source=ubuy_gogsc
+10180indexes10301
+https://www.ubuy.co.in/product/6H7RYA-kimbo-napoli-espresso-ese-compostable-coffee-pods-100-box?utm_source=ubuy_gogsc
+10304indexes10410
+https://www.ubuy.co.in/product/19MZITM-brilux-7-day-glass-candle-fast-luck-green?utm_source=ubuy_gogsc
+10413indexes10521
+https://www.ubuy.co.in/product/1CB5HQWK-bulk-blank-ntag215-pvc-cards-25-count-pack?utm_source=ubuy_gogsc
+10524indexes10695
+https://www.ubuy.co.in/product/1ILTXYRSA-2pcs-black-color-metal-car-bar-grille-audio-speaker-subwoofer-grill-grille-cover-protector-8-inch-3-bars?utm_source=ubuy_gogsc
+10698indexes10884
+https://www.ubuy.co.in/product/1AEQCAAK0-eid-mubarak-ramadan-decor-ornaments-crystal-building-mosque-mecca-model-islamic-architecture-for-gift-home-office-decor?utm_source=ubuy_gogsc
+10887indexes11039
+https://www.ubuy.co.in/product/FYT8MZC-christopher-knight-home-benny-mid-century-modern-fabric-rocking-chair-grey-light-walnut?utm_source=ubuy_gogsc
+11042indexes11139
+https://www.ubuy.co.in/product/2YGU4VKY-hach-hq411d-benchtop-phmv-meter?utm_source=ubuy_gogsc
+11142indexes11307
+https://www.ubuy.co.in/product/SYS0IR6-foto4easy-coax-coaxial-cable-stripper-rg174-rg58-rg59-rg62-rg6-wire-stripping-cutter-tool-round-flat?utm_source=ubuy_gogsc
+11310indexes11466
+https://www.ubuy.co.in/product/1FW88TJA-simple-anchor-solutions-stainless-steel-universal-deck-plate-key-gas-fuel-water-waste-fill?utm_source=ubuy_gogsc
+11469indexes11635
+https://www.ubuy.co.in/product/2N9N36Q8-painless-learning-educational-placemats-for-kids-usa-and-world-map-time-and-money-alphabet-us-presid?utm_source=ubuy_gogsc
+11638indexes11793
+https://www.ubuy.co.in/product/2C8IAQLW-diversitech-corporation-mp3-3-quot-x-3-quot-x-38-quot-rubber-anti-vibration-mounting-pads?utm_source=ubuy_gogsc
+11796indexes11961
+https://www.ubuy.co.in/product/EVKPO40-dear-skin-air-embo-sanitary-pads-super-14-count-derma-sanitary-pads-for-women-sanitary-pads-with-win?utm_source=ubuy_gogsc
+11964indexes12056
+https://www.ubuy.co.in/product/KLKDZGDG-chi-lites-20-greatest-hits?utm_source=ubuy_gogsc
+12059indexes12275
+https://www.ubuy.co.in/product/40QOQFCIM-fit-lg-stylo-4-screen-protector-3-pack-seeu-again-ultra-thin-anti-scratch-clear-9h-hardness-tempered-glass-protective-film-compatible-lg-stylo-4-q710?utm_source=ubuy_gogsc
+12278indexes12492
+https://www.ubuy.co.in/product/1AH20I94S-cabinet-locks-child-safety-latches-10-pack-adhesive-child-proof-cabinet-locks-baby-safety-cabinet-locks-child-locks-for-cabinets-and-drawers-corner?utm_source=ubuy_gogsc
+12495indexes12614
+https://www.ubuy.co.in/product/JPT9FIFK-citizen-clocks-citizen-cc2045-gallery-wall-clock-iron?utm_source=ubuy_gogsc
+12617indexes12792
+https://www.ubuy.co.in/product/40QOQFCAY-uniwalker-2-piece-vintage-luggage-set-26inch-spinner-trunk-with-20inch-carry-on-cute-suitcase-for-women-grey?utm_source=ubuy_gogsc
+12795indexes12975
+https://www.ubuy.co.in/product/40QOQFC94-yansanido-4-pack-soft-cover-spiral-notebook-journal-a5-lined-notebook-with-kraft-cover-120-pages60-sheets-4-color?utm_source=ubuy_gogsc
+12978indexes13179
+https://www.ubuy.co.in/product/40QOQFC70-mxuteuk-5pcs-straight-pneumatic-push-to-quick-connect-tube-fitting-bulkhead-union-air-fitting-14-quot-tube-od-x-14-quot-tube-od-pm-1-4?utm_source=ubuy_gogsc
+13182indexes13392
+https://www.ubuy.co.in/product/40QOQFBZC-kedrian-mother-son-necklace-925-sterling-silver-gifts-for-mom-from-son-mon-and-son-pendant-mom-gifts-from-son-mother-son-necklace-for-women-mom?utm_source=ubuy_gogsc
+13395indexes13561
+https://www.ubuy.co.in/product/G1L897EO-anvava-wall-mounted-mail-holder-key-and-mail-holder-with-3-double-key-hooks-and-3-single-key-hooks-w?utm_source=ubuy_gogsc
+13564indexes13765
+https://www.ubuy.co.in/product/40QOQEW7G-realme-7-pro-case-3-in-1-detachable-anti-scratch-pc-hard-case-360-full-body-shockproof-protection-case-cover-for-oppo-realme-7-pro-red?utm_source=ubuy_gogsc
+13768indexes13875
+https://www.ubuy.co.in/product/40QOQEW5C-le-superbe-womens-after-sundown-pullover?utm_source=ubuy_gogsc
+13878indexes14093
+https://www.ubuy.co.in/product/40QOQEVXY-mocsicka-early-2000s-blue-photography-backdrop-love-heart-birthday-party-photo-background-2000s-valentines-portrait-backdrop-photo-booth-props-7x5ft?utm_source=ubuy_gogsc
+14096indexes14262
+https://www.ubuy.co.in/product/1059R6W8-niv-s-bling-iced-lab-diamond-pyramid-square-earrings-for-men-and-women-18k-yellow-gold-white-gold-pl?utm_source=ubuy_gogsc
+14265indexes14478
+https://www.ubuy.co.in/product/40QOQEVU0-luxury-premium-turkish-cotton-12-piece-washcloths-long-stable-202-2-ply-turkish-ring-spun-cotton-yarn-makes-the-luxe-factor-eco-friendly-driftwood?utm_source=ubuy_gogsc
+14481indexes14659
+https://www.ubuy.co.in/product/1GDGBKNXC-evan-fischer-interior-door-handle-compatible-with-mitsubishi-galant-04-12-front-or-rear-lh-inside-black-plastic?utm_source=ubuy_gogsc
+14662indexes14827
+https://www.ubuy.co.in/product/1ZC6DDTM-dr-fish-digital-fishing-line-counter-clip-on-gauge-999ft-led-screen-10-groups-data-trolling-jigging?utm_source=ubuy_gogsc
+14830indexes14989
+https://www.ubuy.co.in/product/2EI2IXUU-power-products-lihua-square-avr-automatic-voltage-regulator-for-1kw-2kw-3kw-4kw-gas-generator?utm_source=ubuy_gogsc
+14992indexes15158
+https://www.ubuy.co.in/product/2AG7H842-jojo-montessori-wooden-toy-fine-motor-skills-toys-for-toddlers-magnetic-bird-toy-set-woodpecker-catc?utm_source=ubuy_gogsc
+15161indexes15327
+https://www.ubuy.co.in/product/2DVQ0NKM-yifontin-led-pendant-light-fixture-hanging-lamp-chandelier-lights-18w-3000k-warm-light-lamps-for-liv?utm_source=ubuy_gogsc
+15330indexes15494
+https://www.ubuy.co.in/product/DK9N4HQ-80-pcs-antique-bronze-vintage-skeleton-keys-charm-set-vintage-skeleton-key-set-charms-antique-style?utm_source=ubuy_gogsc
+15497indexes15646
+https://www.ubuy.co.in/product/3V9QA6XRO-cloud-clutch-purses-and-dumpling-crossbody-for-women-fashion-small-evening-handbag?utm_source=ubuy_gogsc
+15649indexes15815
+https://www.ubuy.co.in/product/8LZAHXEE-we-r-memory-keepers-button-press-keychain-kit-makes-3-3-pack-wr661074-bundled-with-artsiga-crafts-sm?utm_source=ubuy_gogsc
+15818indexes16033
+https://www.ubuy.co.in/product/40QOQEVAQ-9-inch-yellow-led-light-bar-180w-18000lm-sammanlight-offroad-spot-flood-combo-fog-lights-triple-row-driving-work-lights-for-truck-jp-car-suv-atv-utv?utm_source=ubuy_gogsc
+16036indexes16243
+https://www.ubuy.co.in/product/40QOQEV6S-ylight-led-floor-lamp-flaut-wall-corner-decorative-reading-lamp-standing-lamp-dimmable-living-atmosphere-lamp-for-room-bedroom-balcony-white?utm_source=ubuy_gogsc
+16246indexes16413
+https://www.ubuy.co.in/product/40QOQEUZ4-grace-karin-womens-34-sleeve-knit-cropped-cardigan-sweaters-open-front-bolero-shrugs-coat-tops-s-3xl?utm_source=ubuy_gogsc
+16416indexes16547
+https://www.ubuy.co.in/product/LXT2RBVM-wittkop-men-saddle-trekking-vito-medicus-with-cloppen-black-97201?utm_source=ubuy_gogsc
+16550indexes16674
+https://www.ubuy.co.in/product/40QOQEUPM-ncaa-college-hand-sign-gameday-short-sleeve-solid-t-shirt?utm_source=ubuy_gogsc
+16677indexes16843
+https://www.ubuy.co.in/product/D3735F40-wanfeng-8-inch-200x50-inner-tube-2-pack-premium-razor-scooter-tube-for-razor-e100-e150-e200-a5-air-c?utm_source=ubuy_gogsc
+16846indexes17012
+https://www.ubuy.co.in/product/111NHGYI-1pc-8-led-motorcycle-turn-signal-brake-tail-light-strip-ip68-waterproof-dual-row-red-tail-brake-ambe?utm_source=ubuy_gogsc
+17015indexes17229
+https://www.ubuy.co.in/product/40QOQEUNS-roverone-android-8-0-in-dash-car-dvd-gps-navigation-system-for-ford-explorer-2012-2013-2014-2015-with-stereo-radio-bluetooth-gps-sd-usb-mirror-link?utm_source=ubuy_gogsc
+17232indexes17419
+https://www.ubuy.co.in/product/40QOQEUE0-roselux-women-basic-crew-neck-knit-crop-tops-casual-solid-racerback-tank-crop-top-sleeveless-work-out-vest-crop-tank-top?utm_source=ubuy_gogsc
+17422indexes17537
+https://www.ubuy.co.in/product/K0XG4RF6-disney-ratatouille-remy-soft-toy-with-hat-5872057?utm_source=ubuy_gogsc
+17540indexes17706
+https://www.ubuy.co.in/product/7Z3PTL08-apera-instruments-2301t-f-pvc-body-conductivity-temp-electrode-k-1-0-range-0-5-us-cm-to-200-ms-cm-bn?utm_source=ubuy_gogsc
+17709indexes17802
+https://www.ubuy.co.in/product/PHQBD4O-endertoys-wolf-action-figure?utm_source=ubuy_gogsc
+17805indexes17920
+https://www.ubuy.co.in/product/40QOQEUA2-cleo-by-panache-womens-lexi-molded-balconnet-bra?utm_source=ubuy_gogsc
+17923indexes18075
+https://www.ubuy.co.in/product/40QOQEU2O-bleouk-yellowstone-tv-show-gift-rip-wheeler-gift-dutton-ranch-yellowstone-merchandise?utm_source=ubuy_gogsc
+18078indexes18228
+https://www.ubuy.co.in/product/GN3I4B2-halo-stress-ball-legendary-crate-lootcrate-halo-wars-2-douglas-042-helmet-stress-ball?utm_source=ubuy_gogsc
+18231indexes18447
+https://www.ubuy.co.in/product/1AFBKK5O6-throttle-body-bypass-hose-kit-cylinder-head-coolant-steam-port-crossover-stainless-steel-braided-tube-compatible-with-gm-ls-engine-series-ls1-lsx-lm7?utm_source=ubuy_gogsc
+18450indexes18592
+https://www.ubuy.co.in/product/10N6ZNVI-main-relay-replaces-oem-santech-denso-90987-02004-90987-02004-83-056700-4810?utm_source=ubuy_gogsc
+18595indexes-1
+
+
+
+Total URL count is 119
+
+
+All urls have been added to list.
+
+[https://www.ubuy.co.in/product/1GLJ6A40Y-latest-version-bluetooth-headset-cvc8-0-dual-mic-noise-cancelling-honshoop-v5-0-bluetooth-earpiece-earbud16-hrs-hd-talktime-hands-free-earphones?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQFIR6-dmmss-vlone-shirt-v-letter-shirt-for-woman-mens-casual-t-shirt-big-v-short-sleeved-t-shirts?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/3VVD6VKM8-topsflo-hot-cold-water-circulation-pump-brushless-dc-pump-tl-c12h-pv?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQFIPC-funny-threadz-womens-running-tank-top-ldquo-im-only-half-crazy-13-1-rdquo-marathon-shirt?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1BFPV7UE2-lelix-20-colors-felt-tip-pens-medium-point-felt-pens-assorted-colors-markers-pens-for-journaling-writing-note-taking-planner-coloring-perfect?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1AFDOKTD2-double-din-car-stereo-compatible-with-apple-carplay-and-android-auto-hikity-7-inch-car-radio-touchscreen-mirror-link-fm-bluetooth-include-swc-remote?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1GXZWIROS-pitches-be-crazy-tank-top?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1GXZWIRH4-pitches-be-crazy-softball-baseball-sports-tank-top?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/CI7WRCI-airmoon-mini-ceramics-handmade-couple-toothbrush-holder-stand-for-bathroom-vanity-countertops-white?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2NAKPLE0-night-of-the-living-dummy-classic-goosebumps-1-1?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQFEPI-preserved-real-rose-eternal-rose-flowers-with-led-mood-light-forever-romantic-gift-for-valentines-day-anniversary-christmas-mothers-day-and?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/XZ38ZKDA-race-glaze-15121-trim-leather-renewer-16oz-bottle?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/G2OJJJ7U-amayan-lamp-shades-replacement-glass-hurricane-candle-holder-open-ended-candle-holders-open-4-7-heig?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2EPGUVRO-createx-colors-8oz-autoborne-silver-sealer-8-oz?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/JZU4PC0M-race-glaze-leveling-compound-quart?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQFENE-adjustable-leather-edger-creaser-wooden-handle-stainless-steel-professional-edge-press-skiving-tool-for-diy-leather-craft1-2mm?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/XZ38ZNPW-race-glaze-fast-action-compound?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/149AQ5OO-kalolary-3-pcs-rhinestone-fashion-headbands-double-bangs-hairstyle-hairpin-headbands-korean-braided?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQFEDW-touch-control-usb-table-lamp-3-way-dimmable-18inch-crystal-table-lamp-with-dual-usb-ports-bedside-lamp-with-one-ac-outlet-elegant-nightstand-lamp?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/45Q76W0-kids-alarm-clock-little-tiddi-toddlers-alarm-clock-children-39-s-trainer-clock-with-facial-expressio?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2C6BWTYO-ski-poles-graphite-carbon-composite-zipline-blurr-16-0-u-s-ski-team-official-supplier?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2DBM60NA-engel-replacement-drain-plug-white?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/13JMAWEA6-bakeshifters-bread-proofing-basket-kit-perfect-9-inch-rattan-basket-set-for-banneton-sourdough-make?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQFE0G-kids-five-nights-at-freddys-summer-tee-and-shorts-set-for-boys-girls?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1MYI2RAG-pirelli-night-dragon-front-motorcycle-tire-90-90-21-54h-fits-honda-fury-abs-vt1300cxa-2010-2019?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2OJ4VS5G-peace-love-dog-paw-vinyl-decal-sticker-cars-trucks-vans-walls-laptops-cups-white-7-5-x-2-8-inch-kcd1?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQFDSS-cufzuz-spandex-dining-room-chair-covers-for-living-room-universal-stretch-chair-slipcovers-protector-for-wedding-banquet-and-party-white-20-pcs?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/6WAOFOO8-dona-brayman-womens-one-piece-tummy-control-backless-swimsuit-bathing-suit-bikini-swimwear?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQFD5K-forbidden-body-jewelry-20g-6mm-surgical-steel-l-shaped-nose-ring-with-3mm-heart-cz-crystal?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQFD3Q-gylazhuzizdny-computer-chair-ergonomic-lifting-computer-chair-360-degree-rotating-mesh-household-office-chair-height-adjustable-meeting-leisure-chair?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1BPSP20O6-indoor-car-cover-compatible-with-2017-caterham-supersprint-0-door-roadster?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1BPSP20GI-indoor-car-cover-compatible-with-2017-caterham-supersprint-0-door-roadster?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1N5H30S5E-?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1CSFPNWN0-gamer-noob-pew-gaming-birthday-gift-for-kids-t-shirt?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1B28UD6TO-soozier-basketball-hoop-freestanding-height-adjustable-stand-with-backboard-wheels-for-adults-black?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2FSIS6VC-b082hrjb16?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/PJSK0AU-usb-c-cable-10ft-extra-long-10-feet-usb-type-c-charging-cable-usb-a-to-c-charger-cord-compatible-for?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQFCU8-tijn-blue-light-glasses-for-kids-cute-eyewear-computer-gaming-reading-safety-blue-light-blocking-glasses-girls-boys?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1NKJ074O-mehron-makeup-foam-smoothie-blender?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/3MRWEWY9C-stainless-steel-happy-anniversary-keychain-for-couples-anniversary-jewelry-gifts?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2NVUM4IM-english-tea-shop-advent-tea-calendar-green-25-teabags?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/CH82T38-krator-2pcs-chrome-motorcycle-turn-signals-blinker-lights-compatible-with-honda-vt-shadow-spirit-vel?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/8YD9FLLC-yametee-mens-knight-praise-the-lord-my-rock-who-trains-my-hands-for-war-shirt-short-sleeve-tee?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/Q32E6QU-genuine-leather-rfid-blocking-wallets-mens-wallet-bifold-classic?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/15XJ0JCBK-lance-peanut-individually-wrapped-bars-6-count-pack-of-12?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2FW3ZGUW-white-skull-wings-biker-iron-on-embroidered-patch?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2PPHPMLA-toodalittle-potty-toilet-training-seat-for-boys-and-girls-toddler-non-slip-potty-ring?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2OOJZ8WG-freen-p-2-7mm3mm4mm4-5mm5mm-numbered-1-100-clip-snap-plastic-bird-ring-leg-bands-parrot-finch-canary?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/CFZZWXE-auto-vox-td-2-car-charger?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/CJ8HUT2-porter-cable-1313113-pk2-carbon-brushes?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/9QSAMM-usb-type-c-cable-akoada-3-pack-10ft-6-6ft-3-3ft-usb-a-to-usb-c-fast-charger-nylon-braided-cord-compa?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/993IZ8NK-anchor-9885-engine-mount-front?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2DUXNIGQ-the-republic-of-tea-black-full-leaf-loose-tea-coconut-pu-erh-black-3-oz-refill-bag?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1AEN2EYC4-fooao-wireless-adapter-for-xbox-controller-works-with-windows-10-pc-laptop-compatible-with-xbox-one-xbox-series-x-xbox-one-x-s-controller-elite-series?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/GJ8NM20-rod-end-5-16-x-5-16-24-ecf5-female-economy-right-hand-rod-end-bearing-with-jam-nut-included-heim-joi?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/XDF5U0OM-amr-racing-utv-graphics-kit-sticker-decal-compatible-with-polaris-rzr-170-youth-all-years-carbon-x-p?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/X12XSJXM-uni-mechanical-pencil-eraser-refill-s-sks?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/6WZYR88Q-boaonda-womens-professional-clog-great-shock-absorption-line?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/19T0BHANK-rheem-ruud-42-23116-09-heat-sequencer-relay?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40SU7X78U-sakroots-eco-twill-on-the-go-bundle?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1PJTPU30U-bicycle-amp-motorcycle-phone-mount-anti-theft-aluminum-alloy-bike-phone-holder-with-360-deg-rotation-fit-iphone-x-xr-se-11-12-12pro?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/XNLI6RV0-mean-well-rs-50-5-ac-to-dc-power-supply-single-output-5v-10-amp-50w?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2RMHN98E-wdirara-womens-mid-waist-corduroy-a-line-slim-fit-button-casual-mini-skirt?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40R9WSTMO-fire-grain-freekeh-cracked-flame-roasted-whole-grain-10-6-oz-natural-1-pack-fire-grain-freekeh-cracked-flame-roasted-whole-grain-10-60-oz?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2DI4HBCC-40-piece-button-head-grease-fitting-kit?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1HYDCMUF4-rakhi-for-brother-set-of-3-rakhi-krishna-rakhi-raksha-bandhan-rakhi-designer-rakhi-made-in-india?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40SU7T7ZO-silver-initial-necklaces-for-men-women-square-initial-letter-pendant-necklace-capital-letter-a-z-necklace-box-chain?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2DVZN7E0-greddy-official-license-plate-frame?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/6H7RYA-kimbo-napoli-espresso-ese-compostable-coffee-pods-100-box?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/19MZITM-brilux-7-day-glass-candle-fast-luck-green?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1CB5HQWK-bulk-blank-ntag215-pvc-cards-25-count-pack?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1ILTXYRSA-2pcs-black-color-metal-car-bar-grille-audio-speaker-subwoofer-grill-grille-cover-protector-8-inch-3-bars?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1AEQCAAK0-eid-mubarak-ramadan-decor-ornaments-crystal-building-mosque-mecca-model-islamic-architecture-for-gift-home-office-decor?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/FYT8MZC-christopher-knight-home-benny-mid-century-modern-fabric-rocking-chair-grey-light-walnut?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2YGU4VKY-hach-hq411d-benchtop-phmv-meter?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/SYS0IR6-foto4easy-coax-coaxial-cable-stripper-rg174-rg58-rg59-rg62-rg6-wire-stripping-cutter-tool-round-flat?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1FW88TJA-simple-anchor-solutions-stainless-steel-universal-deck-plate-key-gas-fuel-water-waste-fill?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2N9N36Q8-painless-learning-educational-placemats-for-kids-usa-and-world-map-time-and-money-alphabet-us-presid?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2C8IAQLW-diversitech-corporation-mp3-3-quot-x-3-quot-x-38-quot-rubber-anti-vibration-mounting-pads?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/EVKPO40-dear-skin-air-embo-sanitary-pads-super-14-count-derma-sanitary-pads-for-women-sanitary-pads-with-win?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/KLKDZGDG-chi-lites-20-greatest-hits?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQFCIM-fit-lg-stylo-4-screen-protector-3-pack-seeu-again-ultra-thin-anti-scratch-clear-9h-hardness-tempered-glass-protective-film-compatible-lg-stylo-4-q710?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1AH20I94S-cabinet-locks-child-safety-latches-10-pack-adhesive-child-proof-cabinet-locks-baby-safety-cabinet-locks-child-locks-for-cabinets-and-drawers-corner?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/JPT9FIFK-citizen-clocks-citizen-cc2045-gallery-wall-clock-iron?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQFCAY-uniwalker-2-piece-vintage-luggage-set-26inch-spinner-trunk-with-20inch-carry-on-cute-suitcase-for-women-grey?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQFC94-yansanido-4-pack-soft-cover-spiral-notebook-journal-a5-lined-notebook-with-kraft-cover-120-pages60-sheets-4-color?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQFC70-mxuteuk-5pcs-straight-pneumatic-push-to-quick-connect-tube-fitting-bulkhead-union-air-fitting-14-quot-tube-od-x-14-quot-tube-od-pm-1-4?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQFBZC-kedrian-mother-son-necklace-925-sterling-silver-gifts-for-mom-from-son-mon-and-son-pendant-mom-gifts-from-son-mother-son-necklace-for-women-mom?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/G1L897EO-anvava-wall-mounted-mail-holder-key-and-mail-holder-with-3-double-key-hooks-and-3-single-key-hooks-w?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQEW7G-realme-7-pro-case-3-in-1-detachable-anti-scratch-pc-hard-case-360-full-body-shockproof-protection-case-cover-for-oppo-realme-7-pro-red?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQEW5C-le-superbe-womens-after-sundown-pullover?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQEVXY-mocsicka-early-2000s-blue-photography-backdrop-love-heart-birthday-party-photo-background-2000s-valentines-portrait-backdrop-photo-booth-props-7x5ft?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1059R6W8-niv-s-bling-iced-lab-diamond-pyramid-square-earrings-for-men-and-women-18k-yellow-gold-white-gold-pl?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQEVU0-luxury-premium-turkish-cotton-12-piece-washcloths-long-stable-202-2-ply-turkish-ring-spun-cotton-yarn-makes-the-luxe-factor-eco-friendly-driftwood?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1GDGBKNXC-evan-fischer-interior-door-handle-compatible-with-mitsubishi-galant-04-12-front-or-rear-lh-inside-black-plastic?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1ZC6DDTM-dr-fish-digital-fishing-line-counter-clip-on-gauge-999ft-led-screen-10-groups-data-trolling-jigging?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2EI2IXUU-power-products-lihua-square-avr-automatic-voltage-regulator-for-1kw-2kw-3kw-4kw-gas-generator?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2AG7H842-jojo-montessori-wooden-toy-fine-motor-skills-toys-for-toddlers-magnetic-bird-toy-set-woodpecker-catc?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/2DVQ0NKM-yifontin-led-pendant-light-fixture-hanging-lamp-chandelier-lights-18w-3000k-warm-light-lamps-for-liv?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/DK9N4HQ-80-pcs-antique-bronze-vintage-skeleton-keys-charm-set-vintage-skeleton-key-set-charms-antique-style?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/3V9QA6XRO-cloud-clutch-purses-and-dumpling-crossbody-for-women-fashion-small-evening-handbag?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/8LZAHXEE-we-r-memory-keepers-button-press-keychain-kit-makes-3-3-pack-wr661074-bundled-with-artsiga-crafts-sm?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQEVAQ-9-inch-yellow-led-light-bar-180w-18000lm-sammanlight-offroad-spot-flood-combo-fog-lights-triple-row-driving-work-lights-for-truck-jp-car-suv-atv-utv?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQEV6S-ylight-led-floor-lamp-flaut-wall-corner-decorative-reading-lamp-standing-lamp-dimmable-living-atmosphere-lamp-for-room-bedroom-balcony-white?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQEUZ4-grace-karin-womens-34-sleeve-knit-cropped-cardigan-sweaters-open-front-bolero-shrugs-coat-tops-s-3xl?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/LXT2RBVM-wittkop-men-saddle-trekking-vito-medicus-with-cloppen-black-97201?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQEUPM-ncaa-college-hand-sign-gameday-short-sleeve-solid-t-shirt?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/D3735F40-wanfeng-8-inch-200x50-inner-tube-2-pack-premium-razor-scooter-tube-for-razor-e100-e150-e200-a5-air-c?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/111NHGYI-1pc-8-led-motorcycle-turn-signal-brake-tail-light-strip-ip68-waterproof-dual-row-red-tail-brake-ambe?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQEUNS-roverone-android-8-0-in-dash-car-dvd-gps-navigation-system-for-ford-explorer-2012-2013-2014-2015-with-stereo-radio-bluetooth-gps-sd-usb-mirror-link?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQEUE0-roselux-women-basic-crew-neck-knit-crop-tops-casual-solid-racerback-tank-crop-top-sleeveless-work-out-vest-crop-tank-top?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/K0XG4RF6-disney-ratatouille-remy-soft-toy-with-hat-5872057?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/7Z3PTL08-apera-instruments-2301t-f-pvc-body-conductivity-temp-electrode-k-1-0-range-0-5-us-cm-to-200-ms-cm-bn?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/PHQBD4O-endertoys-wolf-action-figure?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQEUA2-cleo-by-panache-womens-lexi-molded-balconnet-bra?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/40QOQEU2O-bleouk-yellowstone-tv-show-gift-rip-wheeler-gift-dutton-ranch-yellowstone-merchandise?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/GN3I4B2-halo-stress-ball-legendary-crate-lootcrate-halo-wars-2-douglas-042-helmet-stress-ball?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/1AFBKK5O6-throttle-body-bypass-hose-kit-cylinder-head-coolant-steam-port-crossover-stainless-steel-braided-tube-compatible-with-gm-ls-engine-series-ls1-lsx-lm7?utm_source=ubuy_gogsc, https://www.ubuy.co.in/product/10N6ZNVI-main-relay-replaces-oem-santech-denso-90987-02004-90987-02004-83-056700-4810?utm_source=ubuy_gogsc]
+0detail page browser going to hit.29
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 6066
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Dec 16, 2021 3:31:10 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+https://www.ubuy.co.in/product/1GLJ6A40Y-latest-version-bluetooth-headset-cvc8-0-dual-mic-noise-cancelling-honshoop-v5-0-bluetooth-earpiece-earbud16-hrs-hd-talktime-hands-free-earphones?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1GLJ6A40Y-latest-version-bluetooth-headset-cvc8-0-dual-mic-noise-cancelling-honshoop-v5-0-bluetooth-earpiece-earbud16-hrs-hd-talktime-hands-free-earphones?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQFIR6-dmmss-vlone-shirt-v-letter-shirt-for-woman-mens-casual-t-shirt-big-v-short-sleeved-t-shirts?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQFIR6-dmmss-vlone-shirt-v-letter-shirt-for-woman-mens-casual-t-shirt-big-v-short-sleeved-t-shirts?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/3VVD6VKM8-topsflo-hot-cold-water-circulation-pump-brushless-dc-pump-tl-c12h-pv?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/3VVD6VKM8-topsflo-hot-cold-water-circulation-pump-brushless-dc-pump-tl-c12h-pv?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQFIPC-funny-threadz-womens-running-tank-top-ldquo-im-only-half-crazy-13-1-rdquo-marathon-shirt?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQFIPC-funny-threadz-womens-running-tank-top-ldquo-im-only-half-crazy-13-1-rdquo-marathon-shirt?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1BFPV7UE2-lelix-20-colors-felt-tip-pens-medium-point-felt-pens-assorted-colors-markers-pens-for-journaling-writing-note-taking-planner-coloring-perfect?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1BFPV7UE2-lelix-20-colors-felt-tip-pens-medium-point-felt-pens-assorted-colors-markers-pens-for-journaling-writing-note-taking-planner-coloring-perfect?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1AFDOKTD2-double-din-car-stereo-compatible-with-apple-carplay-and-android-auto-hikity-7-inch-car-radio-touchscreen-mirror-link-fm-bluetooth-include-swc-remote?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1AFDOKTD2-double-din-car-stereo-compatible-with-apple-carplay-and-android-auto-hikity-7-inch-car-radio-touchscreen-mirror-link-fm-bluetooth-include-swc-remote?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1GXZWIROS-pitches-be-crazy-tank-top?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1GXZWIROS-pitches-be-crazy-tank-top?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1GXZWIRH4-pitches-be-crazy-softball-baseball-sports-tank-top?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1GXZWIRH4-pitches-be-crazy-softball-baseball-sports-tank-top?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/CI7WRCI-airmoon-mini-ceramics-handmade-couple-toothbrush-holder-stand-for-bathroom-vanity-countertops-white?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/CI7WRCI-airmoon-mini-ceramics-handmade-couple-toothbrush-holder-stand-for-bathroom-vanity-countertops-white?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2NAKPLE0-night-of-the-living-dummy-classic-goosebumps-1-1?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2NAKPLE0-night-of-the-living-dummy-classic-goosebumps-1-1?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQFEPI-preserved-real-rose-eternal-rose-flowers-with-led-mood-light-forever-romantic-gift-for-valentines-day-anniversary-christmas-mothers-day-and?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQFEPI-preserved-real-rose-eternal-rose-flowers-with-led-mood-light-forever-romantic-gift-for-valentines-day-anniversary-christmas-mothers-day-and?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/XZ38ZKDA-race-glaze-15121-trim-leather-renewer-16oz-bottle?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/XZ38ZKDA-race-glaze-15121-trim-leather-renewer-16oz-bottle?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/G2OJJJ7U-amayan-lamp-shades-replacement-glass-hurricane-candle-holder-open-ended-candle-holders-open-4-7-heig?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/G2OJJJ7U-amayan-lamp-shades-replacement-glass-hurricane-candle-holder-open-ended-candle-holders-open-4-7-heig?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2EPGUVRO-createx-colors-8oz-autoborne-silver-sealer-8-oz?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2EPGUVRO-createx-colors-8oz-autoborne-silver-sealer-8-oz?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/JZU4PC0M-race-glaze-leveling-compound-quart?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/JZU4PC0M-race-glaze-leveling-compound-quart?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQFENE-adjustable-leather-edger-creaser-wooden-handle-stainless-steel-professional-edge-press-skiving-tool-for-diy-leather-craft1-2mm?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQFENE-adjustable-leather-edger-creaser-wooden-handle-stainless-steel-professional-edge-press-skiving-tool-for-diy-leather-craft1-2mm?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/XZ38ZNPW-race-glaze-fast-action-compound?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/XZ38ZNPW-race-glaze-fast-action-compound?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/149AQ5OO-kalolary-3-pcs-rhinestone-fashion-headbands-double-bangs-hairstyle-hairpin-headbands-korean-braided?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/149AQ5OO-kalolary-3-pcs-rhinestone-fashion-headbands-double-bangs-hairstyle-hairpin-headbands-korean-braided?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQFEDW-touch-control-usb-table-lamp-3-way-dimmable-18inch-crystal-table-lamp-with-dual-usb-ports-bedside-lamp-with-one-ac-outlet-elegant-nightstand-lamp?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQFEDW-touch-control-usb-table-lamp-3-way-dimmable-18inch-crystal-table-lamp-with-dual-usb-ports-bedside-lamp-with-one-ac-outlet-elegant-nightstand-lamp?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/45Q76W0-kids-alarm-clock-little-tiddi-toddlers-alarm-clock-children-39-s-trainer-clock-with-facial-expressio?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/45Q76W0-kids-alarm-clock-little-tiddi-toddlers-alarm-clock-children-39-s-trainer-clock-with-facial-expressio?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2C6BWTYO-ski-poles-graphite-carbon-composite-zipline-blurr-16-0-u-s-ski-team-official-supplier?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2C6BWTYO-ski-poles-graphite-carbon-composite-zipline-blurr-16-0-u-s-ski-team-official-supplier?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2DBM60NA-engel-replacement-drain-plug-white?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2DBM60NA-engel-replacement-drain-plug-white?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/13JMAWEA6-bakeshifters-bread-proofing-basket-kit-perfect-9-inch-rattan-basket-set-for-banneton-sourdough-make?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/13JMAWEA6-bakeshifters-bread-proofing-basket-kit-perfect-9-inch-rattan-basket-set-for-banneton-sourdough-make?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQFE0G-kids-five-nights-at-freddys-summer-tee-and-shorts-set-for-boys-girls?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQFE0G-kids-five-nights-at-freddys-summer-tee-and-shorts-set-for-boys-girls?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1MYI2RAG-pirelli-night-dragon-front-motorcycle-tire-90-90-21-54h-fits-honda-fury-abs-vt1300cxa-2010-2019?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1MYI2RAG-pirelli-night-dragon-front-motorcycle-tire-90-90-21-54h-fits-honda-fury-abs-vt1300cxa-2010-2019?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2OJ4VS5G-peace-love-dog-paw-vinyl-decal-sticker-cars-trucks-vans-walls-laptops-cups-white-7-5-x-2-8-inch-kcd1?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2OJ4VS5G-peace-love-dog-paw-vinyl-decal-sticker-cars-trucks-vans-walls-laptops-cups-white-7-5-x-2-8-inch-kcd1?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQFDSS-cufzuz-spandex-dining-room-chair-covers-for-living-room-universal-stretch-chair-slipcovers-protector-for-wedding-banquet-and-party-white-20-pcs?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQFDSS-cufzuz-spandex-dining-room-chair-covers-for-living-room-universal-stretch-chair-slipcovers-protector-for-wedding-banquet-and-party-white-20-pcs?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/6WAOFOO8-dona-brayman-womens-one-piece-tummy-control-backless-swimsuit-bathing-suit-bikini-swimwear?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/6WAOFOO8-dona-brayman-womens-one-piece-tummy-control-backless-swimsuit-bathing-suit-bikini-swimwear?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQFD5K-forbidden-body-jewelry-20g-6mm-surgical-steel-l-shaped-nose-ring-with-3mm-heart-cz-crystal?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQFD5K-forbidden-body-jewelry-20g-6mm-surgical-steel-l-shaped-nose-ring-with-3mm-heart-cz-crystal?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQFD3Q-gylazhuzizdny-computer-chair-ergonomic-lifting-computer-chair-360-degree-rotating-mesh-household-office-chair-height-adjustable-meeting-leisure-chair?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQFD3Q-gylazhuzizdny-computer-chair-ergonomic-lifting-computer-chair-360-degree-rotating-mesh-household-office-chair-height-adjustable-meeting-leisure-chair?utm_source=ubuy_gogsc
+max limit29
+30detail page browser going to hit.59
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 31407
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Dec 16, 2021 3:35:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+https://www.ubuy.co.in/product/1BPSP20O6-indoor-car-cover-compatible-with-2017-caterham-supersprint-0-door-roadster?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1BPSP20O6-indoor-car-cover-compatible-with-2017-caterham-supersprint-0-door-roadster?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1BPSP20GI-indoor-car-cover-compatible-with-2017-caterham-supersprint-0-door-roadster?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1BPSP20GI-indoor-car-cover-compatible-with-2017-caterham-supersprint-0-door-roadster?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1N5H30S5E-?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1N5H30S5E-?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1CSFPNWN0-gamer-noob-pew-gaming-birthday-gift-for-kids-t-shirt?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1CSFPNWN0-gamer-noob-pew-gaming-birthday-gift-for-kids-t-shirt?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1B28UD6TO-soozier-basketball-hoop-freestanding-height-adjustable-stand-with-backboard-wheels-for-adults-black?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1B28UD6TO-soozier-basketball-hoop-freestanding-height-adjustable-stand-with-backboard-wheels-for-adults-black?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2FSIS6VC-b082hrjb16?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2FSIS6VC-b082hrjb16?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/PJSK0AU-usb-c-cable-10ft-extra-long-10-feet-usb-type-c-charging-cable-usb-a-to-c-charger-cord-compatible-for?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/PJSK0AU-usb-c-cable-10ft-extra-long-10-feet-usb-type-c-charging-cable-usb-a-to-c-charger-cord-compatible-for?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQFCU8-tijn-blue-light-glasses-for-kids-cute-eyewear-computer-gaming-reading-safety-blue-light-blocking-glasses-girls-boys?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQFCU8-tijn-blue-light-glasses-for-kids-cute-eyewear-computer-gaming-reading-safety-blue-light-blocking-glasses-girls-boys?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1NKJ074O-mehron-makeup-foam-smoothie-blender?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1NKJ074O-mehron-makeup-foam-smoothie-blender?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/3MRWEWY9C-stainless-steel-happy-anniversary-keychain-for-couples-anniversary-jewelry-gifts?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/3MRWEWY9C-stainless-steel-happy-anniversary-keychain-for-couples-anniversary-jewelry-gifts?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2NVUM4IM-english-tea-shop-advent-tea-calendar-green-25-teabags?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2NVUM4IM-english-tea-shop-advent-tea-calendar-green-25-teabags?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/CH82T38-krator-2pcs-chrome-motorcycle-turn-signals-blinker-lights-compatible-with-honda-vt-shadow-spirit-vel?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/CH82T38-krator-2pcs-chrome-motorcycle-turn-signals-blinker-lights-compatible-with-honda-vt-shadow-spirit-vel?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/8YD9FLLC-yametee-mens-knight-praise-the-lord-my-rock-who-trains-my-hands-for-war-shirt-short-sleeve-tee?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/8YD9FLLC-yametee-mens-knight-praise-the-lord-my-rock-who-trains-my-hands-for-war-shirt-short-sleeve-tee?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/Q32E6QU-genuine-leather-rfid-blocking-wallets-mens-wallet-bifold-classic?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/Q32E6QU-genuine-leather-rfid-blocking-wallets-mens-wallet-bifold-classic?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/15XJ0JCBK-lance-peanut-individually-wrapped-bars-6-count-pack-of-12?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/15XJ0JCBK-lance-peanut-individually-wrapped-bars-6-count-pack-of-12?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2FW3ZGUW-white-skull-wings-biker-iron-on-embroidered-patch?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2FW3ZGUW-white-skull-wings-biker-iron-on-embroidered-patch?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2PPHPMLA-toodalittle-potty-toilet-training-seat-for-boys-and-girls-toddler-non-slip-potty-ring?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2PPHPMLA-toodalittle-potty-toilet-training-seat-for-boys-and-girls-toddler-non-slip-potty-ring?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2OOJZ8WG-freen-p-2-7mm3mm4mm4-5mm5mm-numbered-1-100-clip-snap-plastic-bird-ring-leg-bands-parrot-finch-canary?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2OOJZ8WG-freen-p-2-7mm3mm4mm4-5mm5mm-numbered-1-100-clip-snap-plastic-bird-ring-leg-bands-parrot-finch-canary?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/CFZZWXE-auto-vox-td-2-car-charger?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/CFZZWXE-auto-vox-td-2-car-charger?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/CJ8HUT2-porter-cable-1313113-pk2-carbon-brushes?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/CJ8HUT2-porter-cable-1313113-pk2-carbon-brushes?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/9QSAMM-usb-type-c-cable-akoada-3-pack-10ft-6-6ft-3-3ft-usb-a-to-usb-c-fast-charger-nylon-braided-cord-compa?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/9QSAMM-usb-type-c-cable-akoada-3-pack-10ft-6-6ft-3-3ft-usb-a-to-usb-c-fast-charger-nylon-braided-cord-compa?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/993IZ8NK-anchor-9885-engine-mount-front?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/993IZ8NK-anchor-9885-engine-mount-front?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2DUXNIGQ-the-republic-of-tea-black-full-leaf-loose-tea-coconut-pu-erh-black-3-oz-refill-bag?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2DUXNIGQ-the-republic-of-tea-black-full-leaf-loose-tea-coconut-pu-erh-black-3-oz-refill-bag?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1AEN2EYC4-fooao-wireless-adapter-for-xbox-controller-works-with-windows-10-pc-laptop-compatible-with-xbox-one-xbox-series-x-xbox-one-x-s-controller-elite-series?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1AEN2EYC4-fooao-wireless-adapter-for-xbox-controller-works-with-windows-10-pc-laptop-compatible-with-xbox-one-xbox-series-x-xbox-one-x-s-controller-elite-series?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/GJ8NM20-rod-end-5-16-x-5-16-24-ecf5-female-economy-right-hand-rod-end-bearing-with-jam-nut-included-heim-joi?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/GJ8NM20-rod-end-5-16-x-5-16-24-ecf5-female-economy-right-hand-rod-end-bearing-with-jam-nut-included-heim-joi?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/XDF5U0OM-amr-racing-utv-graphics-kit-sticker-decal-compatible-with-polaris-rzr-170-youth-all-years-carbon-x-p?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/XDF5U0OM-amr-racing-utv-graphics-kit-sticker-decal-compatible-with-polaris-rzr-170-youth-all-years-carbon-x-p?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/X12XSJXM-uni-mechanical-pencil-eraser-refill-s-sks?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/X12XSJXM-uni-mechanical-pencil-eraser-refill-s-sks?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/6WZYR88Q-boaonda-womens-professional-clog-great-shock-absorption-line?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/6WZYR88Q-boaonda-womens-professional-clog-great-shock-absorption-line?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/19T0BHANK-rheem-ruud-42-23116-09-heat-sequencer-relay?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/19T0BHANK-rheem-ruud-42-23116-09-heat-sequencer-relay?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40SU7X78U-sakroots-eco-twill-on-the-go-bundle?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40SU7X78U-sakroots-eco-twill-on-the-go-bundle?utm_source=ubuy_gogsc
+java.lang.IndexOutOfBoundsException: Index 31 out of bounds for length 31
+60detail page browser going to hit.89
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 31050
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Dec 16, 2021 3:40:25 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+https://www.ubuy.co.in/product/1PJTPU30U-bicycle-amp-motorcycle-phone-mount-anti-theft-aluminum-alloy-bike-phone-holder-with-360-deg-rotation-fit-iphone-x-xr-se-11-12-12pro?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1PJTPU30U-bicycle-amp-motorcycle-phone-mount-anti-theft-aluminum-alloy-bike-phone-holder-with-360-deg-rotation-fit-iphone-x-xr-se-11-12-12pro?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/XNLI6RV0-mean-well-rs-50-5-ac-to-dc-power-supply-single-output-5v-10-amp-50w?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/XNLI6RV0-mean-well-rs-50-5-ac-to-dc-power-supply-single-output-5v-10-amp-50w?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2RMHN98E-wdirara-womens-mid-waist-corduroy-a-line-slim-fit-button-casual-mini-skirt?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2RMHN98E-wdirara-womens-mid-waist-corduroy-a-line-slim-fit-button-casual-mini-skirt?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40R9WSTMO-fire-grain-freekeh-cracked-flame-roasted-whole-grain-10-6-oz-natural-1-pack-fire-grain-freekeh-cracked-flame-roasted-whole-grain-10-60-oz?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40R9WSTMO-fire-grain-freekeh-cracked-flame-roasted-whole-grain-10-6-oz-natural-1-pack-fire-grain-freekeh-cracked-flame-roasted-whole-grain-10-60-oz?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2DI4HBCC-40-piece-button-head-grease-fitting-kit?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2DI4HBCC-40-piece-button-head-grease-fitting-kit?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1HYDCMUF4-rakhi-for-brother-set-of-3-rakhi-krishna-rakhi-raksha-bandhan-rakhi-designer-rakhi-made-in-india?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1HYDCMUF4-rakhi-for-brother-set-of-3-rakhi-krishna-rakhi-raksha-bandhan-rakhi-designer-rakhi-made-in-india?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40SU7T7ZO-silver-initial-necklaces-for-men-women-square-initial-letter-pendant-necklace-capital-letter-a-z-necklace-box-chain?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40SU7T7ZO-silver-initial-necklaces-for-men-women-square-initial-letter-pendant-necklace-capital-letter-a-z-necklace-box-chain?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2DVZN7E0-greddy-official-license-plate-frame?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2DVZN7E0-greddy-official-license-plate-frame?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/6H7RYA-kimbo-napoli-espresso-ese-compostable-coffee-pods-100-box?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/6H7RYA-kimbo-napoli-espresso-ese-compostable-coffee-pods-100-box?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/19MZITM-brilux-7-day-glass-candle-fast-luck-green?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/19MZITM-brilux-7-day-glass-candle-fast-luck-green?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1CB5HQWK-bulk-blank-ntag215-pvc-cards-25-count-pack?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1CB5HQWK-bulk-blank-ntag215-pvc-cards-25-count-pack?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1ILTXYRSA-2pcs-black-color-metal-car-bar-grille-audio-speaker-subwoofer-grill-grille-cover-protector-8-inch-3-bars?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1ILTXYRSA-2pcs-black-color-metal-car-bar-grille-audio-speaker-subwoofer-grill-grille-cover-protector-8-inch-3-bars?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1AEQCAAK0-eid-mubarak-ramadan-decor-ornaments-crystal-building-mosque-mecca-model-islamic-architecture-for-gift-home-office-decor?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1AEQCAAK0-eid-mubarak-ramadan-decor-ornaments-crystal-building-mosque-mecca-model-islamic-architecture-for-gift-home-office-decor?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/FYT8MZC-christopher-knight-home-benny-mid-century-modern-fabric-rocking-chair-grey-light-walnut?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/FYT8MZC-christopher-knight-home-benny-mid-century-modern-fabric-rocking-chair-grey-light-walnut?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2YGU4VKY-hach-hq411d-benchtop-phmv-meter?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2YGU4VKY-hach-hq411d-benchtop-phmv-meter?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/SYS0IR6-foto4easy-coax-coaxial-cable-stripper-rg174-rg58-rg59-rg62-rg6-wire-stripping-cutter-tool-round-flat?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/SYS0IR6-foto4easy-coax-coaxial-cable-stripper-rg174-rg58-rg59-rg62-rg6-wire-stripping-cutter-tool-round-flat?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1FW88TJA-simple-anchor-solutions-stainless-steel-universal-deck-plate-key-gas-fuel-water-waste-fill?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1FW88TJA-simple-anchor-solutions-stainless-steel-universal-deck-plate-key-gas-fuel-water-waste-fill?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2N9N36Q8-painless-learning-educational-placemats-for-kids-usa-and-world-map-time-and-money-alphabet-us-presid?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2N9N36Q8-painless-learning-educational-placemats-for-kids-usa-and-world-map-time-and-money-alphabet-us-presid?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2C8IAQLW-diversitech-corporation-mp3-3-quot-x-3-quot-x-38-quot-rubber-anti-vibration-mounting-pads?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2C8IAQLW-diversitech-corporation-mp3-3-quot-x-3-quot-x-38-quot-rubber-anti-vibration-mounting-pads?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/EVKPO40-dear-skin-air-embo-sanitary-pads-super-14-count-derma-sanitary-pads-for-women-sanitary-pads-with-win?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/EVKPO40-dear-skin-air-embo-sanitary-pads-super-14-count-derma-sanitary-pads-for-women-sanitary-pads-with-win?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/KLKDZGDG-chi-lites-20-greatest-hits?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/KLKDZGDG-chi-lites-20-greatest-hits?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQFCIM-fit-lg-stylo-4-screen-protector-3-pack-seeu-again-ultra-thin-anti-scratch-clear-9h-hardness-tempered-glass-protective-film-compatible-lg-stylo-4-q710?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQFCIM-fit-lg-stylo-4-screen-protector-3-pack-seeu-again-ultra-thin-anti-scratch-clear-9h-hardness-tempered-glass-protective-film-compatible-lg-stylo-4-q710?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1AH20I94S-cabinet-locks-child-safety-latches-10-pack-adhesive-child-proof-cabinet-locks-baby-safety-cabinet-locks-child-locks-for-cabinets-and-drawers-corner?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1AH20I94S-cabinet-locks-child-safety-latches-10-pack-adhesive-child-proof-cabinet-locks-baby-safety-cabinet-locks-child-locks-for-cabinets-and-drawers-corner?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/JPT9FIFK-citizen-clocks-citizen-cc2045-gallery-wall-clock-iron?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/JPT9FIFK-citizen-clocks-citizen-cc2045-gallery-wall-clock-iron?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQFCAY-uniwalker-2-piece-vintage-luggage-set-26inch-spinner-trunk-with-20inch-carry-on-cute-suitcase-for-women-grey?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQFCAY-uniwalker-2-piece-vintage-luggage-set-26inch-spinner-trunk-with-20inch-carry-on-cute-suitcase-for-women-grey?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQFC94-yansanido-4-pack-soft-cover-spiral-notebook-journal-a5-lined-notebook-with-kraft-cover-120-pages60-sheets-4-color?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQFC94-yansanido-4-pack-soft-cover-spiral-notebook-journal-a5-lined-notebook-with-kraft-cover-120-pages60-sheets-4-color?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQFC70-mxuteuk-5pcs-straight-pneumatic-push-to-quick-connect-tube-fitting-bulkhead-union-air-fitting-14-quot-tube-od-x-14-quot-tube-od-pm-1-4?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQFC70-mxuteuk-5pcs-straight-pneumatic-push-to-quick-connect-tube-fitting-bulkhead-union-air-fitting-14-quot-tube-od-x-14-quot-tube-od-pm-1-4?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQFBZC-kedrian-mother-son-necklace-925-sterling-silver-gifts-for-mom-from-son-mon-and-son-pendant-mom-gifts-from-son-mother-son-necklace-for-women-mom?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQFBZC-kedrian-mother-son-necklace-925-sterling-silver-gifts-for-mom-from-son-mon-and-son-pendant-mom-gifts-from-son-mother-son-necklace-for-women-mom?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/G1L897EO-anvava-wall-mounted-mail-holder-key-and-mail-holder-with-3-double-key-hooks-and-3-single-key-hooks-w?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/G1L897EO-anvava-wall-mounted-mail-holder-key-and-mail-holder-with-3-double-key-hooks-and-3-single-key-hooks-w?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQEW7G-realme-7-pro-case-3-in-1-detachable-anti-scratch-pc-hard-case-360-full-body-shockproof-protection-case-cover-for-oppo-realme-7-pro-red?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQEW7G-realme-7-pro-case-3-in-1-detachable-anti-scratch-pc-hard-case-360-full-body-shockproof-protection-case-cover-for-oppo-realme-7-pro-red?utm_source=ubuy_gogsc
+java.lang.IndexOutOfBoundsException: Index 31 out of bounds for length 31
+90detail page browser going to hit.119
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 22368
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Dec 16, 2021 3:46:04 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+https://www.ubuy.co.in/product/40QOQEW5C-le-superbe-womens-after-sundown-pullover?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQEW5C-le-superbe-womens-after-sundown-pullover?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQEVXY-mocsicka-early-2000s-blue-photography-backdrop-love-heart-birthday-party-photo-background-2000s-valentines-portrait-backdrop-photo-booth-props-7x5ft?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQEVXY-mocsicka-early-2000s-blue-photography-backdrop-love-heart-birthday-party-photo-background-2000s-valentines-portrait-backdrop-photo-booth-props-7x5ft?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1059R6W8-niv-s-bling-iced-lab-diamond-pyramid-square-earrings-for-men-and-women-18k-yellow-gold-white-gold-pl?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1059R6W8-niv-s-bling-iced-lab-diamond-pyramid-square-earrings-for-men-and-women-18k-yellow-gold-white-gold-pl?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQEVU0-luxury-premium-turkish-cotton-12-piece-washcloths-long-stable-202-2-ply-turkish-ring-spun-cotton-yarn-makes-the-luxe-factor-eco-friendly-driftwood?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQEVU0-luxury-premium-turkish-cotton-12-piece-washcloths-long-stable-202-2-ply-turkish-ring-spun-cotton-yarn-makes-the-luxe-factor-eco-friendly-driftwood?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1GDGBKNXC-evan-fischer-interior-door-handle-compatible-with-mitsubishi-galant-04-12-front-or-rear-lh-inside-black-plastic?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1GDGBKNXC-evan-fischer-interior-door-handle-compatible-with-mitsubishi-galant-04-12-front-or-rear-lh-inside-black-plastic?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1ZC6DDTM-dr-fish-digital-fishing-line-counter-clip-on-gauge-999ft-led-screen-10-groups-data-trolling-jigging?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1ZC6DDTM-dr-fish-digital-fishing-line-counter-clip-on-gauge-999ft-led-screen-10-groups-data-trolling-jigging?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2EI2IXUU-power-products-lihua-square-avr-automatic-voltage-regulator-for-1kw-2kw-3kw-4kw-gas-generator?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2EI2IXUU-power-products-lihua-square-avr-automatic-voltage-regulator-for-1kw-2kw-3kw-4kw-gas-generator?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2AG7H842-jojo-montessori-wooden-toy-fine-motor-skills-toys-for-toddlers-magnetic-bird-toy-set-woodpecker-catc?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2AG7H842-jojo-montessori-wooden-toy-fine-motor-skills-toys-for-toddlers-magnetic-bird-toy-set-woodpecker-catc?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/2DVQ0NKM-yifontin-led-pendant-light-fixture-hanging-lamp-chandelier-lights-18w-3000k-warm-light-lamps-for-liv?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2DVQ0NKM-yifontin-led-pendant-light-fixture-hanging-lamp-chandelier-lights-18w-3000k-warm-light-lamps-for-liv?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/DK9N4HQ-80-pcs-antique-bronze-vintage-skeleton-keys-charm-set-vintage-skeleton-key-set-charms-antique-style?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/DK9N4HQ-80-pcs-antique-bronze-vintage-skeleton-keys-charm-set-vintage-skeleton-key-set-charms-antique-style?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/3V9QA6XRO-cloud-clutch-purses-and-dumpling-crossbody-for-women-fashion-small-evening-handbag?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/3V9QA6XRO-cloud-clutch-purses-and-dumpling-crossbody-for-women-fashion-small-evening-handbag?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/8LZAHXEE-we-r-memory-keepers-button-press-keychain-kit-makes-3-3-pack-wr661074-bundled-with-artsiga-crafts-sm?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/8LZAHXEE-we-r-memory-keepers-button-press-keychain-kit-makes-3-3-pack-wr661074-bundled-with-artsiga-crafts-sm?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQEVAQ-9-inch-yellow-led-light-bar-180w-18000lm-sammanlight-offroad-spot-flood-combo-fog-lights-triple-row-driving-work-lights-for-truck-jp-car-suv-atv-utv?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQEVAQ-9-inch-yellow-led-light-bar-180w-18000lm-sammanlight-offroad-spot-flood-combo-fog-lights-triple-row-driving-work-lights-for-truck-jp-car-suv-atv-utv?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQEV6S-ylight-led-floor-lamp-flaut-wall-corner-decorative-reading-lamp-standing-lamp-dimmable-living-atmosphere-lamp-for-room-bedroom-balcony-white?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQEV6S-ylight-led-floor-lamp-flaut-wall-corner-decorative-reading-lamp-standing-lamp-dimmable-living-atmosphere-lamp-for-room-bedroom-balcony-white?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQEUZ4-grace-karin-womens-34-sleeve-knit-cropped-cardigan-sweaters-open-front-bolero-shrugs-coat-tops-s-3xl?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQEUZ4-grace-karin-womens-34-sleeve-knit-cropped-cardigan-sweaters-open-front-bolero-shrugs-coat-tops-s-3xl?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/LXT2RBVM-wittkop-men-saddle-trekking-vito-medicus-with-cloppen-black-97201?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/LXT2RBVM-wittkop-men-saddle-trekking-vito-medicus-with-cloppen-black-97201?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQEUPM-ncaa-college-hand-sign-gameday-short-sleeve-solid-t-shirt?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQEUPM-ncaa-college-hand-sign-gameday-short-sleeve-solid-t-shirt?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/D3735F40-wanfeng-8-inch-200x50-inner-tube-2-pack-premium-razor-scooter-tube-for-razor-e100-e150-e200-a5-air-c?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/D3735F40-wanfeng-8-inch-200x50-inner-tube-2-pack-premium-razor-scooter-tube-for-razor-e100-e150-e200-a5-air-c?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/111NHGYI-1pc-8-led-motorcycle-turn-signal-brake-tail-light-strip-ip68-waterproof-dual-row-red-tail-brake-ambe?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/111NHGYI-1pc-8-led-motorcycle-turn-signal-brake-tail-light-strip-ip68-waterproof-dual-row-red-tail-brake-ambe?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQEUNS-roverone-android-8-0-in-dash-car-dvd-gps-navigation-system-for-ford-explorer-2012-2013-2014-2015-with-stereo-radio-bluetooth-gps-sd-usb-mirror-link?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQEUNS-roverone-android-8-0-in-dash-car-dvd-gps-navigation-system-for-ford-explorer-2012-2013-2014-2015-with-stereo-radio-bluetooth-gps-sd-usb-mirror-link?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQEUE0-roselux-women-basic-crew-neck-knit-crop-tops-casual-solid-racerback-tank-crop-top-sleeveless-work-out-vest-crop-tank-top?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQEUE0-roselux-women-basic-crew-neck-knit-crop-tops-casual-solid-racerback-tank-crop-top-sleeveless-work-out-vest-crop-tank-top?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/K0XG4RF6-disney-ratatouille-remy-soft-toy-with-hat-5872057?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/K0XG4RF6-disney-ratatouille-remy-soft-toy-with-hat-5872057?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/7Z3PTL08-apera-instruments-2301t-f-pvc-body-conductivity-temp-electrode-k-1-0-range-0-5-us-cm-to-200-ms-cm-bn?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/7Z3PTL08-apera-instruments-2301t-f-pvc-body-conductivity-temp-electrode-k-1-0-range-0-5-us-cm-to-200-ms-cm-bn?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/PHQBD4O-endertoys-wolf-action-figure?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/PHQBD4O-endertoys-wolf-action-figure?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQEUA2-cleo-by-panache-womens-lexi-molded-balconnet-bra?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQEUA2-cleo-by-panache-womens-lexi-molded-balconnet-bra?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/40QOQEU2O-bleouk-yellowstone-tv-show-gift-rip-wheeler-gift-dutton-ranch-yellowstone-merchandise?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QOQEU2O-bleouk-yellowstone-tv-show-gift-rip-wheeler-gift-dutton-ranch-yellowstone-merchandise?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/GN3I4B2-halo-stress-ball-legendary-crate-lootcrate-halo-wars-2-douglas-042-helmet-stress-ball?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/GN3I4B2-halo-stress-ball-legendary-crate-lootcrate-halo-wars-2-douglas-042-helmet-stress-ball?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/1AFBKK5O6-throttle-body-bypass-hose-kit-cylinder-head-coolant-steam-port-crossover-stainless-steel-braided-tube-compatible-with-gm-ls-engine-series-ls1-lsx-lm7?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1AFBKK5O6-throttle-body-bypass-hose-kit-cylinder-head-coolant-steam-port-crossover-stainless-steel-braided-tube-compatible-with-gm-ls-engine-series-ls1-lsx-lm7?utm_source=ubuy_gogsc
+https://www.ubuy.co.in/product/10N6ZNVI-main-relay-replaces-oem-santech-denso-90987-02004-90987-02004-83-056700-4810?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/10N6ZNVI-main-relay-replaces-oem-santech-denso-90987-02004-90987-02004-83-056700-4810?utm_source=ubuy_gogsc
+Exception catched.
+java.lang.IndexOutOfBoundsException: Index 119 out of bounds for length 119
+java.lang.IndexOutOfBoundsException: Index 30 out of bounds for length 30
+Loop is completed and mail is going to sent.
+Dec 16, 2021 3:50:32 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 16, 2021 3:50:39 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C

@@ -1,0 +1,661 @@
+api urls browser going to launched.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 25435
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Dec 17, 2021 5:06:05 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+browser launched for api url.
+api url has been hit.
+Trying to get urls.
+last https index is 18759
+
+
+
+Total URL count is 119
+
+
+All urls have been added to list.
+
+0detail page browser going to hit.29
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 18206
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Dec 17, 2021 5:06:12 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+https://www.ubuy.co.in/product/40QMWEONO-nc-14k-goldsilver-plated-cross-bracelets-adjustable-link-cross-bracelet-for-women-girls-mom-wife?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2FQOHCLE-matty-m-ladies-long-sleeve-tee-with-side-zippers?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/CL0ZGIC-35pc-makeup-cupcake-toppers-happy-birthday-glitter-cosmetics-theme-bridal-cake-toppers-party-cake-de?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2P1XF1WK-fuel-pump-frame-mounted-for-2008-2009-2010-ford-f250-f350-f450-f550-super-duty-pickup-truck-v8-power?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1C5LB9HXM-johnny-depp-edward-scissor-hands-inspired-calavera-die-cut-clear-vinyl-sticker-sugar-skull-day-of-the-dead-weather-proof-decal?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/20XC03L8-tangkula-wall-mounted-bathroom-shelf-with-2-tier-towel-bars-24-inch-stainless-steel-towel-shelf-poli?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1CEH7MFG-anzome-bike-basket-collapsible-small-pet-cat-dog-carrier-removable-front-bicycle-handlebar-basket-mu?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWEOA8-muatogiml-925-sterling-silver-you-are-my-sunshine-sunflower-necklace-mother-daughter-flower-pendant-necklaces-jewelry-bracelet-earring-gifts-for-mom?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1SCAOUNY-metzeler-roadtec-01-rear-tire-190-55zr-17-hwm?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1GXYR48JA-gildan-mens-ultra-cotton-pique-sport-shirt-2-pack?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/3J8AYF4-mintegrity-5pk-13-panel-multi-drug-test-cup-amp-bup-bzo-coc-mamp-mdma-mop-mtd-oxy-thc-etg-fty-tra-a3?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWEO0G-falk-fabrics-llc-nylon-netting-sage-fabric-by-the-yard?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWENP4-lot-of-84pcs-car-universal-2-hole-rubber-exhaust-hanger-bushing-muffler-insulators-shock-absorbent-mount-bracket-with-4pcs-universal-exhaust-hanger?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/RVKJWYW-cra-z-art-cra-z-slimy-16-oz-washable-white-glue-16oz-white-glue?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/7O27PF5K-new-kohler-oem-flywheel-3202522-3202522-s-gh45843-3468-t34562fd478294?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/SWTNNNY-50th-wedding-anniversary-gifts-couples-husband-wife-50-years-t-shirt?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2F9SUIUG-ps4-ps3-controller-charger-brhe-playstation-4-ps4-pro-ps4-slim-ps3-ps3-move-controller-charger-charg?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWEN1W-matthew-gray-gubler-blue-suit-mini-cutout?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1GJLVQ40-bh-motor-new-carburetor-carb-for-honda-sportrax-450-trx450r-2004-2005-replace-16100-hp1-673?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/12BF6YYE-carburetor-for-2004-2005-honda-trx450r-trx-450r-carb-assembly-replaces-16100-hp1-673?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1CGTM7WFI-womens-3-4-cuffed-sleeve-chiffon-printed-v-neck-casual-blouse-shirt-tops?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWEMSE-boho-duvet-cover-cotton-ethnic-boho-bedding-3pc-set-yellow-gray-modern-triangle-arrow-aztec-print-with-zipper-ties-hotel-quality-luxury-ultra-soft?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1O6NKANE-ford-racing-cm6731fl82-high-performance-oil-filter?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWEMKQ-xiakolaka-two-piece-tankini-swimsuits-for-women-high-waisted-plus-size-swimsuits-tummy-control-boyshort-bathing-suit?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWEMIW-lotfancy-2-18-quot-x-2-34-quot-thermal-labels-compatible-dymo-30324-16-rolls-320-labelsroll-2-125-rdquo-x-2-75-rdquo-shipping?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWEMGS-fowocu-orange-sun-and-moon-tapestry-wall-hanging-indie-hippie-mandala-cool-wall-tapestries-aesthetic-tapestry-for-bedroom-living-room-dorm-orange?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/14UOLZD3Q-new-mercury-marine-mercruiser-oil-pressure-switch-87-864252a01-4-3l-5-0l-5-7l?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1CQTAI3G4-leyi-compatible-for-lg-v60-thinq-case-lg-v60-case-full-body-protective-shockproof-bumper-anti-scratch-rugged-hybrid-clear-phone-cases-for-lg-v60?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2XWW2IVS-treal-brass-rear-inner-portal-housing-l-r-heavy-for-redcat-gen8-scout-ii-black?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1GC6T0CZU-melingo-white-duvet-cover-king-size-organic-cotton-luxury-bed-set-3-pieces-1-x-comforter-cover-2-x-pillow-shams-soft-breathable-durable-and?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+30
+max limit29
+30detail page browser going to hit.59
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 9056
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Dec 17, 2021 5:10:23 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+https://www.ubuy.co.in/product/40QMWEIGY-caf-eacute-crema-ground-coffee-from-puerto-rico-14-ounce?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/FBO9DMK-100w-solar-street-flood-lights-aponuo-outdoor-street-light-5000-lumens-solar-powered-flood-lamp-with?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2C9IOUF6-true-nation-by-dxl-big-and-tall-relaxed-fit-stretch-jeans?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1H2576WWG-suritch-clear-case-for-samsung-galaxy-s9-plus-built-in-screen-protector-support-wireless-charging-hybrid-protection-hard-shellsoft-tpu?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1I9LEU9T4-motini-1-light-cylinder-crystal-pendant-light-gold-brushed-brass-with-k9-crystal-led-modern-ceiling-hanging-pendant-lighting-fixtures-for-kitchen?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2EHYB4MG-d-w-the-dreamworks-trolls-stylin-troll-collection-pack-multicolor?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/ZAG7C7A-schultz-all-purpose-10-15-10-plant-food-plus-4-ounce-3-pack?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1B4LQE4P4-champion-green-dragon-pool-cue-stick-billiard-glove-predator-314-taper-12-75mm-retail-price-msrp-220-19-oz-white-case?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2CRQ63CW-adafruit-8-mhz-crystal-20pf-capacitors-ada2213?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/NSARF4Y-hobbypark-4pcs-aluminum-suspension-arms-front-rear-for-rc-traxxas-1-10-slash-4x4-xo-1-upgrade-parts?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/3W5G8JTCK-glo-t5-ho-linear-fluorescent-lighting-system-single-24-inch?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWCFGU-xiaoshi-fashion-girl-women-leopard-belt-buckle-pearl-fedora-hat-cap?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1BQDZC9CO-ticlooc-12pcs-mixed-artificial-pumpkins-fake-harvest-pumpkins-for-fall-wedding-thanksgiving-halloween-fireplace-decoration?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWCETM-robot-vacuum-victony-robotic-vacuum-cleaner-wi-fi-connectivity-1650pa-suction-self-charging-multiple-cleaning-modes-best-for-pet-hairs-hard?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWCEK4-b08csfdp9j?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWCE6O-men-women-short-sleeve-t-shirt-soft-3d-creative-print-fashion-crewneck-graphic-tees?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWCAAS-paw-patrol-chase-boys-3rd-birthday-34-sleeve-baseball-jersey-toddler-shirt?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/5I543O-for-quest-caravan-ozark-trail-coleman-canopy-truss-connector-replacement-parts-repair?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/PK0CD66-jewelry-making-burs-set-round-shape-ball-burs-jewelers-fig1-005-023-fox-germany-e-4?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/4PKA0UK-amber-naturalz-pets-c-c-sinus-support-for-petz-1-ounce?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/WPWKXSMC-aspca-no-excuse-for-animal-abuse-t-shirt-dark?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2N9OTLCQ-reading-glasses-3-pack-stylish-rectangular-frame-readers?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1PC38BT4-crbn-dog-grooming-brush-pet-brushing-comb-for-short-medium-and-long-hair-dogs-detangling-and-sheddin?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/D5GBS3VE-sante-barley-fusion-coffee-mix-with-barley-grass?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWCA6U-natural-baltic-amber-bracelet-yellow-barrel-shape-bead-black-rubber-band?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/SR53B040-hs-power-black-bull-bar-compatible-with-05-11-nissan-frontier-pathfinder-xterra-brush-bumper-grill-g?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1S7X4IAO-rareelectrical-new-12v-starter-compatible-with-onan-p-216-p224-p-218-p227-steiner-410-new-holland-sk?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1C39OUO4U-littleforbig-bigshield-generation-3-single-adult-sized-pacifier-pink?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/14MRYKSA-sealing-wax-kits-643pcs-wax-seal-beads-with-gift-box-wax-seal-stamp-melting-furnace-melting-spoon-en?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1O46Y9J0G-amazon-basics-kids-soft-play-single-tunnel-pink-yellow-turquoise?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+60
+java.lang.IndexOutOfBoundsException: Index 31 out of bounds for length 31
+Max limit exception catched.
+60detail page browser going to hit.89
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 4021
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Dec 17, 2021 5:14:26 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+https://www.ubuy.co.in/product/2B1BVBMO-triple-bearing-mt2-shank-revolving-lathe-tailstock-chuck-adaptor-boxford-thread?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1AEOZB90G-chditb-sunflower-rustic-wooden-home-sign-plaque-bless-this-home-with-love-and-laughter-inspirational-saying-hanging-wooden-door-decor-11-x?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/NKXNHAA-puroma-11-inch-rotating-cake-turntable-52-pcs-stand-spinner-baking-decorating-supplies-with-36-pcs-i?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1BMUC8G8-57-pcs-cake-decorating-supplies-turntable-set-with-11-smooth-rotating-turntable-stand-36-stainless-s?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/6ONGN1V0-coastal-shower-doors-tbk136n-bypass-replacement-towel-bar-kit-nickel?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWBPHW-geesound-ball-pits-for-toddlers-kids-memory-foam-ball-pit-indoor-amp-outdoor-round-kids-play-tent-ball-pool-soft-baby-playpen-gift-amp?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/8XS0UQJI-supertape-3-4-inch-wide-x-36-yards-of-double-side-adhesive?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWBPA8-whelen-inner-edge-xlp-series-12-3-led-lamps-2-pcs-upper-front-all-amber-compatible-with-ford-police-interceptor-utility-2013-2019-part?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2CU1U4FI-allsop-home-and-garden-pot-pads-deck-and-patio-protection-with-3-000-lbs-rating-discreet-non-skid-pl?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/3O3J3P8IE-wireless-charging-station-tzomsze-4-in-1-foldable-18w-fast-charger-stand-dock-for-apple-products-compatible-with-iphone1211x88plusiwatchairpodsairpods?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1GD8T4QHI-the-fanatic-group-tufts-university-double-walled-soft-touch-tumbler-design-2-white?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/L69PYQ-t-rex-racing-heavy-duty-skid-plate-for-honda-2013-2020-cb500f-cb500x?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWBLXM-8-pieces-crop-cami-top-for-women-spaghetti-strap-tank-top-racerback-sleeveless-camisole-tops-for-sports-yoga-valentines-day?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1AFBID4KG-fishing-tackle-box-fishing-accessories-kit-fishing-gear-equipment-including-fishing-leaders-with-swivels-snaps-baits-fishing-hooks-sinker-weights?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWBLVS-downcool-goose-down-alternative-quilted-comforter-all-season-luxury-350-gsm-comforter-plush-microfiber-fill-duvet-insert-or-stand-alone-comforter?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWBLTO-merax-twin-over-full-bunk-bed-metal-bunk-bed-frame-with-desk-ladder-and-slats-for-bedroom-white?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2P3GF442-nanobeam-starter-kit-5mm-extrusion-nb0505-assorted?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWBLI2-bersem-paperfeel-screen-protector-compatible-with-ipad-10-2-inch-20202019-model-8th-7th-generation-paperfeel-film?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1R3LDLJ2-decorlife-blow-up-pool-96-x-56-x-22-inch-family-pool-inflatable-rectangle-swimming-pools-for-kids-an?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWBLAO-rifoda-for-10th-gen-civic-hub-center-ring-tire-center-trim-4-pcs-honda-civic-2020-2019-2018-2017-2016red?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/19TJ5P1Q4-metropolitan-mocha-almond-ground-coffee-24-bags-2-5-oz?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1PRE0H3WG-miclassic-2in1-rocking-bassinet-one-second-fold-travel-crib-portable-newborn-baby-beige?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/8AB6KB54-womens-purses-and-handbags-fashion-satchel-stylish-handbag-wallet-2-pcs-set-tote-bags?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1PS5DIWQ0-labsciences-510-mc8a-0-5-10-ul-multichannel-8-channel-pipette?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/6WBTV8ZW-firstone-all-season-107h-radial-tire-25555r20?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/6KF9L61G-homepop-velvet-swoop-arm-accent-chair-gray?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/YMRRXBNA-funny-saying-charlotte-bronte-shirt-jane-eyre-t-shirt?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/21MEYNG8-iction-new-a1502-trackpad-flex-cable-for-macbook-pro-retina-13-3-39-39-a1502-touchpad-cable-mf839-mf?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2CUZFB00-zanzea-womens-batwing-sleeve-off-shoulder-loose-oversized-baggy-tops-sweater-pullover-casual-blouse?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2MOFQ2A-neupo-48-volt-power-supply-power-adapter-compatible-with-select-voip-vvx-polycom-and-cisco-phone-mod?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+90
+java.lang.IndexOutOfBoundsException: Index 31 out of bounds for length 31
+Max limit exception catched.
+90detail page browser going to hit.119
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 26558
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Dec 17, 2021 5:18:05 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+https://www.ubuy.co.in/product/3MRVAJ1U0-herman-miller-aeron-seat-replacement-c?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWBL6G-alpha-rider-clutch-drive-belt-removal-tool-belt-change-tools-for-polaris-rzr-rzr-4-xp-turbo-rs1-ranger-xp-1000-replace-2875911?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWBKZ2-double-row-pearl-bracelets-two-strand-freshwater-cultured-7-8mm8-9mm-white-pearl-bracelets-jewelry-gift-for-women-wife-girls-mother?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2C8X6PD4-uline-80-54137-00-circulation-pump-assembly?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2AH5LKF6-denso-478-0107-receiver-drier?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWBKWY-4-heavy-duty-caster-set-4-quot-5-quot-6-quot-all-steel-wheels-rigid-swivel-and-brake-5-quot-4-rigid?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1AFS95AD4-toys-hobbies-lingting-lt-k21w-21-keys-kalimbas-mbira-thumb-piano-rain-whisperer?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/S4M4012W-1kz-1kzte-1kz-te-full-gasket-set-04111-67020-51010600-engine-overhaul-gasket-kit-for-toyota-landcrui?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWBKLC-haseil-mens-kimono-cardigan-japanese-jackets-casual-cotton-open-front-lightweight-linen-yukata?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWBKDY-disney-winnie-the-pooh-sleep-set-for-women?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/E45EG4GI-ventline-inc-motor-ceiling-vent-bcd0388-00?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1AFTASU4U-kicko-mini-animal-erasers-zoo-animal-erasers-144-pack-of-1-inch-assorted-zoo-safari-and-jungle-erasers-for-kids-parties-party-favors-school?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/DRAYWXCA-chris-wang-45-sheets-universal-colored-a5-size-hole-punched-refills-inserts-filler-paper-pages-for-6?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2ON4FZH2-outus-rivets-single-cap-rivet-tubular-metal-studs-with-fixing-tool-kit-for-leather-craft-repairs-dec?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWBKA0-mellassu-womens-chiffon-kimono-cardigan-dress-bikini-cover-up-long-beach-blouses?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1QEI7LUC-bissell-pro-heat-carpet-cleaner-tank-bladder-2036674-2036878?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2E2BZUCS-safetstep-mens-slip-resistant-andre-court-shoe?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMWBK08-rescue-pups-hooded-bath-towel-for-baby-child-and-teens-chase?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/21QMM0QO-laboratory-micro-motor-strong-power-with-e-type-connector?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2FSMSY0K-zigzag-hair-afro-curly-13x6-lace-front-wigs-for-black-women-brazilian-pre-plucked-deep-part-lace-fro?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/RTM5ZR6-kastking-speed-demon-pro-tournament-series-bass-fishing-rods-elite-carbon-high-modulus-1-pc-blanks-f?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2DY5GZ1U-ccinee-decora-30pcs-real-touch-tulips-double-pink-pu-tulips-artificial-flowers-for-wedding-home-cent?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/Q27MQB4-bosch-72218ws-f00e369924-workshop-engine-oil-filter?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/CFZTQZW-canomo-pack-of-9-self-adhesive-acoustic-guitar-pickguard-pick-guards-scratch-plate-multi-color-and-s?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/PBJWM88-selfie-ring-light-with-82-stand-and-3-phone-holders-circle-light-10-led-ring-light-tripod-with-ultra?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/8A63YMEY-niking-auto-60-inch-led-truck-tailgate-light-strip-quad-row-bed-tail-light-bar-waterproof-5-function?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2CPSQ3WW-kemtech-xwe-5mm-7-synthware-nmr-tube-with-cap-economy-grade-borosilicate-3-3-tubing-5-mm-diameter-17?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/ZIZ06NA-coswarm-cw4-central-heating-leak-sealer-for-up-to-18-single-radiators-leak-seal-stop-radiator-boiler?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1657YMOV2-sea-doo-oem-spark-mirrors-295100748?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+Exception catched.
+java.lang.IndexOutOfBoundsException: Index 119 out of bounds for length 119
+119
+java.lang.IndexOutOfBoundsException: Index 30 out of bounds for length 30
+Max limit exception catched.
+Loop is completed and mail is going to sent.
+Dec 17, 2021 5:22:41 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 5:22:47 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 5:26:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 5:31:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 5:34:58 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 5:39:17 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 5:39:24 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 5:44:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 5:50:01 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 5:54:28 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 5:58:32 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 5:58:38 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 6:02:51 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 6:07:20 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 6:12:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 6:16:29 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 6:16:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 6:20:30 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 6:24:34 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 6:28:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 6:33:12 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 6:33:19 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 6:38:26 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 6:42:13 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 6:45:50 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 6:49:50 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 6:49:57 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 6:54:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 6:59:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 7:04:00 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 7:08:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 7:08:56 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 7:13:55 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 7:18:02 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 7:22:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 7:25:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 7:25:56 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 7:30:22 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 7:34:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 7:38:35 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 7:43:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 7:43:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 7:48:25 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 7:52:26 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 7:57:05 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 8:02:12 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 8:02:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 8:07:14 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 8:11:33 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 8:15:39 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 8:19:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 8:19:25 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 8:23:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 8:27:44 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 8:31:52 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 8:35:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 8:35:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 8:39:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 8:44:19 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 8:47:56 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 8:52:51 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 8:52:57 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 8:57:16 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 9:02:24 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 9:05:55 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 9:09:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 9:09:43 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 9:13:41 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 9:18:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 9:22:58 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 9:26:55 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 9:27:02 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 9:31:14 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 9:35:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 9:40:16 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 9:44:28 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 9:44:35 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 9:49:28 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 9:54:35 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 9:58:43 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 10:02:44 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 10:02:51 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 10:07:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 10:11:13 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 10:15:14 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 10:18:48 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 10:18:55 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 10:22:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 10:26:16 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 10:31:17 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 10:35:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 10:35:21 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 10:40:22 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 10:44:58 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 10:50:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 10:54:53 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 10:55:00 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 10:59:40 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 11:04:11 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 11:08:54 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 11:14:23 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 11:14:29 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 11:19:02 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 11:23:29 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 11:27:51 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 11:31:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 11:31:51 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 11:37:11 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 11:42:10 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 11:46:34 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 11:50:31 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 11:50:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 11:54:33 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 17, 2021 11:58:00 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 18, 2021 12:02:14 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 18, 2021 12:06:37 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 18, 2021 12:06:44 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 18, 2021 12:11:14 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 18, 2021 12:15:09 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 18, 2021 12:19:35 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C

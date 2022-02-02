@@ -1,0 +1,408 @@
+api urls browser going to launched.
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 7682
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+browser launched for api url.
+api url has been hit.
+Trying to get urls.
+last https index is 19076
+
+
+
+Total URL count is 119
+
+
+All urls have been added to list.
+
+0detail page browser going to hit.29
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 22340
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+https://www.ubuy.co.in/product/2FME8WNC-miheal-led-strip-lights-kit-65-6ft20m-5050-smd-rgb-flexible-led-tape-lights-non-waterproof-with-dc24?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTYQ96-womens-handmade-rhinestone-diamond-push-up-bustier-crop-top-punk-corset-bra-vest?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/4RSQWS0-sf-sales-usa-matte-black-grille-letters-for-titan-2016-2019-front-inserts-not-decals?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTYPZO-b09414jld4?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/CGWHBOG-matinrigid-solar-butterfly-wind-chimes-color-changing-solar-wind-chime-outdoor-waterproof-butterfly?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTYPQ6-winnie-the-pooh-blanket-and-air-conditioning-quilt-made-of-anti-pilling-fleece-that-are-soft-to-travel-anywhere-comfortable-adults-and-children?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/3OR223J4K-zefotim-casual-swimsuits-for-womens-swimming-costume-padded-swimsuit-monokini-push-up-bikini-sets-swimwear?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTYPO2-women-tshirts-with-god-all-things-are-possible-t-shirt-faith-sayings-christian-summer-jesus-graphic-tee-top-casual?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTYPM8-lofekea-soap-dish-holder-self-draining-soap-saver-bar-soap-holder-for-shower-ceramic-soap-dish-for-shower-bathroom-kitchen-bamboo?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTYOTG-guitar-cable-20-ft-wdlnk-electric-instrument-cable-amp-cord-right-angel-1-4-to-straight-1-4-inch-ts-blue-braided-guitar-cable-20ft-for-electric?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2DCNVCX8-yizyif-womens-shiny-leather-wet-look-u-neck-stretchy-racerback-metallic-tank-top?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/7KCQPUYO-women-hooded-sweatshirt-dress-long-sleeve-medieval-vintage-lace-up-high-low-cloak-robe?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2FPRTRWU-zuo-bao-spoon-theory-jewelry-chronic-illness-gift-big-little-spoon-keychain-spooning-2nd-couples-gif?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/OVRS4U2-whale-an-ti-fog-frameless-dive-mask-scuba-diving-goggles-waterproof-and-quick-adjustable-snorkeling?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1BEH7CTLE-fnnemge-150psi-air-compressor-tire-inflator-uses-120w-copper-motor-dc-12v-auto-tire-pump-with-led-light-digital-air-pump-for-car-tires-bicycles?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1BDY1TRZQ-clip-on-flip-up-polarized-lens-for-prescription-glasses-anti-glare-glasses-for-driving-or-fishing-fu02-mirror?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTYNUW-bababa-womens-basketball-shoulder-bag-messenger-bag-handbag-mini-round-bag-pu-bag-zipper-closure-suitable-for-women?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1BS8TVWY2-zokrintz-women-basketball-shaped-purse-cross-body-mini-shoulder-messenger-bag-pu-leather-round-handbag-for-girls?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2BI549TY-1800nycbagels-fresh-new-york-bagel-assortment-18-pack-6-pumpernickel-6-plain-6-cinnamon-raisin?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/23C65B78-life-data-labs-farriers-formula-original-44-lb?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/S5VEY5NO-qiilu-red-30-degree-push-pin-remover-tool-pliers-fit-for-retainer-anchor-removal-push-pin-tool?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTYNSS-vallejo-airbrush-thinner-model?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/3OS37JQ1U-komclub-tent-poles-78-inch-stainless-steel-adjustable-lightweight-tarp-poles-camping-poles-tent-stakes-plastic-hammer-kit-set-for-tent-tarp?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTYNJA-benecreat-6-rolls-mixed-jewelry-aluminum-wire18-gauge-75-feetroll-bendable-metal-wire-for-jewelry-beading-sculpture-craft-regular-color?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2QENV0BW-a-premium-power-window-regulator-without-motor-for-bmw-e65-e66-745i-745li-750i-750li-760i-760li-2002?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/XSRO71EG-oem-kubota-fuel-lift-pump-with-gasket-for-d905-d1105-d1305-v1305-v1505?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/SXM71UA-commercial-dual-churro-maker-16pcs-waffle-maker-electric-waffle-irons-baker-machine-electric-oven-w?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1AFEFSFY8-keyunity-ku03-titanium-edc-6-in-1-multi-tool-quick-release-carabiner-keychain-holder-screw-bit-driver-slotted-screwdriver-bottle-opener-pry?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1CHUPR4JS-bamboo-green-plantain-smasher-platanos-tostonera-tostones-rellenos-stuffed-plantain?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/JXII9G72-skylety-29-pieces-miniatures-dollhouse-books-timeless-miniatures-books-mini-books-notebook-model-dol?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+30
+max limit29
+30detail page browser going to hit.59
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 29126
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+https://www.ubuy.co.in/product/1AH46ZVDE-smart-print-supplies-compatible-mlt-d304l-black-high-yield-toner-cartridge-replacement-for-samsung-m4530nd-m4530nx-printers-20-000-pages-2-pack?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTYJHC-b08rs7v6t1?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTYJ9Y-3-ply-face-masks-with-extender-disposable-face-masks-with-straps-for-relieving-ears-pressure-amp-pain?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/ERL4XFXS-cambridge-select-womens-retro-70s-crisscross-strappy-chunky-platform-wedge-sandal?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/RH4DF6ZA-lby-50-sets-panel-connector-set-3-in-1-furniture-connecting-fitting-m6x18mm-dowel-screws-m6-pre-inse?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTYIW8-b08cdn7834?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTYIUE-speedy-pros-pom-pom-beanies-for-women-field-hockey-sport-a-embroidery-acrylic-skull-cap?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/QO9U296-nanw-2-pack-charger-dock-compatible-with-fitbit-sense-versa-3-usb-charging-cable-replacement-stand-b?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/239MET3A-twenty-five-buildings-every-architect-should-understand-a-revised-and-expanded-edition-of-twenty-bui?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/DRUOU64-boar-bristle-hair-brush-set-for-thick-and-normal-hair-hand-polished-natural-wood-handle-for-a-refine?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2C6PM57I-apdty-136876-wheel-hub-bearing-pre-pressed-assembly-fits-2-wheel-drive-front-left-or-right-2003-2016?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2CRPMJNK-mercedes-benz-w212-e-class-trunk-lid-emblem-star-e350-e500-e550-e63-amg-genuine?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTYIB4-90-degree-iphone-charger-cable-10ft-3-pack-right-angle-lightning-cable-with-blue-led-light-fast-charging-iphone-cable-nylon-braided-cord-compatible?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTYHQ0-2-pack-set-baby-boy-and-toddler-canvas-jogger-pants-clothes-for-toddler-and-kids?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTYHM2-coco-reef-womens-side-shirred-bikini-bottom-swimsuit?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTYHEO-aottom-compatible-for-apple-watch-bands-38mm-ceramic-iwatch-series-4-band-40mm-stainless-steel-smart-watch-replacement-band-butterfly-buckle-women-men?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTYHCK-rev9-ick-072-intercooler-upgrade-kit-direct-bolt-on-replacement-compatible-with-honda-civic-fcfk-1-5l-turbo-2016-21?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1B23Z48DW-cd-premium-24-oscillating-wall-mount-fan-tefc-motor-9-400-cfm-1-2-hp?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTYHAG-swomog-womens-pajamas-set-short-sleeves-top-with-capri-pants-cute-printed-pjs-sets-sleepwear?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/97RWBQTC-disco-cake-hologram-set-12-colors-5-grams-each-container-for-cakes-cupcakes-fondant-decorating-cake?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/LKCH0WLG-toyota-12363-0p020-engine-moving-control-rod?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1IM0C4SDK-agvee-digital-usb-c-earbuds-type-c-headphones-earphones-with-microphone-mic-in-ear-wired-volume-remote-control-super-bass-for-samsung-s21-s20-note?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTXBPO-b09835mmhr?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2EPKYUZ2-allbrand-universal-fit-frontrear-4-piece-full-set-crystal-bling-sequins-studded-carpet-car-suv-truck?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/H9FB032-fairy-girl-glow-in-the-dark-wall-stickers-benbo-stars-pvc-vinyl-luminous-wall-decals-diy-wall-sticke?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTXBNK-camplux-low-pressure-propane-lpg-tanks-gas-regulator-kit-with-5-feet-qcc1-hose-csa-certificated-max-80-000-btu-38-quot-female-flare-nut?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2P6HO8PS-dekopia-solar-wind-chimes-8-hummingbird-outdoor-decor-color-changing-light-sensor-solar-power-eco-fr?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTXBE2-peddney-drawstring-tankini-swimsuit-for-women-two-pieces-swimwear-tank-top-with-bikini-bottom-plus-size-bathing-suit?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/8WQPQ0R0-eag-off-road-front-bumper-with-fog-light-housing-fit-for-07-18-wrangler-jk?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTXAHC-lands-end-mens-traditional-fit-performance-polo?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+60
+java.lang.IndexOutOfBoundsException: Index 31 out of bounds for length 31
+Max limit exception catched.
+60detail page browser going to hit.89
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 27977
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+https://www.ubuy.co.in/product/40QMTXAFI-geoffrey-beene-mens-stainless-steel-franco-chain-bracelet-with-magnetic-clasp?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTXA60-23-6-quot-x-118-quot-wood-grain-peel-and-stick-wallpaper-xcmosa-vinyl-self-adhesive-thicken-removable-contact-paper-waterproof?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/3UJ7MC53C-carfia-polarized-sunglasses-for-women-uv-protection-ultra-lightweight-frame-sport-outdoor-sunnies?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1A575X8VS-pure-nickel-strip-0-15x8mm-spot-welder-nickel-tap-for-18650-cell-bettery-spot-welding?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTXA3W-aheli-lotus-design-dangle-jhumki-jhumka-earrings-indian-traditional-fashion-jewelry-for-women?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTX6RA-utopiat-audrey-inspired-gift-boxed-sleep-shirt-eye-mask-amp-earplugs-set-for-women?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/3N34QU744-70s-super-oversize-square-sunglasses-for-women-vintage-rectangular-plastic-frame?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTX666-swomog-women-pajamas-set-short-sleeve-sleepwear-v-neck-top-with-capri-pant-printed-pjs-soft-loungewear-set?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/4BX4D14-safe-chrome-door-handle-cover-molding-9pcs-for-2017-2020-hyundai-kona?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1GBORCO3C-muro-d-x27-arte-travis-scott-wish-you-were-here-album-cover-poster-12-x-16-inch?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTX5UK-pinsv-womens-2-piece-outfits-summer-lounge-wear-bodycon-workout-sets?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1PQW07OGW-weekino-india-marine-drive-mumbai-fridge-magnet-3d-crystal-glass-tourist-city-travel-souvenir-collection-gift-strong-refrigerator-sticker?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1QE8YPX8-bissell-pet-hand-vac-multi-level-filter-97d5-2-filters?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/NN7I7CM-qulimetal-41862-grill-burner-for-weber-q200-q220-q2000-q2200-396000-396001-396002-566002-53060001-54?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/CI6E324-women-39-s-underwear-moisture-wicking-coolblend-panties?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/9YAIMW-knitter-39-s-pride-karbonz-straight-needle-set-10?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/DHE02T7E-elegant-55-computer-desk-with-bookshelf-metal-office-desk-home-office-desk-with-storage-bookshelf-co?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1PIOM9I8Q-shiatsu-neck-and-back-massager-with-soothing-heat-nekteck-electric-deep-tissue-3d-kneading-massage-pillow-for-shoulder-leg-body-muscle-pain-relief?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/23F2Q0L0-vwindesk-lj301-3-leg-l-shaped-electric-height-adjustable-standing-corner-desk-frame-only-w-triple-mo?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1CD7JGBMS-science-lizard-tad-cooper-fan-t-shirt?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2DUQARJE-dtol-play-game-controller-charger-charging-cable-handle-connector-for-sony-playstation-3ps-moveps3ps?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTX4AW-reveresport-compatible-iphone-12-pro-max-running-armband-phone-arm-holder-for-sports-gym-workouts-and-exercise?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/3N35WJDSS-electric-cleaner-head-compatible-with-dyson-v7-v8-v10-v11-stick-vacuum-sweeping-machine-wet-and-dry-dual-use-suction-headadaptation-cordless-vacuum?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/229SSWZ8-car-speedometer-heartbeat-design-gift-for-car-guys-salesman-t-shirt?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2O3EYI94-aurorae-yoga-multi-purpose-backpack-model-2-0-mat-sold-separately?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTX414-starter-mens-pullover-logo-hoodie?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTX3ZA-womens-demon-slayer-3-piece-bikini-set-shinobu-swimsuit-with-sarongs-cover-ups?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/5ID6Q6K-hayskill-308054013-carburetor-c1u-h60-for-ryobi-homelite-s430-ss26-ss30-cs26-cs30-tp26-ry28021-ry280?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/40QMTVAWG-topadorn-wind-chimes-27-quot-garden-chimes-with-12-aluminum-alloy-tubes-wind-bell-with-with-s-hook-for-your-garden-and-patio?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1AGZIXO6W-smart-pot-soft-sided-fabric-garden-plant-container-aeration-planter-pots-tan-with-cut-handles-3-gallon-5-pack?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+90
+java.lang.IndexOutOfBoundsException: Index 31 out of bounds for length 31
+Max limit exception catched.
+90detail page browser going to hit.119
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 41254
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+https://www.ubuy.co.in/product/2RLFX1XE-haimimall-music-theme-happy-birthday-banner-tiktok-birthday-banner-tiktok-birthday-decorations-for-m?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1GB2HNTQ0-black-nylon-support-sling-bed-restraints-for-couples-se-x-restraintants-for-women-legs-bondageromance-restraint?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1MSYH8OK-ducktales-disney-flintheart-glomgold-5-action-figure?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1MYGC5CU-mbqq-furniture-legs-28-height-17-7-wide-rustic-decory-inverted-l-shape-table-legs-heavy-duty-metal-d?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/D7YE9BH2-trasparenze-women-x27-s-1-pair-claudia-fully-seamless-tights-medium-cosmetic?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/244JGA28-jewelry-sterling-silver-monkey-stud-earrings?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/3VU82NQNC-sperry-top-sider-men-s-a-o-2-eye-daytona-boat-shoe-black-grey-7-medium-us?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/BZ25VKO-simon-electronic-memory-game?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1WVGOCO-elf-on-the-shelf-scout-elves-at-play-paper-crafts?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1PQSJ1SPK-air-wick-scented-oil-air-freshener-virgin-islands-twin-refills-0-67oz-pack-of-12?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1R0IVDIE-trader-joe-x27-s-chocolate-coconut-almonds?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2C49P7B6-blupond-sunglasses-holder-for-car-universal-sun-visor-double-clip-organizer-2-pack?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1BGFDM4NO-aloha-streamer-party-accessory-1-count-1-pkg?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2ABX2QTG-elihair-night-sleep-satin-cap-for-women-girls-natural-hair-extra-large-satin-bonnet-cover-double-sid?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2ABX2QTG-elihair-night-sleep-satin-cap-for-women-girls-natural-hair-extra-large-satin-bonnet-cover-double-sid?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1CECEC11S-hrouen-2-pack-baby-proofing-edge-corner-guards-6-5ft-multifunctional-child-safety-furniture-wide-bumper-table-sharp-edges-protector-beige?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1PRBUK7QY-outdoor-planet-12-24pack-all-time-favorites-dry-fly-wet-fly-and-nymph-fly-lure-assotment-for-trout-fly-fishing?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1HADKAQ8Q-maxax-industrial-rustic-farmhouse-wagon-wheel-chandelier-12-lights-large-chandelier-round-kitchen-island-light-for-living-room-dining-room-farmhouse?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1PT28DV0-handmade-banded-black-onyx-moonstone-black-tourmaline-and-healing-bracelet-7-inches?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/3MO87TGHU-zeedix-3-pack-14-inch-hanging-basket-coco-liners-replacement-100-natural-round-coconut-coco-fiber-planter-basket-liners-for-hanging-basket?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/3U0CDBI80-toyota-90910-12233-vacuum-switching-valve-assembly?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/114ZRIF4-design-for-motion-fundamentals-and-techniques-of-motion-design?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2F5IIUEY-spot-dog-denise-milani-lingerie-24x36-poster-sdg-sdg334188?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2EH0AJTU-kenra-color-creative-magenta-2-05-oz?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/1BBCWCY0-mitsubishi-mr-j2s-40b-3-phase-servo-amplifier-2-6-amp-50-60-hz-discontinued-by-manufacturer-200-230?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/QLIF792E-clinell-universal-sanitising-wipes?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/Y0AMWMCG-square-frame-metal-die-cuts-christmas-frame-flower-cutting-dies-cut-stencils-for-diy-scrapbooking-al?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/2C3DSJ4O-astaire-amp-rogers-collection-vol-1-top-hat-swing-time-follow-the-fleet-shall-we-dance-the-barkleys?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+https://www.ubuy.co.in/product/20E9AF4G-93-mazda-rx-7-outside-door-handles-steel-left-right-ls-rs-set-rx7-fd3s-turbo?utm_source=ubuy_gogsc
+New tab opened.
+moved to new tab.
+Exception catched.
+java.lang.IndexOutOfBoundsException: Index 119 out of bounds for length 119
+119
+java.lang.IndexOutOfBoundsException: Index 30 out of bounds for length 30
+Max limit exception catched.
+Loop is completed and mail is going to sent.
