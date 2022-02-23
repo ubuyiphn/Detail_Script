@@ -6,18 +6,17 @@ import java.io.IOException;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
-
-import Ubuy.Save_Price_Of_API_URL.Browser;
+import org.openqa.selenium.WebDriver;
 
 public class Screenshot 
 { 
 	public static String screenshotpath;
 
-	public static void takescreenshot() throws IOException
+	public static void takescreenshot(WebDriver driver) throws IOException
     {
 		screenshotpath = System.getProperty("user.dir")+"/error/img.png";
 		
-		TakesScreenshot scrnshot = ((TakesScreenshot)Browser.driver);
+		TakesScreenshot scrnshot = ((TakesScreenshot) driver);
     
     	File SrcFile = scrnshot.getScreenshotAs(OutputType.FILE);
     	
